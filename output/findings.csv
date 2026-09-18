@@ -1,0 +1,21 @@
+area,finding,count,of,share
+CRM,deals parked in the entry stage,346,508,68%
+CRM,deals nobody has touched for 30+ days,417,508,82%
+CRM,median days since anyone touched a deal,79,,
+CRM,deals on a POS we cannot integrate with,128,508,25%
+CRM,deals with no POS recorded anywhere,159,508,31%
+CRM,restaurants carrying more than one deal,38,470,8%
+CRM,restaurants whose deals sit with two or more owners,25,470,5%
+calling,calls to venues the full-service filter had already rejected,460,1880,24%
+calling,calls placed after that restaurant's POS was already validated,275,1880,15%
+calling,"avoidable calls, counting each call once",655,1880,35%
+calling,calls spent on restaurants nobody ever reached,269,1880,14%
+stale rules,targets found by trusting the scrape's cached column,138,407,34%
+stale rules,targets found by recomputing from config/rules.yml,407,407,100%
+stale rules,restaurants a rep wrote off that run an eligible POS,7,,
+stale rules,"of those, running Cadence, eligible since 2026-06-22",4,7,57%
+constraint,qualified targets available today,404,404,100%
+constraint,"of those, never entered the CRM",210,404,52%
+constraint,"of those, owned by a rep but idle 30+ days",155,404,38%
+constraint,restaurants still unresearched,689,,
+constraint,further targets research would likely find,399,,

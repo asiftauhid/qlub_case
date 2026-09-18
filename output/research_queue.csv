@@ -1,0 +1,690 @@
+restaurant_id,lane,already_reached,name,phone,area,address,cuisine,chain_size,rating,review_count,status,website
+5555517565,desk,False,Sixpence Trattoria,(555) 551-7565,Sunfield,1177 N Bayard St,Seafood,large,4.9,2359,open deal,https://www.sixpencetrattoria.example
+5556112831,desk,False,Harrow Smokehouse Verano Bay,(555) 611-2831,Quarry End,1115 North Tarrow Avenue,Thai,SME,4.5,2307,never in CRM,https://www.harrowsmokehouse.example
+5559319919,desk,False,Cardinal Trattoria,(555) 931-9919,Miradero,"2469 S Rivermead St, Verano Bay",Greek,SME,4.6,2294,open deal,https://www.cardinaltrattoria.example
+5557988603,desk,False,Marrow Room - Alder Heights,(555) 798-8603,Templeton,3777 North Tarrow St,Contemporary,SME,3.97,2265,never in CRM,https://www.marrowroom.example
+5552019667,desk,True,Nine Bridges Osteria,(555) 201-9667,Bayview Flats,1421 North Quinton Rd,Indian,SME,4.37,2257,open deal,https://www.ninebridgesosteria.example
+5551169646,desk,False,Little Bear Cantina - Cedar Cross,(555) 116-9646,Lantern Hill,4759 West Quinton Street,Thai,SME,4.87,2256,never in CRM,https://www.littlebearcantina.example
+5552616316,desk,False,Prairie Supper Club,(555) 261-6316,Old Mill,4755 E Tarrow Rd,Greek,SME,4.9,2248,never in CRM,https://www.prairiesupperclub.example
+5553089172,desk,True,Thicket Cantina - Corvo Heights,(555) 308-9172,Ashgrove,1046 E Wexley St,Japanese,SME,4.05,2239,never in CRM,https://www.thicketcantina.example
+5552854236,desk,False,Plumb Brasserie,(555) 285-4236,Templeton,6567 E Rivermead Rd,Ethiopian,SME,3.45,2231,never in CRM,https://www.plumbbrasserie.example
+5554456886,call,False,Rosewater Kitchen,(555) 445-6886,Old Mill,7432 North Ashfield Rd,Mediterranean,SME,4.42,2216,never in CRM,
+5554813966,desk,False,Inkwell Bistro,(555) 481-3966,Bayview Flats,2317 S Tarrow Ave,Greek,SME,4.4,2215,never in CRM,https://www.inkwellbistro.example
+5555334184,desk,False,Little Bear Grill,(555) 533-4184,Greenhithe,7609 N Vance Rd,Thai,SME,3.75,2209,never in CRM,https://www.littlebeargrill.example
+5557987288,desk,True,Fernwood Smokehouse,(555) 798-7288,Rivera District,1390 N Wexley Blvd,Japanese,SME,4.8,2192,never in CRM,https://www.fernwoodsmokehouse.example
+5557529445,desk,False,Cardinal Steakhouse - Palisade Park,(555) 752-9445,Rivera District,7389 West Rivermead Ave,Indian,SME,3.55,2182,never in CRM,https://www.cardinalsteakhouse.example
+5557751777,call,False,Zephyr Room,(555) 775-1777,Miradero,3652 E Cortez Ave,French,SME,3.3,2170,never in CRM,
+5552757214,desk,False,Violet Supper Club,(555) 275-7214,Rivera District,4046 W Calder Rd,Seafood,SME,4.8,2162,open deal,https://www.violetsupperclub.example
+5552316037,desk,True,Tallgrass Tavern,(555) 231-6037,Rivera District,6904 N Serra Ave,Thai,SME,4.7,2152,never in CRM,https://www.tallgrasstavern.example
+5557652605,visit,False,BASIL & BONE WINE BAR,(555) 765-2605,Ashgrove,"7312 E Tarrow Blvd, Verano Bay",Spanish,SME,4.6,2144,never in CRM,
+5553983938,call,False,Bramble Supper Club - Quarry End,(555) 398-3938,Windrow,1985 S Quinton Blvd,Thai,SME,3.6,2140,never in CRM,
+5556720014,call,False,Nightjar Table Restaurant,(555) 672-0014,Lantern Hill,"5948 W Lindmere Ave, Verano Bay",French,SME,3.6,2139,never in CRM,
+5559390609,desk,True,Sixpence Supper Club - Stillwater,(555) 939-0609,Harbor Point,1620 W Tarrow Avenue,Greek,SME,4.42,2134,never in CRM,https://www.sixpencesupperclub.example
+5553967759,desk,True,Tidewater Osteria,(555) 396-7759,Cedar Cross,1183 N Serra Ave,Contemporary,SME,4.17,2131,never in CRM,https://www.tidewaterosteria.example
+5554359184,desk,True,Redbird Steakhouse,(555) 435-9184,Palisade Park,2884 W Cortez Street,Ethiopian,SME,3.5,2129,open deal,https://www.redbirdsteakhouse.example
+5556198427,desk,False,Wren Osteria Verano Bay,(555) 619-8427,Stillwater,3451 North Fennimore Street,Thai,SME,3.9,2118,open deal,https://www.wrenosteria.example
+5556908109,call,False,Thistle Grill,(555) 690-8109,Stillwater,4746 W Mallow Rd,Polish,SME,4.17,2117,never in CRM,
+5559054701,desk,False,Redbird House,(555) 905-4701,Old Mill,3159 E Serra Blvd,Thai,SME,4.78,2116,open deal,https://www.redbirdhouse.example
+5555879634,call,False,Wren Supper Club,(555) 587-9634,Harbor Point,2741 E Ashfield Rd,Thai,SME,3.8,2108,never in CRM,
+5556491573,desk,False,Rookery Room,(555) 649-1573,Corvo Heights,5852 E Calder St,Vietnamese,SME,3.75,2103,never in CRM,https://www.rookeryroom.example
+5552444066,desk,False,Tallgrass Chophouse,(555) 244-4066,Templeton,3523 S Wexley St,Indian,SME,3.25,2100,never in CRM,https://www.tallgrasschophouse.example
+5558281820,desk,True,Umber Dining Room - Sablewood,(555) 828-1820,Lantern Hill,1844 E Lindmere Boulevard,Italian,SME,4.12,2096,never in CRM,https://www.umberdiningroom.example
+5551345056,desk,False,Driftwood Grill,(555) 134-5056,Ashgrove,3427 S Calder Ave,Greek,SME,3.7,2084,never in CRM,https://www.driftwoodgrill.example
+5556322272,call,False,Larkspur Wine Bar,(555) 632-2272,Fox Hollow,521 N Ashfield Ave,Contemporary,SME,4.65,2080,never in CRM,
+5554297633,desk,False,Magpie Supper Club,(555) 429-7633,Harbor Point,4462 E Ashfield Ave,Spanish,SME,4.1,2072,open deal,https://www.magpiesupperclub.example
+5557122835,desk,True,Motherland Alehouse,(555) 712-2835,Calder Park,819 W Halloway Blvd,Seafood,SME,3.8,2064,never in CRM,https://www.motherlandalehouse.example
+5551616799,desk,False,Cobalt Dining Room,(555) 161-6799,Cedar Cross,307 S Cortez Ave,Mexican,SME,4.1,2063,never in CRM,https://www.cobaltdiningroom.example
+5558318095,call,False,The Vesper Oyster Bar,(555) 831-8095,Harbor Point,6032 W Quinton Road,Seafood,SME,4.33,2057,never in CRM,
+5557543479,call,False,Motherland Taqueria,(555) 754-3479,Calder Park,4793 W Prospect St,Barbecue,SME,4.3,2051,customer,
+5551280232,visit,False,Halcyon Osteria,(555) 128-0232,Greenhithe,1978 E Serra Ave,Steakhouse,SME,3.3,2049,written off,
+5558690897,desk,False,Larkspur Dining Room Verano Bay,(555) 869-0897,Greenhithe,3899 W Prospect St,Italian,SME,3.9,2047,never in CRM,https://www.larkspurdiningroom.example
+5552366045,desk,False,Tin Roof Bistro,(555) 236-6045,Old Mill,6518 S Vance Rd,Greek,SME,4.9,2037,never in CRM,https://www.tinroofbistro.example
+5553037331,call,False,Sparrow House - Quarry End,(555) 303-7331,Rivera District,2907 W Ashfield Rd,Indian,SME,3.87,2030,open deal,
+5552898870,desk,True,Alder Trattoria,(555) 289-8870,Cedar Cross,6511 N Cortez Rd,Mediterranean,large,3.95,2022,open deal,https://www.aldertrattoria.example
+5559433282,desk,False,Bramble Oyster Bar,(555) 943-3282,Sablewood,3231 S Halloway St,Ethiopian,SME,4.17,2012,never in CRM,https://www.brambleoysterbar.example
+5554802708,desk,False,Rosewater Cantina - Harbor Point,(555) 480-2708,Stillwater,"247 N Bayard Blvd, Verano Bay",Peruvian,SME,3.45,1990,never in CRM,https://www.rosewatercantina.example
+5552642308,desk,False,Larkspur Grill,(555) 264-2308,Rivera District,3928 W Bayard Street,Barbecue,SME,3.7,1983,never in CRM,https://www.larkspurgrill.example
+5557885534,desk,False,The Basil & Bone Tavern,(555) 788-5534,Cedar Cross,1955 S Quinton Avenue,Steakhouse,SME,3.9,1982,never in CRM,https://www.basilbonetavern.example
+5551438322,desk,False,Magpie Oyster Bar,(555) 143-8322,Greenhithe,4255 W Halloway Ave,Peruvian,SME,3.4,1979,never in CRM,https://www.magpieoysterbar.example
+5554910641,call,False,Marrow Smokehouse - Ferrymead,(555) 491-0641,Kingsway,1679 North Halloway Avenue,Indian,SME,3.47,1970,never in CRM,
+5556372778,call,False,Palisade Dining Room Verano Bay,(555) 637-2778,Quarry End,879 West Bayard Avenue,Mediterranean,SME,4.43,1966,never in CRM,
+5552638572,desk,True,Blue Heron Grill,(555) 263-8572,Stillwater,6221 N Wexley St,Greek,SME,4.3,1966,never in CRM,https://www.blueherongrill.example
+5555693834,desk,False,Hearth Osteria,(555) 569-3834,Quarry End,5393 S Lindmere St,Spanish,SME,3.8,1960,never in CRM,https://www.hearthosteria.example
+5551331612,desk,False,Harrow Alehouse,(555) 133-1612,Ashgrove,2152 W Calder Ave,Thai,SME,4.7,1960,never in CRM,https://www.harrowalehouse.example
+5558429338,desk,True,Heron Steakhouse,(555) 842-9338,Alder Heights,3177 W Bayard Blvd,Spanish,SME,3.7,1957,never in CRM,https://www.heronsteakhouse.example
+5553235042,desk,False,Sorrel Steakhouse,(555) 323-5042,Corvo Heights,7291 S Fennimore Ave,Thai,mid-cap,4.25,1950,open deal,https://www.sorrelsteakhouse.example
+5559603193,desk,True,Bramble Taqueria,(555) 960-3193,Rivera District,2021 E Calder Blvd,Mexican,SME,3.55,1946,never in CRM,https://www.brambletaqueria.example
+5553218989,desk,False,Palisade Table,(555) 321-8989,Cedar Cross,1880 E Prospect Blvd,Peruvian,SME,4.5,1943,open deal,https://www.palisadetable.example
+5554955745,desk,False,Halcyon Wine Bar,(555) 495-5745,Marisol,4528 S Rivermead Blvd,Italian,SME,4.4,1938,open deal,https://www.halcyonwinebar.example
+5551168603,desk,True,Umber Alehouse,(555) 116-8603,Stillwater,6999 W Calder Blvd,Mexican,SME,3.4,1936,open deal,https://www.umberalehouse.example
+5557677285,call,False,Olive & Ash Supper Club,(555) 767-7285,Marisol,5870 S Rivermead Rd,Contemporary,SME,3.8,1907,open deal,
+5551105140,desk,False,Kettle Taqueria,(555) 110-5140,Cedar Cross,4114 S Rivermead Ave,Peruvian,SME,4.2,1901,never in CRM,https://www.kettletaqueria.example
+5558742493,desk,False,Cobalt Table,(555) 874-2493,Ferrymead,2325 E Tarrow Ave,Korean,SME,4.05,1897,never in CRM,https://www.cobalttable.example
+5552791211,desk,False,Fernwood Dining Room Verano Bay,(555) 279-1211,Ashgrove,3929 E Serra Street,Thai,SME,3.95,1884,never in CRM,https://www.fernwooddiningroom.example
+5551059707,call,False,Quill Trattoria,(555) 105-9707,Lantern Hill,7421 E Lindmere Blvd,Vietnamese,SME,4.9,1878,never in CRM,
+5556050807,desk,False,The Oxbow Grill,(555) 605-0807,Greenhithe,1480 E Quinton Boulevard,Greek,large,4.5,1870,open deal,https://www.oxbowgrill.example
+5557546610,desk,False,Inkwell Table,(555) 754-6610,Sunfield,7846 W Fennimore Blvd,Mexican,SME,4.1,1870,never in CRM,https://www.inkwelltable.example
+5558179631,desk,False,Foxglove Trattoria - Palisade Park,(555) 817-9631,Ashgrove,5281 North Cortez St,Barbecue,SME,3.5,1870,never in CRM,https://www.foxglovetrattoria.example
+5552851379,call,False,Marigold Table,(555) 285-1379,Bayview Flats,5917 E Fennimore Blvd,Seafood,SME,3.9,1868,never in CRM,
+5553273749,desk,False,Magpie Room,(555) 327-3749,Cedar Cross,5955 W Quinton Rd,Thai,SME,4.4,1867,never in CRM,https://www.magpieroom.example
+5559826948,desk,True,Silverfin Supper Club,(555) 982-6948,Ferrymead,5066 W Prospect St,Seafood,SME,3.7,1848,never in CRM,https://www.silverfinsupperclub.example
+5557448043,desk,False,Basil & Bone Chophouse - Quarry End,(555) 744-8043,Stillwater,5706 S Cortez Ave,Steakhouse,SME,3.95,1841,never in CRM,https://www.basilbonechophouse.example
+5554467597,desk,True,Sable Bistro,(555) 446-7597,Templeton,2181 N Mallow Street,Seafood,SME,4.53,1840,open deal,https://www.sablebistro.example
+5555903517,call,False,Silverfin Tavern,(555) 590-3517,Kingsway,897 S Mallow Blvd,Ethiopian,SME,4.6,1831,open deal,
+5551448502,desk,False,Yarrow Chophouse,(555) 144-8502,Calder Park,1666 N Ashfield Rd,Thai,SME,4.37,1831,never in CRM,https://www.yarrowchophouse.example
+5559705657,desk,False,Inkwell House,(555) 970-5657,Cedar Cross,7119 S Vance St,French,SME,4.03,1827,never in CRM,https://www.inkwellhouse.example
+5558908755,desk,False,The Ember Kitchen,(555) 890-8755,Stillwater,339 East Lindmere Rd,Italian,SME,4.33,1824,never in CRM,https://www.emberkitchen.example
+5556544187,desk,True,Saffron Cantina,(555) 654-4187,Miradero,7522 E Prospect Blvd,Vietnamese,SME,3.55,1806,written off,https://www.saffroncantina.example
+5559500363,call,True,Harrow Grill Restaurant,(555) 950-0363,Quarry End,7677 S Prospect Street,Indian,SME,4.6,1805,never in CRM,
+5559947798,desk,False,Fernwood Wine Bar,(555) 994-7798,Kingsway,1001 W Lindmere Rd,French,SME,4.15,1779,open deal,https://www.fernwoodwinebar.example
+5559383686,desk,False,VIOLET ROOM,(555) 938-3686,Rivera District,6942 N Wexley Rd,Mexican,SME,4.15,1776,never in CRM,https://www.violetroom.example
+5552351065,visit,False,Nightjar Taqueria,(555) 235-1065,Bramble Row,367 E Rivermead St,Steakhouse,SME,3.5,1766,never in CRM,
+5558385577,desk,False,Persimmon Grill,(555) 838-5577,Bramble Row,6742 N Prospect Blvd,Italian,large,4.2,1765,written off,https://www.persimmongrill.example
+5553207694,visit,False,Motherland Osteria,(555) 320-7694,Miradero,7904 East Halloway Avenue,Indian,SME,3.35,1756,never in CRM,
+5554637007,call,False,Saffron Dining Room,(555) 463-7007,Quarry End,5545 E Halloway Rd,Barbecue,SME,4.7,1755,never in CRM,
+5556068031,desk,False,Persimmon Smokehouse,(555) 606-8031,Windrow,1560 N Vance St,Greek,SME,3.6,1755,never in CRM,https://www.persimmonsmokehouse.example
+5558140250,desk,True,Silverfin Steakhouse,(555) 814-0250,Ashgrove,4082 W Quinton Blvd,Italian,SME,4.4,1750,never in CRM,https://www.silverfinsteakhouse.example
+5558964603,desk,True,Dovetail Room,(555) 896-4603,Old Mill,4262 W Lindmere Rd,Steakhouse,SME,3.85,1750,never in CRM,https://www.dovetailroom.example
+5556694701,visit,False,Violet Taqueria,(555) 669-4701,Ferrymead,3048 W Bayard Ave,Ethiopian,SME,4.83,1746,never in CRM,
+5558918769,desk,False,Rambler Alehouse,(555) 891-8769,Harbor Point,103 N Halloway St,Thai,SME,4.7,1744,never in CRM,https://www.rambleralehouse.example
+5554220907,desk,False,MAGPIE TABLE,(555) 422-0907,Fox Hollow,3663 W Lindmere Street,Polish,SME,3.75,1737,never in CRM,https://www.magpietable.example
+5554703862,desk,False,Marrow Bistro,(555) 470-3862,Greenhithe,6425 E Ashfield Ave,Spanish,SME,3.3,1735,never in CRM,https://www.marrowbistro.example
+5553453864,desk,False,Ironwood Cantina Restaurant,(555) 345-3864,Sunfield,3881 E Cortez Street,Polish,large,4.05,1733,open deal,https://www.ironwoodcantina.example
+5553574192,desk,False,Verde Oyster Bar - Rivera District,(555) 357-4192,Bramble Row,273 West Quinton Boulevard,Polish,SME,4.07,1732,never in CRM,https://www.verdeoysterbar.example
+5552998422,desk,False,Amber Tavern,(555) 299-8422,Old Mill,521 N Bayard Ave,Korean,SME,3.8,1730,never in CRM,https://www.ambertavern.example
+5556255703,call,False,Basil & Bone Cantina,(555) 625-5703,Palisade Park,6835 S Halloway Rd,Thai,SME,4.1,1729,never in CRM,
+5556939976,desk,False,Kinship Alehouse,(555) 693-9976,Corvo Heights,6370 S Rivermead St,Barbecue,SME,4.9,1727,open deal,https://www.kinshipalehouse.example
+5559110221,desk,False,Wren Bistro,(555) 911-0221,Quarry End,182 N Cortez Ave,Italian,SME,4.5,1726,never in CRM,https://www.wrenbistro.example
+5552574322,desk,False,Nightjar Tavern,(555) 257-4322,Greenhithe,"7850 E Vance Ave, Verano Bay",Greek,SME,3.75,1721,never in CRM,https://www.nightjartavern.example
+5555448604,visit,False,Mercado Supper Club,(555) 544-8604,Sunfield,6388 S Fennimore Blvd,Greek,SME,4.6,1713,never in CRM,
+5551733454,call,True,Magpie Chophouse Restaurant,(555) 173-3454,Calder Park,5269 S Bayard Road,Italian,SME,4.15,1704,never in CRM,
+5551099297,desk,False,Marrow Grill,(555) 109-9297,Kingsway,4829 E Quinton Ave,Peruvian,SME,4.5,1703,never in CRM,https://www.marrowgrill.example
+5556156469,desk,False,Gallow Wine Bar,(555) 615-6469,Windrow,5935 S Serra St,Ethiopian,SME,4.2,1701,never in CRM,https://www.gallowwinebar.example
+5553340549,desk,False,Sixpence Grill,(555) 334-0549,Rivera District,285 S Halloway Ave,Spanish,SME,4.4,1698,never in CRM,https://www.sixpencegrill.example
+5557178453,desk,True,The Basil & Bone Oyster Bar,(555) 717-8453,Sunfield,7530 E Wexley Ave,Greek,SME,4.35,1698,never in CRM,https://www.basilboneoysterbar.example
+5553642088,desk,False,Tin Roof Osteria,(555) 364-2088,Harbor Point,7482 W Tarrow Rd,Mexican,SME,4.1,1695,never in CRM,https://www.tinroofosteria.example
+5551625446,desk,False,Orchard Chophouse,(555) 162-5446,Fox Hollow,5527 W Ashfield Ave,Spanish,SME,4.15,1694,never in CRM,https://www.orchardchophouse.example
+5552955334,desk,False,Foxtail Taqueria,(555) 295-5334,Templeton,5687 S Rivermead Rd,Steakhouse,SME,3.7,1691,never in CRM,https://www.foxtailtaqueria.example
+5555237636,desk,True,WARBLER OSTERIA,(555) 523-7636,Sablewood,2685 West Mallow Avenue,Spanish,SME,4.27,1690,never in CRM,https://www.warblerosteria.example
+5551459750,desk,False,Driftwood House,(555) 145-9750,Old Mill,4763 E Serra Rd,Peruvian,SME,4.4,1685,open deal,https://www.driftwoodhouse.example
+5557046305,visit,False,Golden Hour Bistro,(555) 704-6305,Stillwater,3160 S Ashfield Ave,Indian,SME,3.5,1681,never in CRM,
+5556858158,desk,True,Nettle Cantina Verano Bay,(555) 685-8158,Windrow,3653 West Cortez Street,Korean,SME,4.05,1680,never in CRM,https://www.nettlecantina.example
+5554924989,desk,True,NINE BRIDGES TAVERN,(555) 492-4989,Fox Hollow,6278 North Fennimore Road,Steakhouse,SME,3.75,1678,open deal,https://www.ninebridgestavern.example
+5556007918,desk,False,Marigold House,(555) 600-7918,Sunfield,5776 N Calder Ave,Thai,SME,3.7,1676,never in CRM,https://www.marigoldhouse.example
+5554487331,desk,False,Prairie Trattoria,(555) 448-7331,Rivera District,7412 E Wexley St,Indian,SME,4.25,1671,never in CRM,https://www.prairietrattoria.example
+5551758004,call,False,The Olive & Ash Oyster Bar,(555) 175-8004,Bramble Row,5318 E Calder Boulevard,Japanese,SME,4.15,1664,never in CRM,
+5552571205,desk,False,Roan Oyster Bar,(555) 257-1205,Sablewood,6651 S Rivermead St,Vietnamese,SME,4.7,1657,never in CRM,https://www.roanoysterbar.example
+5553975601,call,False,Anchor Grill,(555) 397-5601,Templeton,5815 W Mallow Rd,Greek,SME,4.7,1656,open deal,
+5559228336,call,False,Bramble Steakhouse,(555) 922-8336,Bayview Flats,7146 E Prospect St,Spanish,SME,4.4,1652,never in CRM,
+5552151816,desk,True,Thistle Tavern,(555) 215-1816,Harbor Point,2582 N Lindmere Rd,Mexican,SME,4.7,1651,open deal,https://www.thistletavern.example
+5557046949,call,False,Basil & Bone Bistro - Quarry End,(555) 704-6949,Alder Heights,381 West Bayard Boulevard,Thai,SME,3.7,1646,never in CRM,
+5552429729,desk,False,Foxtail Dining Room,(555) 242-9729,Corvo Heights,1231 S Quinton Rd,Thai,SME,3.7,1630,open deal,https://www.foxtaildiningroom.example
+5557707201,desk,True,Amber Kitchen,(555) 770-7201,Quarry End,2813 W Lindmere St,Barbecue,SME,3.9,1629,never in CRM,https://www.amberkitchen.example
+5555032669,desk,False,Juniper Chophouse - Calder Park,(555) 503-2669,Sablewood,2680 E Ashfield Blvd,Steakhouse,mid-cap,3.78,1627,written off,https://www.juniperchophouse.example
+5557968259,desk,False,Plumb Kitchen Verano Bay,(555) 796-8259,Windrow,7039 W Calder Blvd,Barbecue,SME,3.77,1627,never in CRM,https://www.plumbkitchen.example
+5551858967,call,False,Orchard Table,(555) 185-8967,Harbor Point,502 E Mallow Ave,Contemporary,SME,4.75,1626,never in CRM,
+5557818874,desk,True,Saffron Room,(555) 781-8874,Bayview Flats,3453 E Wexley Road,Mexican,SME,3.7,1620,never in CRM,https://www.saffronroom.example
+5558230838,desk,False,Quarry Chophouse,(555) 823-0838,Stillwater,6946 S Quinton Rd,Thai,SME,3.6,1619,never in CRM,https://www.quarrychophouse.example
+5555741304,desk,False,Amber Osteria,(555) 574-1304,Calder Park,3310 N Halloway St,Seafood,SME,3.8,1607,never in CRM,https://www.amberosteria.example
+5557237907,desk,False,Basil and Bone Room,(555) 723-7907,Templeton,1052 North Rivermead Avenue,Vietnamese,mid-cap,3.5,1606,never in CRM,https://www.basilboneroom.example
+5554836888,call,False,Marrow Taqueria,(555) 483-6888,Palisade Park,6309 E Cortez Blvd,Japanese,SME,4.7,1603,never in CRM,
+5555104238,desk,False,Motherland Steakhouse,(555) 510-4238,Bayview Flats,2861 S Bayard Ave,Greek,SME,4.05,1602,never in CRM,https://www.motherlandsteakhouse.example
+5556146957,desk,True,Warbler Wine Bar,(555) 614-6957,Palisade Park,3831 S Serra St,Mediterranean,mid-cap,3.6,1598,open deal,https://www.warblerwinebar.example
+5552144310,desk,False,Silverfin Grill,(555) 214-4310,Stillwater,4218 S Bayard Rd,Steakhouse,mid-cap,4.47,1598,never in CRM,https://www.silverfingrill.example
+5554418723,desk,False,Understory Trattoria,(555) 441-8723,Old Mill,4373 S Quinton Blvd,Seafood,SME,3.4,1593,never in CRM,https://www.understorytrattoria.example
+5556021457,desk,False,Larkspur Smokehouse,(555) 602-1457,Cedar Cross,3300 E Vance St,Contemporary,SME,4.25,1593,never in CRM,https://www.larkspursmokehouse.example
+5556942624,desk,False,Tidewater Dining Room Restaurant,(555) 694-2624,Kingsway,2494 S Halloway Rd,Italian,SME,3.72,1592,never in CRM,https://www.tidewaterdiningroom.example
+5552246752,desk,True,Ironwood Tavern Restaurant,(555) 224-6752,Corvo Heights,5473 N Wexley Boulevard,Steakhouse,SME,4.2,1588,never in CRM,https://www.ironwoodtavern.example
+5557177751,desk,False,Verde Kitchen,(555) 717-7751,Ashgrove,1234 N Mallow Ave,Ethiopian,SME,3.83,1584,open deal,https://www.verdekitchen.example
+5559890084,desk,False,Kinship Bistro,(555) 989-0084,Sunfield,306 S Rivermead St,Barbecue,SME,4.8,1578,open deal,https://www.kinshipbistro.example
+5559303309,call,False,Basil & Bone Supper Club,(555) 930-3309,Quarry End,7037 N Calder Rd,Barbecue,SME,4.5,1575,open deal,
+5559725943,desk,False,Quarry Supper Club,(555) 972-5943,Miradero,3716 E Wexley Ave,Vietnamese,SME,3.8,1572,never in CRM,https://www.quarrysupperclub.example
+5552370248,desk,False,Marigold Bistro,(555) 237-0248,Windrow,1390 W Fennimore Ave,Greek,SME,4.05,1565,never in CRM,https://www.marigoldbistro.example
+5554114943,desk,False,Blue Heron Brasserie,(555) 411-4943,Lantern Hill,3268 North Fennimore Ave,Peruvian,SME,3.35,1565,never in CRM,https://www.blueheronbrasserie.example
+5551177663,desk,False,Salt & Vine Dining Room,(555) 117-7663,Old Mill,6894 W Bayard Ave,Ethiopian,SME,4.15,1563,never in CRM,https://www.saltvinediningroom.example
+5556465444,call,False,Kingfisher Osteria,(555) 646-5444,Sablewood,5041 N Halloway Blvd,Polish,SME,4.75,1557,never in CRM,
+5554950450,call,False,Marigold Room,(555) 495-0450,Palisade Park,1040 E Quinton Blvd,Korean,SME,3.45,1556,never in CRM,
+5553615085,call,True,Dovetail Alehouse,(555) 361-5085,Sablewood,3207 E Cortez St,Mediterranean,SME,4.7,1553,never in CRM,
+5553663705,desk,False,Understory Wine Bar - Old Mill,(555) 366-3705,Bayview Flats,1355 West Fennimore Road,Mexican,SME,3.9,1552,never in CRM,https://www.understorywinebar.example
+5559882462,desk,True,Sixpence Cantina,(555) 988-2462,Calder Park,3531 E Fennimore Blvd,Steakhouse,SME,4.3,1549,never in CRM,https://www.sixpencecantina.example
+5558805470,call,True,Persimmon Room,(555) 880-5470,Rivera District,916 W Serra Rd,Polish,SME,4.6,1546,never in CRM,
+5552011055,desk,False,Cobalt Brasserie,(555) 201-1055,Miradero,3698 S Lindmere Blvd,Greek,SME,3.85,1538,never in CRM,https://www.cobaltbrasserie.example
+5554027189,desk,False,Amber Wine Bar,(555) 402-7189,Rivera District,2528 N Rivermead Rd,Contemporary,SME,4.6,1537,never in CRM,https://www.amberwinebar.example
+5551669436,desk,False,Saffron Tavern,(555) 166-9436,Bayview Flats,5342 West Prospect Street,Vietnamese,SME,4.38,1536,open deal,https://www.saffrontavern.example
+5554139264,desk,True,Amber Chophouse,(555) 413-9264,Rivera District,389 W Calder St,Peruvian,SME,3.5,1533,never in CRM,https://www.amberchophouse.example
+5551110904,call,True,Thistle Table,(555) 111-0904,Fox Hollow,5738 S Tarrow Blvd,Thai,SME,3.8,1533,never in CRM,
+5553830788,desk,True,Ember Dining Room,(555) 383-0788,Bayview Flats,6846 S Tarrow Rd,Mediterranean,SME,3.7,1531,open deal,https://www.emberdiningroom.example
+5555390639,desk,False,Kinship Dining Room,(555) 539-0639,Harbor Point,3083 N Calder St,Indian,mid-cap,4.3,1530,open deal,https://www.kinshipdiningroom.example
+5551998018,desk,False,Loam Kitchen,(555) 199-8018,Alder Heights,3053 E Quinton Ave,Barbecue,SME,3.45,1525,open deal,https://www.loamkitchen.example
+5558418408,desk,True,VIOLET STEAKHOUSE,(555) 841-8408,Bramble Row,3855 West Rivermead Avenue,Spanish,SME,3.95,1523,open deal,https://www.violetsteakhouse.example
+5552794652,visit,False,Sable Wine Bar,(555) 279-4652,Cedar Cross,2111 S Rivermead Blvd,Korean,SME,4.3,1522,never in CRM,
+5557382144,desk,True,Larkspur Trattoria,(555) 738-2144,Sunfield,"6277 N Ashfield St, Verano Bay",Seafood,SME,4.95,1521,never in CRM,https://www.larkspurtrattoria.example
+5557388037,call,False,Sixpence Dining Room,(555) 738-8037,Templeton,6931 N Vance Blvd,Vietnamese,SME,4.37,1519,never in CRM,
+5555272529,desk,False,The Nightjar Chophouse,(555) 527-2529,Quarry End,379 S Vance Rd,Spanish,SME,4.13,1517,never in CRM,https://www.nightjarchophouse.example
+5559176544,call,False,Anchor Steakhouse,(555) 917-6544,Miradero,6475 E Cortez Ave,Mexican,SME,4.5,1516,never in CRM,
+5551996902,desk,False,Ironwood Smokehouse,(555) 199-6902,Greenhithe,3610 N Cortez Ave,Seafood,large,3.6,1513,open deal,https://www.ironwoodsmokehouse.example
+5556774053,desk,False,Inkwell Kitchen,(555) 677-4053,Calder Park,1369 N Rivermead Rd,Greek,mid-cap,4.3,1507,never in CRM,https://www.inkwellkitchen.example
+5557210580,desk,True,Thistle Wine Bar,(555) 721-0580,Fox Hollow,2479 S Bayard Blvd,Contemporary,SME,3.6,1505,never in CRM,https://www.thistlewinebar.example
+5559107149,call,False,Marigold Oyster Bar,(555) 910-7149,Palisade Park,5208 W Fennimore St,Seafood,SME,3.75,1492,never in CRM,
+5556117505,desk,False,Marrow Brasserie,(555) 611-7505,Bramble Row,3386 W Halloway St,Spanish,mid-cap,3.8,1491,never in CRM,https://www.marrowbrasserie.example
+5555393381,visit,False,Foxglove Taqueria,(555) 539-3381,Stillwater,1754 E Prospect Rd,Indian,SME,3.8,1491,never in CRM,
+5552360630,desk,True,Warbler Chophouse,(555) 236-0630,Ashgrove,7078 S Calder St,Mexican,SME,4.9,1487,never in CRM,https://www.warblerchophouse.example
+5553187327,call,True,Juniper Kitchen,(555) 318-7327,Rivera District,1394 E Quinton Rd,Vietnamese,SME,4.45,1484,never in CRM,
+5556047736,desk,False,Sixpence Osteria,(555) 604-7736,Greenhithe,3062 W Mallow St,Italian,SME,4.2,1484,never in CRM,https://www.sixpenceosteria.example
+5558355006,desk,False,Rosewater Taqueria,(555) 835-5006,Fox Hollow,701 N Ashfield Ave,Italian,SME,4.8,1481,never in CRM,https://www.rosewatertaqueria.example
+5555484384,desk,False,Driftwood Chophouse,(555) 548-4384,Kingsway,3123 S Halloway Blvd,Greek,SME,5.0,1476,never in CRM,https://www.driftwoodchophouse.example
+5556190462,desk,False,Juniper Supper Club,(555) 619-0462,Bramble Row,6414 S Fennimore Ave,Mediterranean,SME,3.47,1475,never in CRM,https://www.junipersupperclub.example
+5559518618,desk,False,Kingfisher Grill,(555) 951-8618,Alder Heights,6165 S Bayard St,Ethiopian,SME,4.37,1475,never in CRM,https://www.kingfishergrill.example
+5558556689,desk,False,Cinder Brasserie,(555) 855-6689,Palisade Park,3000 E Ashfield Rd,Mexican,SME,3.5,1459,never in CRM,https://www.cinderbrasserie.example
+5551722663,desk,False,BLUEBIRD OYSTER BAR,(555) 172-2663,Fox Hollow,"3614 S Quinton Ave, Verano Bay",Seafood,SME,3.7,1454,never in CRM,https://www.bluebirdoysterbar.example
+5554356212,desk,False,Copper Brasserie,(555) 435-6212,Corvo Heights,281 N Bayard Ave,Korean,SME,3.5,1452,never in CRM,https://www.copperbrasserie.example
+5556336146,call,False,Umber Bistro,(555) 633-6146,Bayview Flats,5068 N Vance Street,Mediterranean,SME,3.55,1452,never in CRM,
+5558444150,desk,True,Redbird Wine Bar Restaurant,(555) 844-4150,Bayview Flats,"4627 E Halloway Blvd, Verano Bay",Thai,SME,3.65,1447,never in CRM,https://www.redbirdwinebar.example
+5553697870,visit,False,Marigold Kitchen,(555) 369-7870,Miradero,7498 E Tarrow Rd,Vietnamese,SME,4.0,1444,never in CRM,
+5559959984,call,True,Jackdaw Bistro,(555) 995-9984,Templeton,6617 E Vance Blvd,Contemporary,SME,3.8,1443,never in CRM,
+5553340215,call,False,Sable Smokehouse,(555) 334-0215,Bayview Flats,1534 N Rivermead Ave,Mediterranean,SME,3.5,1440,never in CRM,
+5557385597,call,False,Rookery Grill,(555) 738-5597,Windrow,5516 W Lindmere Blvd,Greek,SME,3.75,1426,never in CRM,
+5557271688,desk,False,Rosewater Bistro,(555) 727-1688,Sablewood,253 W Ashfield St,Barbecue,SME,3.7,1424,never in CRM,https://www.rosewaterbistro.example
+5557744217,desk,False,Palisade Steakhouse,(555) 774-4217,Ashgrove,7251 E Lindmere Rd,French,SME,4.2,1423,never in CRM,https://www.palisadesteakhouse.example
+5557440163,desk,False,Umber Cantina,(555) 744-0163,Corvo Heights,6380 N Vance St,Peruvian,SME,3.7,1413,never in CRM,https://www.umbercantina.example
+5552590669,desk,False,Quarry Wine Bar,(555) 259-0669,Bramble Row,4482 W Tarrow Blvd,Vietnamese,SME,3.7,1413,never in CRM,https://www.quarrywinebar.example
+5555021375,call,False,Mercado Brasserie - Sunfield,(555) 502-1375,Miradero,7310 North Serra Rd,Peruvian,SME,4.28,1411,never in CRM,
+5558886139,call,True,Plumb Room,(555) 888-6139,Kingsway,6750 East Mallow Boulevard,Polish,SME,4.8,1410,never in CRM,
+5556083605,desk,False,The Northbank Wine Bar,(555) 608-3605,Fox Hollow,7938 N Prospect Ave,Japanese,SME,4.45,1408,open deal,https://www.northbankwinebar.example
+5551838658,desk,True,Gallow Osteria,(555) 183-8658,Ashgrove,7957 E Cortez Blvd,Contemporary,SME,4.2,1407,never in CRM,https://www.gallowosteria.example
+5553628070,call,False,Kinship Brasserie,(555) 362-8070,Bramble Row,5225 W Serra Ave,Peruvian,SME,4.2,1406,never in CRM,
+5552422911,desk,False,Copper Cantina,(555) 242-2911,Quarry End,5033 W Tarrow Ave,Indian,SME,4.0,1405,never in CRM,https://www.coppercantina.example
+5551812316,desk,True,Vesper Osteria,(555) 181-2316,Templeton,6718 North Mallow St,Polish,SME,3.3,1402,never in CRM,https://www.vesperosteria.example
+5554497952,desk,False,Sparrow Wine Bar,(555) 449-7952,Cedar Cross,7862 W Ashfield Blvd,Greek,SME,4.25,1401,never in CRM,https://www.sparrowwinebar.example
+5559755969,desk,False,Roan Kitchen,(555) 975-5969,Alder Heights,5003 N Tarrow Blvd,Mediterranean,SME,3.7,1398,never in CRM,https://www.roankitchen.example
+5556412128,desk,False,Saffron Trattoria,(555) 641-2128,Harbor Point,7077 S Vance Ave,Barbecue,SME,3.8,1392,never in CRM,https://www.saffrontrattoria.example
+5556369899,call,False,Motherland Wine Bar,(555) 636-9899,Corvo Heights,5873 N Halloway Rd,Seafood,SME,3.7,1391,never in CRM,
+5555645975,call,False,Alder Smokehouse,(555) 564-5975,Kingsway,7834 N Cortez Blvd,Greek,SME,4.9,1385,never in CRM,
+5559183459,desk,False,Roan Alehouse,(555) 918-3459,Calder Park,4578 N Ashfield Rd,Indian,SME,4.4,1384,never in CRM,https://www.roanalehouse.example
+5556838454,call,False,Kinship Grill,(555) 683-8454,Ferrymead,6042 N Ashfield Blvd,Barbecue,SME,3.85,1378,never in CRM,
+5559073013,desk,False,Plumb Grill Verano Bay,(555) 907-3013,Fox Hollow,277 E Vance Street,Mediterranean,SME,3.67,1371,never in CRM,https://www.plumbgrill.example
+5556540328,desk,False,Pike Supper Club Verano Bay,(555) 654-0328,Sablewood,5503 South Rivermead Road,Japanese,SME,4.58,1369,never in CRM,https://www.pikesupperclub.example
+5558068349,desk,False,MERCADO TAQUERIA,(555) 806-8349,Greenhithe,4969 North Quinton Street,Mexican,SME,3.47,1367,never in CRM,https://www.mercadotaqueria.example
+5554170616,desk,True,Rookery Taqueria,(555) 417-0616,Lantern Hill,6382 S Serra Rd,Mexican,SME,3.6,1367,open deal,https://www.rookerytaqueria.example
+5551755379,visit,False,SALT & VINE STEAKHOUSE,(555) 175-5379,Bramble Row,2561 South Rivermead Boulevard,Ethiopian,SME,3.57,1366,never in CRM,
+5557132210,desk,True,Palisade Trattoria,(555) 713-2210,Calder Park,647 E Tarrow Ave,Korean,SME,3.75,1364,never in CRM,https://www.palisadetrattoria.example
+5552137434,call,True,Understory Chophouse - Windrow,(555) 213-7434,Ashgrove,4606 South Quinton Boulevard,Spanish,SME,4.7,1356,never in CRM,
+5557579028,desk,True,Vesper Tavern Verano Bay,(555) 757-9028,Bayview Flats,5772 N Fennimore Street,Korean,SME,4.42,1352,never in CRM,https://www.vespertavern.example
+5555407227,call,False,Vesper Smokehouse,(555) 540-7227,Old Mill,2960 E Rivermead Street,Japanese,SME,3.93,1352,never in CRM,
+5553706105,desk,False,Loam Tavern,(555) 370-6105,Cedar Cross,7848 S Vance Rd,Indian,SME,4.0,1348,open deal,https://www.loamtavern.example
+5554112176,desk,True,Basil & Bone Steakhouse,(555) 411-2176,Lantern Hill,6676 N Halloway Rd,Korean,mid-cap,4.7,1346,open deal,https://www.basilbonesteakhouse.example
+5556868437,call,False,The Foxtail Tavern,(555) 686-8437,Greenhithe,3338 E Fennimore Boulevard,Thai,SME,3.75,1344,open deal,
+5553507724,desk,False,Kingfisher Brasserie,(555) 350-7724,Harbor Point,7661 S Halloway Rd,Ethiopian,SME,4.6,1344,never in CRM,https://www.kingfisherbrasserie.example
+5556015891,desk,False,Thicket Alehouse,(555) 601-5891,Miradero,3508 E Cortez Rd,Mexican,SME,3.6,1341,open deal,https://www.thicketalehouse.example
+5552093962,desk,True,Driftwood Bistro,(555) 209-3962,Lantern Hill,2927 N Fennimore Rd,Korean,SME,4.0,1340,never in CRM,https://www.driftwoodbistro.example
+5554374643,desk,False,Sixpence House,(555) 437-4643,Greenhithe,1658 W Prospect Ave,Spanish,SME,4.4,1340,open deal,https://www.sixpencehouse.example
+5558054052,desk,False,Loam Brasserie,(555) 805-4052,Calder Park,175 E Prospect St,Polish,SME,4.4,1339,never in CRM,https://www.loambrasserie.example
+5559343797,desk,False,Copper Dining Room,(555) 934-3797,Templeton,1171 S Lindmere Rd,Italian,SME,4.2,1334,open deal,https://www.copperdiningroom.example
+5553978894,desk,False,Thistle Alehouse,(555) 397-8894,Ferrymead,1839 N Prospect Blvd,Contemporary,SME,3.7,1328,never in CRM,https://www.thistlealehouse.example
+5554401107,desk,False,Nine Bridges Brasserie,(555) 440-1107,Templeton,5700 W Lindmere Rd,French,SME,3.5,1327,never in CRM,https://www.ninebridgesbrasserie.example
+5551306510,desk,False,Yarrow Steakhouse,(555) 130-6510,Cedar Cross,4420 N Lindmere Rd,Mediterranean,SME,3.4,1324,never in CRM,https://www.yarrowsteakhouse.example
+5557876812,desk,False,Marrow Wine Bar,(555) 787-6812,Bayview Flats,5494 S Quinton Blvd,Barbecue,SME,4.4,1322,written off,https://www.marrowwinebar.example
+5557942510,desk,True,Fernwood Chophouse,(555) 794-2510,Alder Heights,2377 W Cortez Blvd,Korean,SME,4.4,1321,never in CRM,https://www.fernwoodchophouse.example
+5552787034,call,True,Cardinal Room Verano Bay,(555) 278-7034,Ashgrove,1872 East Serra Road,Vietnamese,SME,3.43,1318,never in CRM,
+5557294285,call,True,Bluebird Alehouse,(555) 729-4285,Quarry End,2869 W Prospect St,Ethiopian,SME,3.8,1316,never in CRM,
+5554618855,desk,False,Sorrel Brasserie,(555) 461-8855,Corvo Heights,4702 E Fennimore Rd,Contemporary,SME,4.9,1314,never in CRM,https://www.sorrelbrasserie.example
+5556923145,visit,False,Bramble Alehouse,(555) 692-3145,Stillwater,5696 W Fennimore Rd,Barbecue,SME,4.03,1309,open deal,
+5552296950,call,False,Little Bear Kitchen,(555) 229-6950,Marisol,6172 E Quinton Ave,Polish,SME,3.5,1309,never in CRM,
+5554363278,call,False,Quarry Taqueria,(555) 436-3278,Calder Park,787 E Mallow St,Polish,SME,4.85,1302,open deal,
+5553916780,desk,False,Cinder Grill,(555) 391-6780,Palisade Park,1033 W Mallow Ave,Polish,SME,4.0,1301,never in CRM,https://www.cindergrill.example
+5553494797,call,True,Olive & Ash Taqueria,(555) 349-4797,Sablewood,878 W Mallow Rd,Japanese,SME,4.2,1300,never in CRM,
+5559656192,desk,False,Quill Brasserie,(555) 965-6192,Palisade Park,6000 S Serra St,Contemporary,SME,4.0,1293,open deal,https://www.quillbrasserie.example
+5557134655,desk,False,Quill Table,(555) 713-4655,Bayview Flats,4276 S Vance Rd,Japanese,mid-cap,3.5,1292,never in CRM,https://www.quilltable.example
+5555364927,desk,False,Palisade Oyster Bar,(555) 536-4927,Bramble Row,5565 W Wexley Ave,Vietnamese,SME,3.3,1290,never in CRM,https://www.palisadeoysterbar.example
+5556765973,desk,True,Saffron Osteria,(555) 676-5973,Stillwater,2368 E Bayard Blvd,Contemporary,mid-cap,4.0,1286,open deal,https://www.saffronosteria.example
+5551469904,call,True,Warbler Tavern - Sablewood,(555) 146-9904,Kingsway,4018 North Ashfield Street,Indian,SME,4.05,1281,never in CRM,
+5554283310,call,False,zzz test,(555) 428-3310,Windrow,7479 E Quinton Rd,Thai,SME,3.7,1280,never in CRM,
+5552560896,desk,False,Bramble Smokehouse,(555) 256-0896,Quarry End,7926 S Rivermead Blvd,Indian,SME,3.8,1279,never in CRM,https://www.bramblesmokehouse.example
+5553638947,desk,True,Stonecutter Kitchen,(555) 363-8947,Greenhithe,1088 W Wexley St,Spanish,mid-cap,3.8,1275,open deal,https://www.stonecutterkitchen.example
+5554397505,desk,False,YARROW WINE BAR,(555) 439-7505,Corvo Heights,390 South Wexley Street,Italian,SME,4.53,1274,never in CRM,https://www.yarrowwinebar.example
+5552921112,desk,False,Sixpence Steakhouse,(555) 292-1112,Greenhithe,4719 W Rivermead Rd,Korean,SME,4.35,1271,never in CRM,https://www.sixpencesteakhouse.example
+5555954402,desk,True,Juniper Oyster Bar,(555) 595-4402,Lantern Hill,4332 E Prospect Rd,Ethiopian,SME,4.57,1269,never in CRM,https://www.juniperoysterbar.example
+5558677811,call,True,Heron Bistro,(555) 867-7811,Rivera District,6181 W Ashfield Rd,Spanish,SME,3.4,1263,never in CRM,
+5551456827,desk,False,Kinship Taqueria,(555) 145-6827,Cedar Cross,7982 W Cortez St,Barbecue,SME,3.85,1261,never in CRM,https://www.kinshiptaqueria.example
+5559741255,call,False,Larkspur Table,(555) 974-1255,Windrow,6639 N Tarrow Ave,Polish,SME,4.8,1261,never in CRM,
+5552857918,desk,False,Harrow Bistro,(555) 285-7918,Palisade Park,7898 East Wexley Street,Peruvian,SME,4.65,1260,never in CRM,https://www.harrowbistro.example
+5558738493,desk,False,Loam Osteria,(555) 873-8493,Miradero,5714 S Ashfield Ave,Thai,mid-cap,4.2,1260,never in CRM,https://www.loamosteria.example
+5556251655,desk,False,SABLE OSTERIA,(555) 625-1655,Palisade Park,"3475 E Wexley Ave, Verano Bay",Seafood,SME,3.65,1255,never in CRM,https://www.sableosteria.example
+5559577509,desk,False,Tallgrass Brasserie,(555) 957-7509,Cedar Cross,4600 N Prospect Rd,Mexican,SME,4.6,1253,open deal,https://www.tallgrassbrasserie.example
+5558890303,desk,False,Juniper Wine Bar,(555) 889-0303,Greenhithe,1637 N Lindmere St,Japanese,SME,3.6,1247,never in CRM,https://www.juniperwinebar.example
+5552286455,call,False,Rambler Bistro,(555) 228-6455,Greenhithe,644 South Quinton Avenue,Italian,SME,3.5,1243,never in CRM,
+5554743374,desk,True,Marrow House,(555) 474-3374,Sablewood,2137 S Prospect Ave,Vietnamese,SME,4.5,1243,open deal,https://www.marrowhouse.example
+5557298715,desk,False,Verde Supper Club,(555) 729-8715,Harbor Point,4120 S Fennimore St,Steakhouse,SME,4.1,1241,never in CRM,https://www.verdesupperclub.example
+5553619659,call,True,Zephyr Supper Club Verano Bay,(555) 361-9659,Bayview Flats,247 East Calder Avenue,Japanese,SME,4.18,1240,never in CRM,
+5551491298,desk,True,Kinship Kitchen,(555) 149-1298,Greenhithe,3882 East Vance Road,Barbecue,SME,4.57,1239,open deal,https://www.kinshipkitchen.example
+5552379823,desk,False,Amber Supper Club,(555) 237-9823,Marisol,5925 W Rivermead Blvd,Peruvian,SME,3.7,1239,never in CRM,https://www.ambersupperclub.example
+5556813012,desk,False,Bluebird Osteria,(555) 681-3012,Sablewood,6047 S Rivermead Ave,Ethiopian,SME,4.2,1236,never in CRM,https://www.bluebirdosteria.example
+5553151946,call,True,Juniper Trattoria,(555) 315-1946,Ferrymead,6180 S Rivermead Blvd,Italian,SME,4.57,1234,open deal,
+5554674585,desk,False,Orchard Wine Bar,(555) 467-4585,Bramble Row,7956 S Serra St,French,large,4.2,1234,open deal,https://www.orchardwinebar.example
+5555950885,call,False,Kinship Osteria,(555) 595-0885,Ferrymead,275 S Quinton Ave,Contemporary,SME,3.6,1232,never in CRM,
+5552689509,desk,False,The Sorrel Osteria,(555) 268-9509,Fox Hollow,7811 E Serra Boulevard,Ethiopian,SME,4.05,1231,never in CRM,https://www.sorrelosteria.example
+5552098035,call,False,The Foxglove Dining Room,(555) 209-8035,Sablewood,"5735 E Lindmere St, Verano Bay",Mexican,SME,3.5,1227,never in CRM,
+5555807814,desk,False,Nine Bridges Steakhouse,(555) 580-7814,Sablewood,7163 West Halloway Boulevard,Barbecue,SME,4.3,1226,never in CRM,https://www.ninebridgessteakhouse.example
+5551553936,desk,False,Verde Dining Room,(555) 155-3936,Kingsway,1488 E Fennimore Blvd,Italian,SME,4.1,1218,never in CRM,https://www.verdediningroom.example
+5557673529,desk,False,Violet Trattoria,(555) 767-3529,Palisade Park,5811 S Rivermead Rd,Mediterranean,mid-cap,4.1,1203,never in CRM,https://www.violettrattoria.example
+5555993078,desk,False,Silverfin House,(555) 599-3078,Bayview Flats,6487 E Mallow Ave,Thai,SME,5.0,1202,open deal,https://www.silverfinhouse.example
+5558585963,desk,True,Alder Taqueria,(555) 858-5963,Bramble Row,6930 North Calder Rd,Mediterranean,SME,4.07,1194,open deal,https://www.aldertaqueria.example
+5552752673,desk,True,Fallowfield Dining Room - Palisade Park,(555) 275-2673,Kingsway,7651 W Serra Blvd,Italian,SME,3.4,1190,never in CRM,https://www.fallowfielddiningroom.example
+5554063156,desk,True,Halcyon Trattoria,(555) 406-3156,Old Mill,2921 E Mallow Blvd,Peruvian,SME,4.6,1186,customer,https://www.halcyontrattoria.example
+5557239310,desk,False,Little Bear Bistro,(555) 723-9310,Sablewood,433 E Serra Rd,Polish,SME,4.8,1183,written off,https://www.littlebearbistro.example
+5558209943,call,False,Motherland House,(555) 820-9943,Fox Hollow,968 E Halloway Avenue,Ethiopian,SME,3.55,1182,never in CRM,
+5556817830,desk,False,Persimmon Wine Bar,(555) 681-7830,Calder Park,7379 S Calder Ave,Vietnamese,SME,4.5,1180,never in CRM,https://www.persimmonwinebar.example
+5556901522,call,False,Violet Oyster Bar,(555) 690-1522,Ashgrove,6303 N Cortez Blvd,Thai,SME,3.9,1178,never in CRM,
+5555926669,desk,False,Lantern Oyster Bar,(555) 592-6669,Calder Park,5307 W Ashfield Ave,Peruvian,SME,4.6,1178,never in CRM,https://www.lanternoysterbar.example
+5552300824,desk,False,Golden Hour Kitchen - Stillwater,(555) 230-0824,Greenhithe,3348 E Vance Boulevard,Peruvian,SME,4.8,1173,never in CRM,https://www.goldenhourkitchen.example
+5555431894,call,True,Juniper Osteria,(555) 543-1894,Bramble Row,4357 W Mallow Rd,Italian,SME,3.6,1165,never in CRM,
+5551563001,desk,False,Kingfisher Kitchen,(555) 156-3001,Kingsway,6961 East Ashfield Blvd,Polish,SME,3.65,1151,open deal,https://www.kingfisherkitchen.example
+5556118854,desk,False,Plumb Osteria - Kingsway,(555) 611-8854,Cedar Cross,5975 North Rivermead Rd,Seafood,SME,3.6,1150,never in CRM,https://www.plumbosteria.example
+5552031377,desk,False,Cardinal Dining Room,(555) 203-1377,Rivera District,4963 W Rivermead Rd,Vietnamese,SME,4.2,1147,never in CRM,https://www.cardinaldiningroom.example
+5559375520,call,False,Saffron Alehouse,(555) 937-5520,Corvo Heights,7660 N Prospect Blvd,Korean,SME,4.4,1146,never in CRM,
+5555448886,desk,False,The Yarrow Trattoria,(555) 544-8886,Sunfield,6758 West Tarrow Avenue,Mediterranean,SME,3.43,1143,never in CRM,https://www.yarrowtrattoria.example
+5554329915,call,False,Motherland Supper Club,(555) 432-9915,Palisade Park,3768 S Mallow Ave,French,SME,3.7,1140,never in CRM,
+5556364026,desk,False,Prairie Alehouse,(555) 636-4026,Templeton,826 S Fennimore Blvd,Japanese,SME,3.5,1140,never in CRM,https://www.prairiealehouse.example
+5553429091,call,False,Harrow Supper Club,(555) 342-9091,Palisade Park,3346 S Cortez St,Contemporary,SME,3.7,1140,open deal,
+5558134789,call,False,Loam Cantina,(555) 813-4789,Harbor Point,2358 South Mallow St,Vietnamese,SME,3.55,1138,never in CRM,
+5559494642,desk,False,Loam Room - Windrow,(555) 949-4642,Windrow,5792 W Bayard Road,Italian,mid-cap,3.8,1135,open deal,https://www.loamroom.example
+5552268187,desk,True,Rambler Brasserie,(555) 226-8187,Marisol,6619 E Serra Blvd,Contemporary,large,3.55,1135,open deal,https://www.ramblerbrasserie.example
+5554198879,desk,False,Quill Steakhouse - Corvo Heights,(555) 419-8879,Miradero,"7868 E Quinton Ave, Verano Bay",Barbecue,SME,3.93,1134,never in CRM,https://www.quillsteakhouse.example
+5558190423,desk,True,Palisade Grill - Templeton,(555) 819-0423,Rivera District,"3168 E Rivermead Rd, Verano Bay",Steakhouse,SME,4.0,1132,open deal,https://www.palisadegrill.example
+5554804006,desk,True,Northbank Cantina,(555) 480-4006,Greenhithe,6912 W Quinton Blvd,Mexican,SME,4.75,1132,never in CRM,https://www.northbankcantina.example
+5554592619,desk,False,UNDERSTORY DINING ROOM,(555) 459-2619,Templeton,175 W Wexley Road,French,SME,3.9,1128,never in CRM,https://www.understorydiningroom.example
+5555684293,desk,False,Wren Dining Room,(555) 568-4293,Lantern Hill,1070 N Vance Rd,Vietnamese,SME,4.1,1122,never in CRM,https://www.wrendiningroom.example
+5554212967,desk,False,Plumb Supper Club,(555) 421-2967,Sunfield,7093 S Serra Blvd,Indian,SME,3.9,1116,open deal,https://www.plumbsupperclub.example
+5552677916,desk,False,Olive & Ash Cantina,(555) 267-7916,Templeton,3660 W Wexley Blvd,Vietnamese,large,4.35,1115,open deal,https://www.oliveashcantina.example
+5558947224,desk,False,Juniper Grill,(555) 894-7224,Templeton,1641 N Vance Blvd,Ethiopian,SME,4.1,1115,never in CRM,https://www.junipergrill.example
+5554445800,desk,False,Amber Oyster Bar,(555) 444-5800,Sunfield,3146 N Prospect St,Korean,SME,4.4,1115,never in CRM,https://www.amberoysterbar.example
+5553865315,call,False,Sixpence Smokehouse,(555) 386-5315,Corvo Heights,2190 North Wexley Ave,Polish,SME,3.77,1113,never in CRM,
+5554174543,desk,False,Violet Wine Bar,(555) 417-4543,Windrow,3248 S Mallow Ave,Korean,SME,4.5,1110,never in CRM,https://www.violetwinebar.example
+5554530531,call,False,Alder Alehouse,(555) 453-0531,Cedar Cross,2582 S Mallow Rd,French,SME,4.75,1107,open deal,
+5553538769,desk,False,Quill Tavern,(555) 353-8769,Greenhithe,5769 N Rivermead Ave,Ethiopian,SME,4.1,1104,never in CRM,https://www.quilltavern.example
+5556160581,call,False,Foxtail Bistro,(555) 616-0581,Alder Heights,2940 S Fennimore Ave,Polish,SME,4.2,1092,never in CRM,
+5552538966,desk,False,Fernwood Grill,(555) 253-8966,Templeton,4290 E Mallow Rd,Seafood,SME,4.05,1086,never in CRM,https://www.fernwoodgrill.example
+5554104852,visit,False,Jackdaw Chophouse,(555) 410-4852,Miradero,3415 S Bayard Street,Indian,SME,3.5,1082,never in CRM,
+5558505155,call,False,Orchard Tavern,(555) 850-5155,Stillwater,1189 S Halloway St,Polish,SME,3.5,1077,never in CRM,
+5552956959,desk,False,Larkspur Steakhouse - Fox Hollow,(555) 295-6959,Cedar Cross,"2942 N Fennimore Rd, Verano Bay",Korean,mid-cap,4.7,1076,open deal,https://www.larkspursteakhouse.example
+5555229877,desk,False,Blue Heron Taqueria,(555) 522-9877,Calder Park,7813 E Cortez Ave,Peruvian,SME,3.6,1074,never in CRM,https://www.blueherontaqueria.example
+5556100672,desk,False,Salt & Vine Room,(555) 610-0672,Corvo Heights,4754 N Mallow Rd,Thai,mid-cap,4.3,1072,open deal,https://www.saltvineroom.example
+5555155154,desk,False,Nettle Wine Bar,(555) 515-5154,Bramble Row,1605 S Cortez Rd,Polish,SME,4.2,1067,never in CRM,https://www.nettlewinebar.example
+5555603425,desk,False,Ironwood Dining Room,(555) 560-3425,Palisade Park,446 S Bayard Blvd,Barbecue,SME,3.6,1067,never in CRM,https://www.ironwooddiningroom.example
+5555361955,desk,False,Persimmon Kitchen - Kingsway,(555) 536-1955,Windrow,6054 West Calder Blvd,Indian,mid-cap,4.6,1064,never in CRM,https://www.persimmonkitchen.example
+5551615414,desk,True,Sable Trattoria,(555) 161-5414,Miradero,1474 W Fennimore Ave,Peruvian,mid-cap,4.0,1064,never in CRM,https://www.sabletrattoria.example
+5554120168,desk,True,Violet Bistro Verano Bay,(555) 412-0168,Marisol,1345 West Mallow Street,Korean,SME,4.23,1060,never in CRM,https://www.violetbistro.example
+5552009865,desk,False,Tallgrass Cantina,(555) 200-9865,Fox Hollow,7598 E Rivermead Blvd,Greek,SME,3.3,1058,never in CRM,https://www.tallgrasscantina.example
+5553740498,desk,False,Hearth Grill,(555) 374-0498,Templeton,2620 E Serra Blvd,Mexican,mid-cap,3.9,1055,never in CRM,https://www.hearthgrill.example
+5552111847,desk,False,The Ember Chophouse,(555) 211-1847,Bramble Row,"108 N Ashfield Rd, Verano Bay",Steakhouse,SME,4.63,1053,never in CRM,https://www.emberchophouse.example
+5553424888,desk,False,Wren House,(555) 342-4888,Greenhithe,1069 S Fennimore Ave,Mexican,SME,4.25,1042,open deal,https://www.wrenhouse.example
+5552912428,desk,False,Inkwell Taqueria Restaurant,(555) 291-2428,Stillwater,4298 South Mallow Street,Mexican,SME,3.7,1036,never in CRM,https://www.inkwelltaqueria.example
+5551391534,desk,False,Bluebird Tavern,(555) 139-1534,Miradero,377 S Wexley Ave,Mediterranean,SME,4.77,1031,never in CRM,https://www.bluebirdtavern.example
+5559806648,desk,False,Tin Roof Steakhouse - Ashgrove,(555) 980-6648,Templeton,"924 S Wexley Rd, Verano Bay",Japanese,SME,4.3,1030,open deal,https://www.tinroofsteakhouse.example
+5557055210,desk,True,Thicket Brasserie,(555) 705-5210,Ferrymead,1920 S Prospect St,Polish,SME,3.8,1029,never in CRM,https://www.thicketbrasserie.example
+5556935950,desk,False,Palisade Osteria,(555) 693-5950,Bramble Row,"3818 N Vance Blvd, Verano Bay",French,SME,4.12,1028,never in CRM,https://www.palisadeosteria.example
+5558087476,call,False,asdfasdf,(555) 808-7476,Fox Hollow,7781 S Vance St,Spanish,SME,3.9,1025,never in CRM,
+5551302662,desk,True,Cardinal Tavern,(555) 130-2662,Ashgrove,5361 E Serra Blvd,French,SME,4.0,1023,never in CRM,https://www.cardinaltavern.example
+5556715367,call,False,Anchor Trattoria Restaurant,(555) 671-5367,Old Mill,7010 S Halloway Boulevard,Seafood,SME,3.3,1023,never in CRM,
+5555012100,desk,False,Cobalt Room,(555) 501-2100,Bayview Flats,2443 N Rivermead Ave,Korean,SME,3.8,1021,open deal,https://www.cobaltroom.example
+5555057536,desk,False,Wildwood Room,(555) 505-7536,Rivera District,5273 W Fennimore Ave,Mediterranean,mid-cap,4.2,1019,open deal,https://www.wildwoodroom.example
+5554690835,call,False,BASIL & BONE ALEHOUSE,(555) 469-0835,Alder Heights,5433 W Fennimore St,Greek,SME,3.53,1015,never in CRM,
+5554270852,desk,False,The Pike House,(555) 427-0852,Windrow,5046 East Cortez Boulevard,Thai,SME,4.0,1011,open deal,https://www.pikehouse.example
+5551994567,call,False,Pike Brasserie,(555) 199-4567,Bayview Flats,7360 E Lindmere St,Steakhouse,SME,3.4,1009,never in CRM,
+5559209768,desk,False,Amber Brasserie - Fox Hollow,(555) 920-9768,Rivera District,4907 North Serra Boulevard,Polish,SME,3.85,1001,never in CRM,https://www.amberbrasserie.example
+5559160952,desk,False,Magpie Taqueria,(555) 916-0952,Bramble Row,5941 W Mallow St,Thai,SME,3.9,1001,never in CRM,https://www.magpietaqueria.example
+5553971523,call,False,Bluebird Cantina,(555) 397-1523,Stillwater,7885 East Mallow Street,Spanish,SME,4.2,998,never in CRM,
+5556225885,call,True,Fernwood Trattoria Restaurant,(555) 622-5885,Quarry End,665 N Wexley Street,Contemporary,SME,4.1,996,open deal,
+5554959793,desk,False,Magpie Brasserie,(555) 495-9793,Greenhithe,3301 E Wexley Avenue,French,large,3.95,993,open deal,https://www.magpiebrasserie.example
+5558361669,call,False,REDBIRD ROOM,(555) 836-1669,Marisol,1889 South Fennimore Avenue,Spanish,SME,4.5,992,never in CRM,
+5558256671,desk,True,Ember Alehouse,(555) 825-6671,Sunfield,499 N Bayard Rd,Thai,SME,4.9,991,never in CRM,https://www.emberalehouse.example
+5553204738,desk,False,Stonecutter Dining Room,(555) 320-4738,Templeton,1261 W Cortez Blvd,Greek,SME,3.5,991,never in CRM,https://www.stonecutterdiningroom.example
+5553506971,desk,True,Stonecutter Cantina,(555) 350-6971,Ashgrove,3439 S Tarrow Rd,Indian,SME,3.8,986,open deal,https://www.stonecuttercantina.example
+5559542592,desk,False,Oxbow Dining Room,(555) 954-2592,Fox Hollow,2448 E Fennimore St,Thai,SME,3.8,986,open deal,https://www.oxbowdiningroom.example
+5552243344,desk,False,Plumb House,(555) 224-3344,Old Mill,7086 E Serra Rd,Ethiopian,mid-cap,3.9,971,open deal,https://www.plumbhouse.example
+5558781659,desk,False,JACKDAW GRILL,(555) 878-1659,Templeton,2420 E Tarrow Boulevard,Spanish,SME,4.75,970,open deal,https://www.jackdawgrill.example
+5556679857,desk,False,The Foxglove Oyster Bar,(555) 667-9857,Miradero,5968 East Vance Boulevard,Seafood,SME,4.63,970,never in CRM,https://www.foxgloveoysterbar.example
+5555775501,desk,False,Northbank Taqueria,(555) 577-5501,Corvo Heights,1328 N Quinton St,Vietnamese,SME,3.65,963,never in CRM,https://www.northbanktaqueria.example
+5553309758,call,True,Anchor Room,(555) 330-9758,Greenhithe,274 N Halloway St,Seafood,SME,4.7,962,never in CRM,
+5557537305,desk,False,Hearth Dining Room,(555) 753-7305,Palisade Park,6690 N Rivermead Rd,Steakhouse,SME,4.7,960,never in CRM,https://www.hearthdiningroom.example
+5555798314,call,True,Gallow Cantina,(555) 579-8314,Palisade Park,126 N Prospect Blvd,Contemporary,SME,3.9,954,never in CRM,
+5554117946,desk,False,Nettle Room,(555) 411-7946,Stillwater,2351 S Serra Blvd,Indian,SME,3.8,953,never in CRM,https://www.nettleroom.example
+5551274159,call,True,Silverfin Room,(555) 127-4159,Ferrymead,7727 N Vance Ave,Mexican,SME,4.2,952,never in CRM,
+5553801343,desk,False,Wren Smokehouse,(555) 380-1343,Sunfield,2798 N Rivermead Ave,Mediterranean,SME,4.6,948,never in CRM,https://www.wrensmokehouse.example
+5554525984,desk,False,Sable Cantina,(555) 452-5984,Rivera District,2227 N Tarrow Ave,Seafood,SME,4.0,944,never in CRM,https://www.sablecantina.example
+5552469789,desk,True,Thistle Cantina,(555) 246-9789,Stillwater,3224 W Halloway Blvd,Mediterranean,SME,4.8,943,never in CRM,https://www.thistlecantina.example
+5554595650,desk,False,Larkspur Brasserie,(555) 459-5650,Ashgrove,7517 N Mallow St,Mexican,SME,3.7,940,never in CRM,https://www.larkspurbrasserie.example
+5555494197,desk,False,The Palisade Kitchen,(555) 549-4197,Miradero,5117 E Tarrow Ave,Greek,SME,4.5,939,never in CRM,https://www.palisadekitchen.example
+5554906185,visit,False,Rambler Dining Room,(555) 490-6185,Templeton,2844 S Prospect Ave,Thai,SME,3.6,935,never in CRM,
+5558561170,desk,False,Harrow Dining Room,(555) 856-1170,Greenhithe,1511 S Halloway Blvd,Spanish,SME,3.9,933,never in CRM,https://www.harrowdiningroom.example
+5552435739,desk,False,Quill Taqueria,(555) 243-5739,Ashgrove,7213 S Bayard Blvd,Ethiopian,SME,3.8,933,never in CRM,https://www.quilltaqueria.example
+5555313455,desk,False,Halcyon Table,(555) 531-3455,Fox Hollow,2531 N Mallow Ave,Steakhouse,mid-cap,3.8,933,open deal,https://www.halcyontable.example
+5555178357,desk,False,Rosewater Supper Club - Quarry End,(555) 517-8357,Ferrymead,4631 South Bayard Avenue,Korean,SME,4.2,932,never in CRM,https://www.rosewatersupperclub.example
+5559587973,desk,False,Nine Bridges Room Restaurant,(555) 958-7973,Kingsway,5477 South Fennimore Street,Japanese,SME,3.9,932,never in CRM,https://www.ninebridgesroom.example
+5551400334,desk,False,Prairie House,(555) 140-0334,Stillwater,1145 N Serra Rd,Barbecue,SME,4.1,931,never in CRM,https://www.prairiehouse.example
+5556346422,desk,True,Rambler House,(555) 634-6422,Lantern Hill,2951 E Bayard Ave,French,SME,4.8,931,never in CRM,https://www.ramblerhouse.example
+5554782819,desk,False,Palisade Brasserie,(555) 478-2819,Sablewood,249 W Fennimore Blvd,Peruvian,SME,3.6,927,never in CRM,https://www.palisadebrasserie.example
+5556177055,desk,False,Hearth Cantina,(555) 617-7055,Marisol,7181 N Rivermead Ave,Korean,SME,3.8,924,never in CRM,https://www.hearthcantina.example
+5557644660,call,False,Zephyr Wine Bar - Rivera District,(555) 764-4660,Rivera District,3531 N Tarrow Street,Spanish,SME,4.35,916,never in CRM,
+5558388563,desk,False,Wren Wine Bar,(555) 838-8563,Windrow,3677 S Quinton Ave,Contemporary,SME,4.1,916,never in CRM,https://www.wrenwinebar.example
+5559576208,desk,False,Rosewater Trattoria,(555) 957-6208,Miradero,7472 West Vance Road,Vietnamese,SME,3.97,913,never in CRM,https://www.rosewatertrattoria.example
+5559337403,desk,False,Driftwood Dining Room,(555) 933-7403,Rivera District,2748 N Ashfield Rd,Steakhouse,mid-cap,4.2,913,open deal,https://www.driftwooddiningroom.example
+5555013834,desk,False,Kettle Tavern,(555) 501-3834,Ferrymead,292 West Rivermead Road,Peruvian,mid-cap,3.7,911,never in CRM,https://www.kettletavern.example
+5552516300,desk,True,Quarry House,(555) 251-6300,Templeton,2833 N Wexley St,Peruvian,SME,3.7,908,never in CRM,https://www.quarryhouse.example
+5559797893,desk,False,Olive & Ash Brasserie,(555) 979-7893,Harbor Point,3465 E Vance St,Greek,SME,4.6,900,open deal,https://www.oliveashbrasserie.example
+5553333266,desk,False,Gallow Brasserie Verano Bay,(555) 333-3266,Bramble Row,5773 W Calder Road,Greek,SME,4.65,897,never in CRM,https://www.gallowbrasserie.example
+5554189428,desk,False,INKWELL OYSTER BAR,(555) 418-9428,Greenhithe,771 W Calder St,French,SME,3.95,896,never in CRM,https://www.inkwelloysterbar.example
+5558085110,desk,False,Cinder Bistro,(555) 808-5110,Sunfield,914 N Mallow Rd,Vietnamese,mid-cap,4.2,892,open deal,https://www.cinderbistro.example
+5553418261,call,True,Rosewater Steakhouse,(555) 341-8261,Ferrymead,4499 E Calder Rd,Korean,SME,3.8,890,never in CRM,
+5551300417,call,False,test restaurant 2,(555) 130-0417,Kingsway,7038 E Rivermead Blvd,Contemporary,SME,4.1,886,never in CRM,
+5559540687,desk,False,Tin Roof Tavern,(555) 954-0687,Old Mill,1909 S Rivermead Blvd,Peruvian,SME,3.4,883,never in CRM,https://www.tinrooftavern.example
+5558613833,visit,False,Loam Alehouse,(555) 861-3833,Templeton,3327 S Ashfield Blvd,Greek,SME,4.15,879,never in CRM,
+5553791361,desk,False,The Oxbow Room,(555) 379-1361,Bramble Row,"5885 S Vance St, Verano Bay",Spanish,SME,4.2,877,never in CRM,https://www.oxbowroom.example
+5557445147,desk,False,Wildwood Alehouse,(555) 744-5147,Corvo Heights,2936 S Mallow St,Seafood,SME,3.5,877,never in CRM,https://www.wildwoodalehouse.example
+5558470910,desk,False,Loam Smokehouse,(555) 847-0910,Corvo Heights,3609 S Mallow Street,Greek,SME,4.1,874,never in CRM,https://www.loamsmokehouse.example
+5557138013,desk,True,Basil & Bone Taqueria,(555) 713-8013,Sunfield,7173 S Fennimore Blvd,Ethiopian,SME,4.3,873,never in CRM,https://www.basilbonetaqueria.example
+5556316744,desk,False,Zephyr Table,(555) 631-6744,Fox Hollow,1941 W Bayard Ave,Korean,SME,4.27,872,never in CRM,https://www.zephyrtable.example
+5558620993,call,False,QA TEST ROW,(555) 862-0993,Palisade Park,4286 S Tarrow Rd,Steakhouse,SME,3.9,870,never in CRM,
+5558828043,desk,False,Basil & Bone Kitchen,(555) 882-8043,Stillwater,5789 E Lindmere Blvd,Steakhouse,SME,4.1,869,never in CRM,https://www.basilbonekitchen.example
+5556129570,call,True,Cinder Wine Bar,(555) 612-9570,Cedar Cross,2255 S Halloway St,Thai,SME,4.7,869,never in CRM,
+5552582965,desk,False,Rambler Wine Bar,(555) 258-2965,Rivera District,1859 E Serra St,Seafood,SME,3.7,868,open deal,https://www.ramblerwinebar.example
+5559351479,call,False,Wildwood Supper Club,(555) 935-1479,Kingsway,3717 W Rivermead Blvd,Greek,SME,4.4,867,never in CRM,
+5551785440,call,False,Alder Room,(555) 178-5440,Old Mill,3856 S Cortez Ave,Indian,SME,4.5,867,never in CRM,
+5552302577,call,False,Tin Roof Supper Club,(555) 230-2577,Marisol,635 W Mallow St,Indian,SME,4.6,864,never in CRM,
+5552685490,desk,False,Vesper Supper Club,(555) 268-5490,Sunfield,5351 N Calder Blvd,Seafood,SME,4.6,864,never in CRM,https://www.vespersupperclub.example
+5554645566,desk,False,Fallowfield Grill,(555) 464-5566,Rivera District,4271 S Lindmere Blvd,French,SME,4.1,864,never in CRM,https://www.fallowfieldgrill.example
+5557583881,desk,False,Orchard Taqueria Verano Bay,(555) 758-3881,Sablewood,7068 S Tarrow Ave,Spanish,SME,3.5,861,never in CRM,https://www.orchardtaqueria.example
+5551506162,visit,False,Bramble Brasserie,(555) 150-6162,Lantern Hill,4759 W Bayard Blvd,Italian,SME,4.45,860,never in CRM,
+5552533034,call,False,Cardinal Alehouse,(555) 253-3034,Fox Hollow,121 N Ashfield St,Indian,SME,4.4,860,never in CRM,
+5559722290,desk,False,Saffron Steakhouse,(555) 972-2290,Miradero,3021 S Cortez Rd,Indian,SME,4.0,858,never in CRM,https://www.saffronsteakhouse.example
+5559026105,desk,False,Fallowfield Taqueria - Fox Hollow,(555) 902-6105,Sablewood,3062 W Halloway Ave,Mexican,mid-cap,3.9,858,open deal,https://www.fallowfieldtaqueria.example
+5555591855,desk,False,Quill Dining Room,(555) 559-1855,Fox Hollow,1079 E Fennimore Rd,Vietnamese,SME,4.2,856,never in CRM,https://www.quilldiningroom.example
+5556600310,desk,True,Tin Roof Brasserie,(555) 660-0310,Alder Heights,1913 S Fennimore St,Mediterranean,SME,4.7,855,never in CRM,https://www.tinroofbrasserie.example
+5551315271,visit,False,Lantern Alehouse,(555) 131-5271,Stillwater,7324 E Rivermead Blvd,Contemporary,SME,4.8,854,never in CRM,
+5559849171,desk,False,Rosewater Room,(555) 984-9171,Bayview Flats,5285 W Ashfield Ave,Vietnamese,SME,3.45,850,never in CRM,https://www.rosewaterroom.example
+5557482588,desk,True,Zephyr Brasserie - Harbor Point,(555) 748-2588,Marisol,1595 West Bayard Ave,Indian,SME,4.3,849,never in CRM,https://www.zephyrbrasserie.example
+5555634582,call,False,Thicket Kitchen,(555) 563-4582,Harbor Point,849 E Vance Ave,Spanish,SME,3.7,847,never in CRM,
+5555587403,desk,False,Cobalt Trattoria Restaurant,(555) 558-7403,Rivera District,4156 North Ashfield St,Ethiopian,SME,3.67,847,open deal,https://www.cobalttrattoria.example
+5551844812,desk,False,Anchor Cantina,(555) 184-4812,Sunfield,1309 S Rivermead St,Spanish,SME,3.7,845,never in CRM,https://www.anchorcantina.example
+5557515481,desk,False,Zephyr Chophouse,(555) 751-5481,Bramble Row,5628 E Halloway Rd,Barbecue,SME,4.5,842,never in CRM,https://www.zephyrchophouse.example
+5559920053,call,False,Marigold Tavern,(555) 992-0053,Stillwater,7154 East Tarrow St,Thai,SME,3.45,840,never in CRM,
+5554531243,desk,True,VERDE TAVERN,(555) 453-1243,Corvo Heights,3655 W Prospect Street,Ethiopian,SME,3.67,837,never in CRM,https://www.verdetavern.example
+5558404844,desk,False,Ironwood Taqueria,(555) 840-4844,Bramble Row,3347 E Tarrow Rd,Thai,SME,4.5,833,never in CRM,https://www.ironwoodtaqueria.example
+5554146701,desk,False,Quarry Brasserie,(555) 414-6701,Miradero,3121 N Serra St,Indian,SME,4.7,831,never in CRM,https://www.quarrybrasserie.example
+5553922127,desk,False,Wren Brasserie,(555) 392-2127,Greenhithe,1414 W Tarrow Ave,Thai,SME,4.6,829,never in CRM,https://www.wrenbrasserie.example
+5559367358,desk,False,Nettle Supper Club - Bramble Row,(555) 936-7358,Bramble Row,1598 West Lindmere Avenue,Contemporary,SME,4.5,821,never in CRM,https://www.nettlesupperclub.example
+5551839308,desk,True,Cinder Trattoria,(555) 183-9308,Fox Hollow,6842 North Wexley Blvd,Mexican,SME,3.9,814,never in CRM,https://www.cindertrattoria.example
+5552548565,desk,False,Bellwether Taqueria,(555) 254-8565,Old Mill,6673 E Calder Rd,Mexican,SME,4.6,809,never in CRM,https://www.bellwethertaqueria.example
+5558582367,desk,False,Sixpence Table,(555) 858-2367,Ferrymead,7904 S Lindmere Blvd,Peruvian,SME,3.7,806,never in CRM,https://www.sixpencetable.example
+5554426882,desk,False,LANTERN BISTRO,(555) 442-6882,Rivera District,7910 E Bayard Avenue,Japanese,SME,3.67,801,open deal,https://www.lanternbistro.example
+5554623439,desk,True,Kingfisher Room,(555) 462-3439,Ferrymead,1297 E Halloway Rd,Mexican,SME,3.8,797,open deal,https://www.kingfisherroom.example
+5558701828,desk,False,Fallowfield Room,(555) 870-1828,Calder Park,723 S Quinton Rd,Polish,SME,3.5,797,never in CRM,https://www.fallowfieldroom.example
+5557740057,desk,False,Violet House,(555) 774-0057,Fox Hollow,2731 N Serra Rd,Seafood,SME,4.0,797,never in CRM,https://www.violethouse.example
+5557244994,desk,True,Copper Chophouse,(555) 724-4994,Alder Heights,321 N Rivermead Blvd,Greek,SME,4.45,794,never in CRM,https://www.copperchophouse.example
+5556400286,desk,False,Persimmon Dining Room,(555) 640-0286,Bayview Flats,6330 E Prospect Ave,Vietnamese,SME,4.3,791,never in CRM,https://www.persimmondiningroom.example
+5555383004,desk,True,Cardinal House,(555) 538-3004,Ashgrove,2660 W Tarrow Rd,Seafood,SME,3.7,789,never in CRM,https://www.cardinalhouse.example
+5559436020,desk,False,Silverfin Alehouse,(555) 943-6020,Fox Hollow,"4768 E Mallow Ave, Verano Bay",Italian,mid-cap,3.53,781,open deal,https://www.silverfinalehouse.example
+5552385772,call,False,Ember Steakhouse,(555) 238-5772,Ashgrove,2778 E Calder Blvd,Contemporary,SME,3.7,780,never in CRM,
+5558599691,desk,True,Little Bear Chophouse,(555) 859-9691,Fox Hollow,6064 E Serra Rd,Mexican,SME,4.0,773,never in CRM,https://www.littlebearchophouse.example
+5555357262,desk,True,Pike Room,(555) 535-7262,Palisade Park,2092 W Bayard Ave,Mexican,SME,3.5,768,open deal,https://www.pikeroom.example
+5554943814,desk,False,Umber Brasserie,(555) 494-3814,Calder Park,4028 W Rivermead Blvd,Contemporary,SME,3.55,764,never in CRM,https://www.umberbrasserie.example
+5553258671,desk,False,Roan Table,(555) 325-8671,Windrow,7986 N Lindmere Ave,Indian,SME,3.7,763,never in CRM,https://www.roantable.example
+5559199383,desk,False,Foxtail Supper Club,(555) 919-9383,Marisol,3764 N Ashfield Rd,Thai,large,4.2,762,open deal,https://www.foxtailsupperclub.example
+5557675879,call,False,Pike Bistro,(555) 767-5879,Stillwater,2553 South Lindmere Blvd,Thai,SME,3.95,749,never in CRM,
+5552684860,desk,False,The Nettle Tavern,(555) 268-4860,Miradero,"1932 S Prospect Blvd, Verano Bay",Indian,SME,4.45,747,never in CRM,https://www.nettletavern.example
+5559619489,desk,False,Silverfin Smokehouse,(555) 961-9489,Harbor Point,4142 W Fennimore St,Seafood,SME,4.55,743,never in CRM,https://www.silverfinsmokehouse.example
+5559744855,desk,False,Roan Smokehouse,(555) 974-4855,Windrow,3627 S Fennimore St,Seafood,SME,4.0,741,never in CRM,https://www.roansmokehouse.example
+5559566985,desk,True,Copper Taqueria,(555) 956-6985,Marisol,7714 W Rivermead Rd,Ethiopian,SME,4.6,740,never in CRM,https://www.coppertaqueria.example
+5552048120,desk,False,Olive & Ash Bistro,(555) 204-8120,Rivera District,6670 W Cortez Blvd,Spanish,SME,3.9,739,never in CRM,https://www.oliveashbistro.example
+5557701847,call,False,Vesper Steakhouse,(555) 770-1847,Ashgrove,4834 S Vance Blvd,Spanish,SME,4.1,737,open deal,
+5555961384,desk,True,Bramble Kitchen,(555) 596-1384,Corvo Heights,274 W Calder Blvd,Spanish,SME,4.3,736,never in CRM,https://www.bramblekitchen.example
+5559912147,desk,False,Vesper Wine Bar,(555) 991-2147,Miradero,2690 S Halloway Rd,Barbecue,SME,4.6,735,never in CRM,https://www.vesperwinebar.example
+5558505021,visit,False,Copper Room,(555) 850-5021,Ferrymead,7800 N Calder Ave,Ethiopian,SME,3.8,733,never in CRM,
+5553654245,desk,False,Quarry Dining Room,(555) 365-4245,Calder Park,5456 E Mallow St,Contemporary,SME,4.1,731,never in CRM,https://www.quarrydiningroom.example
+5557964038,desk,False,Ironwood Oyster Bar,(555) 796-4038,Sunfield,6915 East Rivermead Rd,Peruvian,SME,4.57,727,never in CRM,https://www.ironwoodoysterbar.example
+5552004732,desk,False,Alder Kitchen,(555) 200-4732,Kingsway,1605 E Lindmere Rd,Peruvian,SME,4.4,727,never in CRM,https://www.alderkitchen.example
+5555494041,desk,False,Yarrow Bistro - Stillwater,(555) 549-4041,Greenhithe,"326 S Mallow Rd, Verano Bay",Spanish,mid-cap,3.68,726,open deal,https://www.yarrowbistro.example
+5554865259,desk,False,Cardinal Cantina,(555) 486-5259,Kingsway,6307 E Halloway Blvd,Barbecue,SME,3.65,725,never in CRM,https://www.cardinalcantina.example
+5559093388,desk,True,Kingfisher Wine Bar,(555) 909-3388,Lantern Hill,1840 W Prospect Blvd,Polish,SME,3.8,722,never in CRM,https://www.kingfisherwinebar.example
+5559305037,desk,True,Copper Trattoria,(555) 930-5037,Miradero,4923 N Bayard Rd,Japanese,SME,3.83,718,never in CRM,https://www.coppertrattoria.example
+5559967188,desk,False,Bellwether Kitchen,(555) 996-7188,Windrow,5966 W Ashfield Ave,Mexican,SME,4.6,714,never in CRM,https://www.bellwetherkitchen.example
+5554518318,desk,False,SORREL TABLE,(555) 451-8318,Marisol,7782 West Wexley Road,Polish,SME,3.97,714,never in CRM,https://www.sorreltable.example
+5556998106,desk,False,Thistle Bistro Restaurant,(555) 699-8106,Cedar Cross,1341 East Lindmere Street,Japanese,SME,3.82,712,open deal,https://www.thistlebistro.example
+5557021453,visit,False,Roan Chophouse,(555) 702-1453,Rivera District,5038 S Bayard Ave,Polish,SME,4.4,710,never in CRM,
+5557895883,call,False,Understory Kitchen,(555) 789-5883,Ferrymead,7478 S Lindmere Ave,Seafood,SME,4.45,709,never in CRM,
+5557445746,desk,True,Northbank Grill,(555) 744-5746,Ferrymead,1325 E Vance Ave,Spanish,SME,3.8,708,never in CRM,https://www.northbankgrill.example
+5553728108,call,True,Palisade Bistro,(555) 372-8108,Corvo Heights,5907 East Mallow Avenue,Peruvian,SME,4.3,705,never in CRM,
+5557725087,desk,False,Nine Bridges Dining Room,(555) 772-5087,Marisol,176 W Cortez Rd,Ethiopian,SME,3.4,702,never in CRM,https://www.ninebridgesdiningroom.example
+5552949025,desk,False,Nightjar Trattoria,(555) 294-9025,Greenhithe,7565 W Bayard Blvd,Mexican,SME,3.7,701,never in CRM,https://www.nightjartrattoria.example
+5555188227,desk,True,Cobalt Alehouse,(555) 518-8227,Quarry End,2231 S Cortez Rd,Indian,SME,4.6,699,open deal,https://www.cobaltalehouse.example
+5559208680,call,False,TEST DO NOT USE,(555) 920-8680,Corvo Heights,3359 W Wexley Rd,Spanish,SME,3.6,699,never in CRM,
+5559904276,desk,False,Amber House,(555) 990-4276,Lantern Hill,974 E Bayard Rd,Spanish,SME,4.6,698,never in CRM,https://www.amberhouse.example
+5554966837,desk,False,Ember Grill,(555) 496-6837,Quarry End,6481 E Ashfield Ave,Korean,SME,4.8,690,never in CRM,https://www.embergrill.example
+5556859359,desk,False,Olive & Ash Wine Bar,(555) 685-9359,Fox Hollow,"3009 E Serra Rd, Verano Bay",Thai,large,4.6,688,open deal,https://www.oliveashwinebar.example
+5557286928,desk,False,Kinship Smokehouse,(555) 728-6928,Stillwater,4481 N Serra Ave,Japanese,SME,4.3,687,never in CRM,https://www.kinshipsmokehouse.example
+5558140091,call,False,Anchor Smokehouse,(555) 814-0091,Ashgrove,7706 N Fennimore St,Greek,SME,4.1,683,never in CRM,
+5556061120,desk,False,Sable Table,(555) 606-1120,Stillwater,7859 N Quinton Blvd,Ethiopian,SME,4.0,682,open deal,https://www.sabletable.example
+5559287868,desk,True,Tin Roof Chophouse,(555) 928-7868,Quarry End,1238 S Ashfield Rd,Japanese,SME,3.65,681,never in CRM,https://www.tinroofchophouse.example
+5553624886,desk,True,Ironwood Table,(555) 362-4886,Alder Heights,1575 South Halloway Avenue,Greek,SME,4.53,681,never in CRM,https://www.ironwoodtable.example
+5551621627,desk,False,Blue Heron Tavern,(555) 162-1627,Lantern Hill,4514 E Bayard Blvd,Ethiopian,SME,4.6,676,never in CRM,https://www.blueherontavern.example
+5553305692,call,False,Foxglove House - Stillwater,(555) 330-5692,Ferrymead,2737 N Fennimore Boulevard,Indian,SME,3.55,675,never in CRM,
+5554803326,desk,True,Cardinal Kitchen,(555) 480-3326,Ashgrove,844 S Mallow Blvd,Thai,SME,3.63,673,never in CRM,https://www.cardinalkitchen.example
+5555915013,desk,True,Bramble Tavern,(555) 591-5013,Harbor Point,1941 E Vance Blvd,Japanese,SME,4.0,672,never in CRM,https://www.brambletavern.example
+5559078907,desk,False,Driftwood Cantina,(555) 907-8907,Ashgrove,6573 N Ashfield St,Mediterranean,SME,3.7,667,open deal,https://www.driftwoodcantina.example
+5558469957,desk,True,Saffron Table - Quarry End,(555) 846-9957,Bramble Row,4535 W Bayard Road,Steakhouse,SME,3.7,667,never in CRM,https://www.saffrontable.example
+5559357793,desk,False,Redbird Osteria,(555) 935-7793,Marisol,2942 W Fennimore St,Japanese,SME,3.5,664,never in CRM,https://www.redbirdosteria.example
+5557376319,desk,True,Ironwood Bistro,(555) 737-6319,Calder Park,2936 E Rivermead Ave,Thai,SME,4.6,661,never in CRM,https://www.ironwoodbistro.example
+5555897276,desk,False,Jackdaw Kitchen,(555) 589-7276,Templeton,3953 S Fennimore St,Italian,SME,3.4,661,never in CRM,https://www.jackdawkitchen.example
+5555662897,desk,False,Palisade Room,(555) 566-2897,Lantern Hill,5538 S Vance Blvd,Contemporary,SME,3.8,660,never in CRM,https://www.palisaderoom.example
+5553126690,desk,False,Quill Kitchen,(555) 312-6690,Templeton,4160 E Tarrow St,Greek,SME,4.63,656,never in CRM,https://www.quillkitchen.example
+5555054911,desk,False,Marrow Oyster Bar,(555) 505-4911,Greenhithe,1552 N Bayard Blvd,Steakhouse,SME,4.25,651,never in CRM,https://www.marrowoysterbar.example
+5552933447,desk,True,Halcyon Tavern,(555) 293-3447,Fox Hollow,713 E Serra Ave,Greek,SME,4.65,643,never in CRM,https://www.halcyontavern.example
+5553764216,desk,True,Cardinal Smokehouse,(555) 376-4216,Bayview Flats,1618 E Bayard St,Japanese,SME,4.2,639,never in CRM,https://www.cardinalsmokehouse.example
+5557159728,call,False,Dovetail Bistro,(555) 715-9728,Kingsway,1430 N Prospect Blvd,Contemporary,SME,3.85,637,open deal,
+5551091220,desk,False,WREN TRATTORIA,(555) 109-1220,Calder Park,4229 East Ashfield Street,Italian,SME,4.05,636,never in CRM,https://www.wrentrattoria.example
+5554973534,desk,False,Silverfin Trattoria,(555) 497-3534,Bayview Flats,6085 W Lindmere St,Spanish,SME,3.93,636,never in CRM,https://www.silverfintrattoria.example
+5554002959,desk,False,Rookery Alehouse,(555) 400-2959,Miradero,3040 N Lindmere Rd,Seafood,SME,4.2,635,open deal,https://www.rookeryalehouse.example
+5556919813,visit,False,Cinder Oyster Bar,(555) 691-9813,Fox Hollow,863 East Cortez Road,Seafood,SME,4.9,634,never in CRM,
+5559286828,desk,False,Gallow Table,(555) 928-6828,Sablewood,3608 S Lindmere Blvd,Vietnamese,large,4.8,630,open deal,https://www.gallowtable.example
+5553837725,desk,False,Heron Chophouse,(555) 383-7725,Cedar Cross,7073 W Halloway St,Seafood,SME,4.7,628,open deal,https://www.heronchophouse.example
+5556617407,desk,False,Lantern Grill,(555) 661-7407,Bayview Flats,290 N Bayard Ave,Polish,SME,4.27,620,open deal,https://www.lanterngrill.example
+5556442073,desk,True,Halcyon Dining Room,(555) 644-2073,Corvo Heights,2433 N Prospect Ave,Contemporary,mid-cap,4.0,619,open deal,https://www.halcyondiningroom.example
+5552034425,desk,False,Northbank Dining Room,(555) 203-4425,Greenhithe,3386 S Cortez St,Thai,SME,4.5,619,never in CRM,https://www.northbankdiningroom.example
+5551280494,desk,False,Rookery Cantina,(555) 128-0494,Stillwater,2956 W Wexley Ave,Vietnamese,SME,4.25,616,never in CRM,https://www.rookerycantina.example
+5557895103,call,False,Saffron Brasserie,(555) 789-5103,Harbor Point,4071 W Mallow Ave,Polish,SME,3.8,616,open deal,
+5551401142,desk,False,Stonecutter Trattoria,(555) 140-1142,Templeton,2140 W Vance St,Korean,SME,3.4,606,open deal,https://www.stonecuttertrattoria.example
+5552774342,desk,False,Warbler Grill,(555) 277-4342,Corvo Heights,171 W Bayard Rd,Vietnamese,SME,4.7,606,never in CRM,https://www.warblergrill.example
+5552259766,desk,False,Rambler Table,(555) 225-9766,Stillwater,3591 N Lindmere Rd,Ethiopian,SME,3.8,605,never in CRM,https://www.ramblertable.example
+5558062116,desk,False,Vesper Table,(555) 806-2116,Sunfield,4600 W Vance Ave,Korean,SME,4.58,605,open deal,https://www.vespertable.example
+5555641735,desk,True,Wildwood Bistro,(555) 564-1735,Bramble Row,1146 S Ashfield St,Mediterranean,SME,4.7,605,never in CRM,https://www.wildwoodbistro.example
+5558212080,desk,True,Olive & Ash Dining Room,(555) 821-2080,Bramble Row,4513 S Mallow Blvd,Thai,SME,4.7,604,never in CRM,https://www.oliveashdiningroom.example
+5558959826,desk,True,Rambler Taqueria,(555) 895-9826,Ferrymead,3947 West Serra Blvd,Contemporary,SME,3.55,602,never in CRM,https://www.ramblertaqueria.example
+5554573775,call,False,Bellwether Tavern,(555) 457-3775,Bramble Row,7291 S Bayard St,Ethiopian,SME,3.7,600,never in CRM,
+5558031171,desk,False,Rambler Grill - Bramble Row,(555) 803-1171,Marisol,3788 South Rivermead Street,Korean,SME,3.75,591,never in CRM,https://www.ramblergrill.example
+5557807842,desk,False,Stonecutter Chophouse Restaurant,(555) 780-7842,Cedar Cross,1329 N Bayard Ave,Barbecue,large,3.8,590,open deal,https://www.stonecutterchophouse.example
+5551163732,desk,False,The Lantern Chophouse,(555) 116-3732,Sablewood,5120 N Rivermead St,Steakhouse,SME,4.73,589,open deal,https://www.lanternchophouse.example
+5551144529,desk,False,Larkspur Osteria,(555) 114-4529,Marisol,7116 W Quinton Ave,Italian,SME,3.5,588,never in CRM,https://www.larkspurosteria.example
+5552583898,desk,False,Kingfisher Table,(555) 258-3898,Old Mill,1551 E Ashfield Rd,Thai,SME,4.1,586,open deal,https://www.kingfishertable.example
+5556271425,desk,False,Lantern Trattoria,(555) 627-1425,Greenhithe,1359 East Vance St,Polish,SME,4.5,584,never in CRM,https://www.lanterntrattoria.example
+5554135026,desk,False,Anchor Taqueria,(555) 413-5026,Alder Heights,3519 S Cortez Blvd,Steakhouse,SME,3.5,578,never in CRM,https://www.anchortaqueria.example
+5558022177,visit,False,Sorrel Chophouse,(555) 802-2177,Sablewood,6018 N Serra Rd,Contemporary,SME,4.2,572,open deal,
+5555254751,desk,False,Rosewater Oyster Bar,(555) 525-4751,Palisade Park,5397 E Vance Rd,Mexican,SME,4.1,568,never in CRM,https://www.rosewateroysterbar.example
+5552520315,desk,False,Marrow Trattoria,(555) 252-0315,Cedar Cross,4479 W Rivermead Rd,Seafood,SME,3.35,568,never in CRM,https://www.marrowtrattoria.example
+5555734835,desk,False,Halcyon Steakhouse,(555) 573-4835,Sablewood,699 N Mallow Ave,Greek,SME,4.45,562,never in CRM,https://www.halcyonsteakhouse.example
+5552747438,desk,False,Cardinal Osteria,(555) 274-7438,Bayview Flats,7697 E Rivermead Blvd,Japanese,SME,4.3,562,never in CRM,https://www.cardinalosteria.example
+5559810674,call,True,Foxglove Bistro,(555) 981-0674,Greenhithe,3280 N Fennimore Avenue,Steakhouse,SME,4.12,561,never in CRM,
+5558156084,desk,False,The Fernwood Tavern,(555) 815-6084,Marisol,2018 South Lindmere Ave,Korean,SME,4.4,561,never in CRM,https://www.fernwoodtavern.example
+5554807002,call,False,Foxtail Osteria,(555) 480-7002,Harbor Point,5162 E Vance Ave,Seafood,SME,4.0,556,never in CRM,
+5558295726,desk,True,Stonecutter Brasserie,(555) 829-5726,Stillwater,6136 N Prospect Ave,French,mid-cap,4.0,543,open deal,https://www.stonecutterbrasserie.example
+5557927801,desk,False,Persimmon Taqueria,(555) 792-7801,Windrow,2591 E Bayard St,Greek,SME,4.2,543,never in CRM,https://www.persimmontaqueria.example
+5556918651,desk,True,Palisade Tavern,(555) 691-8651,Bramble Row,7174 W Serra Rd,Steakhouse,SME,4.8,542,never in CRM,https://www.palisadetavern.example
+5559739616,desk,True,Driftwood Supper Club Verano Bay,(555) 973-9616,Lantern Hill,7028 S Lindmere St,Korean,mid-cap,4.0,540,open deal,https://www.driftwoodsupperclub.example
+5553740494,desk,False,Kingfisher Bistro,(555) 374-0494,Miradero,181 South Vance Street,French,SME,4.4,536,written off,https://www.kingfisherbistro.example
+5552887024,desk,True,Bellwether Dining Room,(555) 288-7024,Rivera District,6396 W Calder St,Mediterranean,SME,3.9,531,never in CRM,https://www.bellwetherdiningroom.example
+5551639561,desk,False,Ironwood Osteria,(555) 163-9561,Kingsway,1385 S Quinton Ave,Spanish,SME,4.4,526,never in CRM,https://www.ironwoodosteria.example
+5557846767,desk,False,Zephyr Alehouse,(555) 784-6767,Bayview Flats,4474 E Rivermead Ave,Greek,SME,3.7,525,open deal,https://www.zephyralehouse.example
+5551359326,desk,True,The Magpie Steakhouse,(555) 135-9326,Calder Park,6636 West Calder Ave,Mediterranean,SME,4.1,518,never in CRM,https://www.magpiesteakhouse.example
+5558410047,desk,False,Blue Heron Trattoria Restaurant,(555) 841-0047,Calder Park,1018 S Calder Rd,Indian,SME,4.15,517,never in CRM,https://www.blueherontrattoria.example
+5552823650,desk,False,Foxglove Smokehouse,(555) 282-3650,Windrow,7896 N Mallow Ave,Italian,SME,4.85,515,never in CRM,https://www.foxglovesmokehouse.example
+5557461807,call,True,The Loam Trattoria,(555) 746-1807,Sunfield,"3803 W Serra Blvd, Verano Bay",Polish,SME,4.7,514,never in CRM,
+5552850661,call,True,Motherland Oyster Bar,(555) 285-0661,Kingsway,1165 S Halloway Blvd,Spanish,SME,3.8,510,customer,
+5555261226,desk,False,Tallgrass Trattoria,(555) 526-1226,Sunfield,6308 South Cortez Rd,Spanish,SME,3.93,505,never in CRM,https://www.tallgrasstrattoria.example
+5559557005,desk,False,Kettle Chophouse,(555) 955-7005,Bramble Row,2387 W Lindmere Blvd,Greek,SME,4.45,505,written off,https://www.kettlechophouse.example
+5555708441,call,False,Fernwood Osteria,(555) 570-8441,Ferrymead,252 S Rivermead Rd,Barbecue,SME,4.6,505,open deal,
+5555500833,desk,False,Warbler Dining Room,(555) 550-0833,Ashgrove,1108 N Mallow St,Barbecue,SME,3.8,503,never in CRM,https://www.warblerdiningroom.example
+5551197849,desk,False,Heron Cantina,(555) 119-7849,Old Mill,5508 N Bayard St,Thai,SME,4.4,502,open deal,https://www.heroncantina.example
+5552505310,call,True,Tin Roof Cantina,(555) 250-5310,Windrow,1698 W Halloway Rd,Korean,SME,3.75,496,never in CRM,
+5557613970,call,False,Ironwood Chophouse - Cedar Cross,(555) 761-3970,Bramble Row,6885 North Tarrow Blvd,Ethiopian,SME,3.5,495,never in CRM,
+5557342572,desk,False,Wildwood Kitchen,(555) 734-2572,Palisade Park,2174 S Mallow St,Japanese,SME,4.25,494,never in CRM,https://www.wildwoodkitchen.example
+5552478021,desk,False,Olive & Ash Chophouse,(555) 247-8021,Windrow,5842 W Wexley Ave,Japanese,SME,4.4,492,never in CRM,https://www.oliveashchophouse.example
+5557296161,call,True,Wildwood Trattoria,(555) 729-6161,Bayview Flats,1359 W Vance St,Italian,SME,4.9,489,never in CRM,
+5555431877,desk,False,Quarry Cantina,(555) 543-1877,Sunfield,633 W Cortez St,French,SME,4.33,480,never in CRM,https://www.quarrycantina.example
+5557206330,desk,True,Sparrow Grill,(555) 720-6330,Lantern Hill,2642 N Quinton St,Ethiopian,SME,4.4,477,never in CRM,https://www.sparrowgrill.example
+5551856681,desk,False,Cinder Taqueria,(555) 185-6681,Ashgrove,7700 N Quinton Blvd,Polish,SME,4.2,475,never in CRM,https://www.cindertaqueria.example
+5554914619,desk,False,Mercado Kitchen,(555) 491-4619,Calder Park,3406 E Bayard Rd,Indian,SME,4.58,474,never in CRM,https://www.mercadokitchen.example
+5557079080,desk,False,Ironwood Kitchen,(555) 707-9080,Windrow,2617 E Lindmere St,Italian,SME,4.0,470,never in CRM,https://www.ironwoodkitchen.example
+5557167052,desk,False,Magpie Cantina,(555) 716-7052,Lantern Hill,5724 W Ashfield Ave,Vietnamese,SME,4.5,469,never in CRM,https://www.magpiecantina.example
+5558910878,desk,False,Nettle Brasserie,(555) 891-0878,Ferrymead,4001 S Cortez Ave,Peruvian,SME,4.5,467,never in CRM,https://www.nettlebrasserie.example
+5554339255,desk,True,Sparrow Supper Club,(555) 433-9255,Ferrymead,2656 E Vance St,Ethiopian,SME,4.4,467,never in CRM,https://www.sparrowsupperclub.example
+5558217288,desk,False,Understory Brasserie,(555) 821-7288,Corvo Heights,614 W Wexley Ave,Steakhouse,SME,3.6,466,never in CRM,https://www.understorybrasserie.example
+5556940146,desk,False,Nine Bridges Bistro,(555) 694-0146,Ferrymead,5405 E Calder Ave,Vietnamese,SME,4.1,461,never in CRM,https://www.ninebridgesbistro.example
+5556119281,desk,True,Tidewater Wine Bar,(555) 611-9281,Stillwater,7107 S Halloway Ave,Polish,SME,3.95,459,open deal,https://www.tidewaterwinebar.example
+5556442487,call,False,Rookery Smokehouse,(555) 644-2487,Calder Park,2500 S Vance Ave,Italian,SME,3.7,459,never in CRM,
+5551286091,call,False,Kinship Trattoria,(555) 128-6091,Old Mill,5836 North Vance Street,Mediterranean,SME,4.2,456,never in CRM,
+5555477324,call,False,Silverfin Oyster Bar,(555) 547-7324,Marisol,4756 N Serra Ave,French,SME,4.25,456,never in CRM,
+5559884332,desk,False,Prairie Taqueria,(555) 988-4332,Quarry End,2606 N Wexley St,Indian,SME,4.4,451,never in CRM,https://www.prairietaqueria.example
+5555716094,desk,False,Foxtail Wine Bar,(555) 571-6094,Alder Heights,2399 N Wexley Rd,Contemporary,SME,3.85,450,never in CRM,https://www.foxtailwinebar.example
+5551516999,desk,False,Hearth Brasserie,(555) 151-6999,Greenhithe,1812 N Mallow St,Greek,SME,4.1,449,customer,https://www.hearthbrasserie.example
+5557488049,desk,False,Blue Heron Cantina,(555) 748-8049,Calder Park,444 N Lindmere Blvd,Peruvian,SME,4.2,448,never in CRM,https://www.blueheroncantina.example
+5558279097,call,False,Sable Steakhouse - Ashgrove,(555) 827-9097,Sablewood,1615 East Tarrow Boulevard,Greek,SME,4.15,438,never in CRM,
+5559862359,call,False,Palisade Chophouse,(555) 986-2359,Ashgrove,7801 W Calder Rd,Italian,SME,3.43,435,never in CRM,
+5551016758,desk,False,Understory Supper Club,(555) 101-6758,Sablewood,6288 E Mallow Blvd,Thai,SME,4.2,433,never in CRM,https://www.understorysupperclub.example
+5555413866,call,False,Salt & Vine Alehouse,(555) 541-3866,Stillwater,3203 S Cortez Rd,Thai,SME,4.55,429,never in CRM,
+5558909956,desk,False,Umber House,(555) 890-9956,Quarry End,2879 S Halloway Ave,Seafood,SME,3.7,427,never in CRM,https://www.umberhouse.example
+5555385752,call,True,Rookery Osteria,(555) 538-5752,Ferrymead,7458 E Quinton St,Seafood,SME,4.3,416,never in CRM,
+5552659233,desk,False,Halcyon House,(555) 265-9233,Harbor Point,790 S Bayard Blvd,Mexican,SME,3.7,413,never in CRM,https://www.halcyonhouse.example
+5558540356,desk,False,Halcyon Cantina,(555) 854-0356,Sunfield,3491 W Rivermead Blvd,Indian,SME,3.5,395,never in CRM,https://www.halcyoncantina.example
+5553027405,desk,False,Nightjar Bistro,(555) 302-7405,Stillwater,7305 S Halloway St,Korean,mid-cap,4.4,393,never in CRM,https://www.nightjarbistro.example
+5553812522,desk,True,Nightjar Room,(555) 381-2522,Cedar Cross,7968 N Calder St,French,SME,4.0,392,open deal,https://www.nightjarroom.example
+5558072077,desk,False,Copper Osteria,(555) 807-2077,Calder Park,3420 N Calder Ave,Mediterranean,SME,3.8,391,customer,https://www.copperosteria.example
+5556278100,desk,False,Orchard Oyster Bar,(555) 627-8100,Windrow,5335 S Quinton Rd,Thai,SME,4.6,387,customer,https://www.orchardoysterbar.example
+5553957496,desk,False,Mercado Oyster Bar,(555) 395-7496,Old Mill,3782 W Wexley Blvd,Polish,SME,4.5,382,never in CRM,https://www.mercadooysterbar.example
+5557713770,desk,True,Blue Heron Table,(555) 771-3770,Miradero,872 N Rivermead Rd,Contemporary,SME,4.5,374,never in CRM,https://www.blueherontable.example
+5557731214,call,True,Tallgrass Supper Club,(555) 773-1214,Old Mill,1347 S Serra Ave,Barbecue,SME,3.45,371,never in CRM,
+5557735834,desk,False,Verde Brasserie,(555) 773-5834,Windrow,6612 E Halloway Ave,Thai,SME,3.7,363,never in CRM,https://www.verdebrasserie.example
+5557111637,call,False,Oxbow Steakhouse,(555) 711-1637,Bramble Row,2031 S Calder Blvd,Barbecue,SME,3.8,362,open deal,
+5559487955,desk,False,Tidewater Chophouse - Stillwater,(555) 948-7955,Templeton,3963 East Calder Street,Greek,SME,4.63,360,never in CRM,https://www.tidewaterchophouse.example
+5551692700,desk,False,Persimmon Chophouse,(555) 169-2700,Ferrymead,4851 W Lindmere Rd,Vietnamese,SME,4.5,359,never in CRM,https://www.persimmonchophouse.example
+5551489160,desk,False,Inkwell Smokehouse,(555) 148-9160,Cedar Cross,2113 W Serra Ave,Japanese,SME,3.8,359,never in CRM,https://www.inkwellsmokehouse.example
+5558207049,desk,False,Hearth Bistro,(555) 820-7049,Fox Hollow,5033 East Lindmere St,Indian,SME,3.9,357,never in CRM,https://www.hearthbistro.example
+5555716580,call,False,Bluebird Chophouse,(555) 571-6580,Greenhithe,6410 S Vance Blvd,Seafood,SME,4.5,352,never in CRM,
+5557317493,desk,True,Salt & Vine Wine Bar,(555) 731-7493,Cedar Cross,1845 E Rivermead St,Polish,SME,3.7,351,never in CRM,https://www.saltvinewinebar.example
+5556900951,call,False,Prairie Tavern,(555) 690-0951,Greenhithe,3069 N Wexley Ave,Mexican,SME,4.75,333,never in CRM,
+5551914544,desk,False,Bellwether Wine Bar,(555) 191-4544,Marisol,7324 E Vance Ave,Mediterranean,large,3.6,331,never in CRM,https://www.bellwetherwinebar.example
+5558936959,visit,False,Inkwell Room,(555) 893-6959,Ashgrove,5127 S Wexley St,Indian,SME,4.6,327,never in CRM,
+5556391315,desk,False,Anchor Brasserie,(555) 639-1315,Kingsway,789 S Ashfield St,Italian,large,3.95,326,open deal,https://www.anchorbrasserie.example
+5556929482,desk,True,Zephyr Kitchen,(555) 692-9482,Kingsway,7950 N Tarrow St,Polish,SME,4.1,322,never in CRM,https://www.zephyrkitchen.example
+5556469556,desk,False,Nettle Dining Room,(555) 646-9556,Kingsway,4238 W Rivermead Blvd,Spanish,SME,4.1,321,never in CRM,https://www.nettlediningroom.example
+5558584311,call,False,Sample Entry - ignore,(555) 858-4311,Calder Park,1293 E Prospect Rd,Ethiopian,SME,3.3,318,never in CRM,
+5552673680,desk,True,Olive & Ash House,(555) 267-3680,Harbor Point,4456 N Quinton Blvd,Steakhouse,SME,3.97,315,open deal,https://www.oliveashhouse.example
+5552340940,desk,True,Bellwether Osteria,(555) 234-0940,Sunfield,7641 S Cortez Rd,Japanese,SME,4.65,314,never in CRM,https://www.bellwetherosteria.example
+5554571339,call,True,Olive & Ash Trattoria - Miradero,(555) 457-1339,Greenhithe,2463 W Halloway Road,Indian,SME,4.03,313,never in CRM,
+5554083229,call,False,Larkspur Kitchen,(555) 408-3229,Old Mill,6869 E Prospect Rd,Vietnamese,SME,4.2,310,never in CRM,
+5556967421,desk,False,Ember Taqueria,(555) 696-7421,Palisade Park,640 W Bayard Ave,Peruvian,SME,4.1,310,never in CRM,https://www.embertaqueria.example
+5555389492,visit,False,Foxtail Smokehouse,(555) 538-9492,Marisol,663 E Prospect Blvd,Spanish,SME,4.5,304,never in CRM,
+5551787187,desk,False,Thicket Dining Room,(555) 178-7187,Windrow,2704 S Serra Ave,Spanish,SME,3.5,303,never in CRM,https://www.thicketdiningroom.example
+5555633839,desk,False,Cobalt Steakhouse,(555) 563-3839,Bramble Row,2919 W Lindmere Blvd,Korean,SME,4.6,302,never in CRM,https://www.cobaltsteakhouse.example
+5556582826,call,False,Bellwether Alehouse,(555) 658-2826,Stillwater,4896 E Tarrow Ave,Indian,SME,3.7,302,open deal,
+5559695652,desk,False,Olive & Ash Grill,(555) 969-5652,Palisade Park,5047 W Halloway Road,Thai,SME,3.47,300,never in CRM,https://www.oliveashgrill.example
+5558248942,desk,False,Tin Roof Trattoria,(555) 824-8942,Kingsway,1599 S Rivermead Blvd,Thai,SME,3.5,298,never in CRM,https://www.tinrooftrattoria.example
+5553587926,desk,False,Lantern Osteria,(555) 358-7926,Greenhithe,4945 E Fennimore Blvd,Barbecue,SME,3.55,294,never in CRM,https://www.lanternosteria.example
+5556783413,call,False,Juniper House,(555) 678-3413,Calder Park,5769 E Mallow Blvd,Peruvian,SME,3.6,290,never in CRM,
+5552312804,desk,False,Kettle Kitchen,(555) 231-2804,Marisol,2562 S Lindmere Rd,Mediterranean,SME,4.1,288,never in CRM,https://www.kettlekitchen.example
+5553349183,desk,False,Foxglove Cantina,(555) 334-9183,Corvo Heights,1902 N Wexley St,Mexican,SME,4.35,286,never in CRM,https://www.foxglovecantina.example
+5555499313,desk,False,Bellwether Table,(555) 549-9313,Palisade Park,2114 W Mallow St,Mediterranean,SME,4.1,283,never in CRM,https://www.bellwethertable.example
+5554003193,desk,False,Mercado Alehouse,(555) 400-3193,Templeton,6679 S Calder Rd,Indian,SME,4.6,282,never in CRM,https://www.mercadoalehouse.example
+5551455580,call,False,Roan Room,(555) 145-5580,Ashgrove,1657 W Tarrow St,Greek,SME,3.5,281,never in CRM,
+5558652070,call,True,Quarry Trattoria,(555) 865-2070,Windrow,6343 E Ashfield St,Barbecue,SME,3.5,280,never in CRM,
+5557875728,desk,False,Tin Roof Grill,(555) 787-5728,Cedar Cross,1070 S Vance St,Vietnamese,SME,3.9,279,never in CRM,https://www.tinroofgrill.example
+5556333160,visit,False,Magpie Kitchen,(555) 633-3160,Sablewood,2425 S Mallow Rd,Polish,SME,3.6,279,never in CRM,
+5554052594,desk,False,Driftwood Trattoria,(555) 405-2594,Fox Hollow,7398 S Wexley Ave,Barbecue,SME,3.7,272,never in CRM,https://www.driftwoodtrattoria.example
+5555287831,call,False,Nine Bridges Oyster Bar,(555) 528-7831,Templeton,5036 S Bayard St,Indian,SME,3.3,269,never in CRM,
+5554143065,desk,False,Foxtail Brasserie,(555) 414-3065,Rivera District,7559 W Ashfield Rd,Ethiopian,SME,4.1,268,never in CRM,https://www.foxtailbrasserie.example
+5551759419,desk,False,Warbler Alehouse,(555) 175-9419,Palisade Park,"1772 S Mallow Rd, Verano Bay",Italian,SME,4.13,267,never in CRM,https://www.warbleralehouse.example
+5553774564,desk,False,Rosewater House,(555) 377-4564,Corvo Heights,6697 S Ashfield St,Steakhouse,SME,3.65,264,never in CRM,https://www.rosewaterhouse.example
+5555144194,desk,False,Hearth Chophouse,(555) 514-4194,Ferrymead,980 E Rivermead St,Thai,SME,4.0,257,never in CRM,https://www.hearthchophouse.example
+5553785472,desk,False,Salt & Vine Oyster Bar,(555) 378-5472,Lantern Hill,5550 S Mallow St,Peruvian,SME,4.3,257,never in CRM,https://www.saltvineoysterbar.example
+5558065705,desk,False,Quill Room,(555) 806-5705,Cedar Cross,5428 South Ashfield Avenue,Mexican,SME,4.3,253,never in CRM,https://www.quillroom.example
+5556384318,desk,False,Northbank Supper Club,(555) 638-4318,Bayview Flats,1781 N Bayard Blvd,Steakhouse,SME,3.6,249,never in CRM,https://www.northbanksupperclub.example
+5551775267,desk,False,Copper Tavern,(555) 177-5267,Sablewood,1047 N Wexley St,Barbecue,SME,4.63,247,never in CRM,https://www.coppertavern.example
+5555655033,desk,False,Roan Tavern,(555) 565-5033,Templeton,2103 S Tarrow St,Korean,SME,3.5,242,never in CRM,https://www.roantavern.example
+5557901402,desk,True,Violet Chophouse,(555) 790-1402,Rivera District,3015 East Prospect Blvd,Mediterranean,SME,4.5,238,never in CRM,https://www.violetchophouse.example
+5552941040,desk,False,Tallgrass Taqueria,(555) 294-1040,Quarry End,1545 N Rivermead Blvd,Steakhouse,SME,4.25,238,never in CRM,https://www.tallgrasstaqueria.example
+5555510999,desk,False,Cinder Chophouse,(555) 551-0999,Ferrymead,3136 W Prospect St,Vietnamese,SME,4.4,238,never in CRM,https://www.cinderchophouse.example
+5558151704,desk,False,Bellwether Room,(555) 815-1704,Ashgrove,1300 S Tarrow Ave,Seafood,SME,4.45,237,never in CRM,https://www.bellwetherroom.example
+5555485521,desk,False,Cobalt Osteria,(555) 548-5521,Sablewood,1350 W Lindmere Blvd,Mediterranean,SME,4.5,231,never in CRM,https://www.cobaltosteria.example
+5555623650,desk,False,DRIFTWOOD BRASSERIE,(555) 562-3650,Miradero,5255 East Bayard Boulevard,Barbecue,SME,3.43,229,open deal,https://www.driftwoodbrasserie.example
+5551835255,desk,False,HARROW TABLE,(555) 183-5255,Sablewood,2061 South Lindmere Street,Vietnamese,SME,4.73,228,never in CRM,https://www.harrowtable.example
+5552743879,desk,False,Saffron Grill,(555) 274-3879,Ferrymead,6970 W Calder Ave,Spanish,SME,4.7,227,never in CRM,https://www.saffrongrill.example
+5553563139,visit,False,PLUMB TRATTORIA,(555) 356-3139,Quarry End,2017 E Mallow Rd,Thai,SME,4.4,226,never in CRM,
+5552784765,desk,False,Thistle Room - Templeton,(555) 278-4765,Greenhithe,669 E Wexley Road,Peruvian,SME,4.35,225,open deal,https://www.thistleroom.example
+5557077181,desk,False,The Kingfisher House,(555) 707-7181,Calder Park,1587 West Prospect Boulevard,Steakhouse,SME,4.95,223,never in CRM,https://www.kingfisherhouse.example
+5553164162,call,False,Rookery Bistro,(555) 316-4162,Miradero,6659 N Rivermead Blvd,Italian,SME,4.0,220,never in CRM,
+5555919937,desk,False,Quill Osteria Verano Bay,(555) 591-9937,Calder Park,3306 South Ashfield Street,Korean,SME,4.4,215,open deal,https://www.quillosteria.example
+5556886635,desk,False,Amber Taqueria,(555) 688-6635,Fox Hollow,6870 S Calder Rd,Spanish,mid-cap,4.2,215,never in CRM,https://www.ambertaqueria.example
+5557922749,desk,True,Northbank Alehouse,(555) 792-2749,Stillwater,1567 E Fennimore St,Peruvian,SME,3.5,212,open deal,https://www.northbankalehouse.example
+5554285850,desk,False,Lantern House Verano Bay,(555) 428-5850,Greenhithe,1729 S Tarrow Road,Seafood,SME,3.65,208,never in CRM,https://www.lanternhouse.example
+5555188277,desk,False,Copper Grill,(555) 518-8277,Fox Hollow,4804 E Fennimore St,Spanish,SME,4.3,205,never in CRM,https://www.coppergrill.example
+5557711284,desk,False,Mercado Grill,(555) 771-1284,Bayview Flats,1481 N Serra Blvd,French,SME,4.1,201,never in CRM,https://www.mercadogrill.example
+5559627538,call,True,Quill Oyster Bar,(555) 962-7538,Greenhithe,3930 S Serra Rd,Indian,SME,4.3,199,never in CRM,
+5557600619,desk,False,Tallgrass Steakhouse,(555) 760-0619,Greenhithe,4950 S Vance St,French,SME,3.6,198,never in CRM,https://www.tallgrasssteakhouse.example
+5555003879,desk,True,Dovetail Trattoria,(555) 500-3879,Lantern Hill,218 E Quinton Rd,Japanese,SME,4.27,195,never in CRM,https://www.dovetailtrattoria.example
+5556406643,desk,True,The Tallgrass Room,(555) 640-6643,Templeton,7789 E Bayard Avenue,Steakhouse,SME,4.4,192,never in CRM,https://www.tallgrassroom.example
+5557566332,call,False,NIGHTJAR HOUSE,(555) 756-6332,Sunfield,4506 E Halloway Boulevard,Vietnamese,SME,4.6,190,never in CRM,
+5558100779,desk,True,Marrow Osteria,(555) 810-0779,Miradero,7754 S Fennimore Ave,Barbecue,SME,3.75,172,never in CRM,https://www.marrowosteria.example
+5556049155,desk,True,Wildwood Tavern,(555) 604-9155,Palisade Park,6873 E Tarrow Ave,Peruvian,large,3.8,172,open deal,https://www.wildwoodtavern.example
+5555828509,desk,False,Redbird Dining Room,(555) 582-8509,Stillwater,2378 S Mallow St,Vietnamese,SME,4.1,164,never in CRM,https://www.redbirddiningroom.example
+5552528693,visit,False,Prairie Oyster Bar,(555) 252-8693,Ashgrove,3110 North Ashfield Blvd,Mediterranean,SME,3.45,158,never in CRM,
+5553393209,desk,False,Thicket Table,(555) 339-3209,Templeton,6182 N Tarrow St,Mexican,SME,4.8,157,never in CRM,https://www.thickettable.example
+5553075964,desk,False,Kingfisher Oyster Bar,(555) 307-5964,Fox Hollow,5286 W Calder Ave,Peruvian,SME,3.6,157,never in CRM,https://www.kingfisheroysterbar.example
+5554390610,desk,False,Verde Taqueria,(555) 439-0610,Old Mill,2280 S Tarrow Rd,Japanese,SME,4.35,150,never in CRM,https://www.verdetaqueria.example
+5554730670,desk,True,Warbler Brasserie,(555) 473-0670,Ferrymead,5577 N Mallow Ave,Vietnamese,SME,3.8,142,never in CRM,https://www.warblerbrasserie.example
+5554545617,desk,False,Cobalt Cantina,(555) 454-5617,Sablewood,5290 N Tarrow Blvd,Seafood,SME,3.3,142,never in CRM,https://www.cobaltcantina.example
+5553695941,desk,False,Sorrel Room,(555) 369-5941,Fox Hollow,4959 W Vance Rd,Steakhouse,SME,3.9,141,written off,https://www.sorrelroom.example
+5558393922,desk,False,Dovetail Wine Bar,(555) 839-3922,Old Mill,1671 E Quinton Rd,Seafood,SME,4.2,139,never in CRM,https://www.dovetailwinebar.example
+5557538435,desk,False,Bellwether Smokehouse,(555) 753-8435,Stillwater,1400 S Lindmere St,Contemporary,SME,4.0,135,never in CRM,https://www.bellwethersmokehouse.example
+5553892581,call,True,Pike Chophouse,(555) 389-2581,Alder Heights,1148 North Bayard Street,Barbecue,SME,3.55,132,never in CRM,
+5556796663,desk,False,Fernwood Taqueria,(555) 679-6663,Palisade Park,6803 N Bayard St,Indian,SME,3.7,131,never in CRM,https://www.fernwoodtaqueria.example
+5552330612,desk,True,Basil & Bone Smokehouse,(555) 233-0612,Bayview Flats,6102 W Rivermead Ave,Barbecue,SME,4.0,130,never in CRM,https://www.basilbonesmokehouse.example
+5557327979,desk,False,Little Bear Supper Club,(555) 732-7979,Miradero,7561 N Wexley Boulevard,Ethiopian,SME,3.73,125,never in CRM,https://www.littlebearsupperclub.example
+5558357786,desk,False,Stonecutter Room,(555) 835-7786,Fox Hollow,6814 S Serra Ave,Mediterranean,SME,4.23,125,never in CRM,https://www.stonecutterroom.example
+5556738815,desk,False,Ember Brasserie,(555) 673-8815,Marisol,4052 South Rivermead Road,Seafood,mid-cap,4.7,124,open deal,https://www.emberbrasserie.example
+5559493074,desk,False,Rookery Dining Room,(555) 949-3074,Sunfield,5005 S Quinton Blvd,French,SME,3.3,122,never in CRM,https://www.rookerydiningroom.example
+5553993643,desk,True,Kettle Table,(555) 399-3643,Windrow,889 N Cortez Blvd,Steakhouse,mid-cap,3.7,122,open deal,https://www.kettletable.example
+5551900835,call,False,Rookery Tavern,(555) 190-0835,Old Mill,4883 S Cortez Blvd,Seafood,SME,4.8,117,never in CRM,
+5552946802,desk,False,Motherland Dining Room,(555) 294-6802,Windrow,3482 E Cortez Blvd,Korean,SME,4.0,115,open deal,https://www.motherlanddiningroom.example
+5553064656,desk,False,Roan Trattoria,(555) 306-4656,Windrow,3659 W Rivermead Rd,Peruvian,SME,4.2,114,never in CRM,https://www.roantrattoria.example
+5558132298,visit,False,Foxglove Kitchen,(555) 813-2298,Harbor Point,7343 E Vance Rd,Steakhouse,SME,3.6,114,never in CRM,
+5552005279,desk,False,Ironwood Brasserie,(555) 200-5279,Alder Heights,"7953 N Calder Rd, Verano Bay",Steakhouse,SME,3.5,114,open deal,https://www.ironwoodbrasserie.example
+5556278071,desk,True,Marrow Chophouse,(555) 627-8071,Rivera District,3116 S Cortez Rd,Peruvian,SME,3.5,107,never in CRM,https://www.marrowchophouse.example
+5559616592,desk,False,Copper Alehouse,(555) 961-6592,Greenhithe,6890 E Quinton St,Polish,SME,3.8,99,never in CRM,https://www.copperalehouse.example
+5553471083,desk,True,Foxglove Steakhouse,(555) 347-1083,Cedar Cross,2821 N Halloway Ave,Italian,SME,4.1,97,never in CRM,https://www.foxglovesteakhouse.example
+5554919739,call,False,Tallgrass Osteria,(555) 491-9739,Marisol,2211 N Bayard Blvd,Italian,SME,4.0,96,never in CRM,
+5558707359,desk,False,Amber Alehouse,(555) 870-7359,Templeton,1485 S Calder St,Seafood,SME,3.6,94,written off,https://www.amberalehouse.example
+5554646351,desk,False,Kettle House,(555) 464-6351,Windrow,1715 W Prospect St,Japanese,SME,4.9,93,never in CRM,https://www.kettlehouse.example
+5555544204,desk,True,Kettle Smokehouse,(555) 554-4204,Harbor Point,1987 W Tarrow St,Mediterranean,SME,4.5,89,never in CRM,https://www.kettlesmokehouse.example
+5555468797,desk,False,Gallow Bistro,(555) 546-8797,Lantern Hill,5045 N Ashfield Rd,French,SME,3.6,87,never in CRM,https://www.gallowbistro.example
+5559051011,desk,False,Mercado Dining Room,(555) 905-1011,Bramble Row,3278 E Bayard St,Thai,SME,4.6,75,never in CRM,https://www.mercadodiningroom.example
+5559311253,desk,True,Thistle Trattoria,(555) 931-1253,Bayview Flats,6646 W Lindmere Rd,Mexican,large,4.45,73,open deal,https://www.thistletrattoria.example
+5551567408,desk,False,Verde Grill,(555) 156-7408,Greenhithe,7411 S Cortez St,Thai,SME,4.4,73,never in CRM,https://www.verdegrill.example
+5553077081,desk,True,Rookery Wine Bar,(555) 307-7081,Templeton,4379 S Bayard St,Contemporary,large,4.4,72,open deal,https://www.rookerywinebar.example
+5557980119,desk,False,Tidewater Trattoria Verano Bay,(555) 798-0119,Stillwater,6545 N Ashfield Street,Indian,SME,4.07,66,never in CRM,https://www.tidewatertrattoria.example
+5559037598,desk,False,Fernwood Steakhouse,(555) 903-7598,Fox Hollow,5748 E Rivermead St,Greek,SME,4.3,65,never in CRM,https://www.fernwoodsteakhouse.example
+5558514723,desk,False,Tidewater Bistro,(555) 851-4723,Palisade Park,2520 S Wexley St,Peruvian,mid-cap,3.5,51,open deal,https://www.tidewaterbistro.example
+5559031889,desk,False,Blue Heron Wine Bar,(555) 903-1889,Corvo Heights,7394 W Calder Ave,Thai,SME,3.7,51,never in CRM,https://www.blueheronwinebar.example
+5553696916,desk,False,Sorrel Supper Club - Harbor Point,(555) 369-6916,Stillwater,1241 W Serra Avenue,Barbecue,SME,4.45,49,never in CRM,https://www.sorrelsupperclub.example
+5556882612,desk,False,Gallow Smokehouse,(555) 688-2612,Sablewood,7861 E Halloway Rd,Mediterranean,SME,4.15,39,never in CRM,https://www.gallowsmokehouse.example
+5555949097,desk,False,Sixpence Taqueria,(555) 594-9097,Sablewood,1980 S Calder St,Korean,SME,4.15,29,never in CRM,https://www.sixpencetaqueria.example
+5553872709,call,False,STONECUTTER SMOKEHOUSE,(555) 387-2709,Ashgrove,563 S Quinton Avenue,Vietnamese,SME,3.53,26,written off,
+5559549908,desk,True,Cardinal Chophouse,(555) 954-9908,Greenhithe,7224 W Vance Ave,Seafood,SME,3.9,26,never in CRM,https://www.cardinalchophouse.example
+5554788602,desk,False,Inkwell Cantina,(555) 478-8602,Bramble Row,4732 N Calder Ave,Steakhouse,SME,3.8,25,open deal,https://www.inkwellcantina.example

@@ -1,0 +1,66 @@
+# POS systems eligibility rules.
+# Transcribed from Verano_Bay_Data_Pack/pos_eligibility_rules.md.
+#
+# Aliases are written as they appear in the data. Matching ignores case and
+# punctuation, so "Salt Box" and "SALTBOX" both hit the Saltbox entry.
+
+vendors:
+  # Eligible
+  - canonical: Cadence
+    verdict: eligible
+    aliases: [Cadence, Cadence POS, Cadence Station, Cadence Flex, Cadence Mini]
+
+  - canonical: Vellum
+    verdict: eligible
+    aliases: [Vellum, Vellum POS, Vellum Restaurant]
+
+  - canonical: Northstar
+    verdict: eligible
+    aliases: [Northstar, Northstar POS, Northstar Restaurant]
+
+  - canonical: Orbit
+    verdict: eligible
+    aliases: [Orbit, Orbit POS, Orbit Systems]
+
+  - canonical: Meridian Cloud
+    verdict: eligible
+    aliases: [Meridian Cloud, Meridian Cloud POS]
+
+  - canonical: Quillpay
+    verdict: eligible
+    aliases: [Quillpay, Quillpay POS]
+
+  - canonical: Tessera
+    verdict: eligible
+    aliases: [Tessera, Tessera Express]
+
+  - canonical: Bluecrest
+    verdict: eligible
+    aliases: [Bluecrest, Bluecrest POS]
+
+  # Ineligible
+  - canonical: Ironclad
+    verdict: ineligible
+    aliases: [Ironclad, Ironclad POS]
+
+  - canonical: Fernpost
+    verdict: ineligible
+    aliases: [Fernpost, Fern Post]
+
+  - canonical: Saltbox
+    verdict: ineligible
+    aliases: [Saltbox, Salt Box]
+
+  - canonical: Rivet
+    verdict: ineligible
+    aliases: [Rivet, Rivet Pay]
+
+  # From Ambiguous
+  - canonical: Meridian (legacy)
+    verdict: ineligible
+    aliases: [Meridian (legacy), Meridian Server]
+
+  # could be either Meridian product. Goes to research, not to a rep.
+  - canonical: Meridian (unspecified)
+    verdict: ambiguous
+    aliases: [Meridian]

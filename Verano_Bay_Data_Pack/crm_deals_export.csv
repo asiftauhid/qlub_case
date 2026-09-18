@@ -1,0 +1,509 @@
+deal_id,deal_name,deal_stage,deal_owner,amount,create_date,last_activity_date,associated_contact,company_phone,deal_description,pos_from_crm,source,city
+D100338,Palisade Cantina,KDM Demo,Marco Ferrari,,2026-04-06,2026-05-22,,555-366-2915,1 location,,human_call,Verano Bay
+D100301,Sparrow Chophouse,Eligible,Marco Ferrari,,2026-07-13,2026-07-24,,(555) 287-6202,"8 locations, called twice, gatekeeper",Cadence Mini,human_call,Verano Bay
+D100490,Blue Heron Smokehouse,Eligible,Tom Brennan,,2026-05-07,2026-05-07,,(555) 607-2815,"called twice, gatekeeper",,ai_call,Verano Bay
+D100012,The Heron Chophouse,Eligible,Tom Brennan,,2026-04-22,2026-04-28,,555-383-7725,,,walk-in,Verano Bay
+D100106,Tin Roof Table,Eligible,Daniel Reyes,,2026-02-12,2026-02-15,,555-270-0214,"ironcladpos, 11 locations",IRONCLAD,referral,Verano Bay
+D100057,Orchard Kitchen,Eligible,Daniel Reyes,,2026-05-20,2026-05-31,,(555) 841-4766,"vellum pos, 1 location",,scrape,Verano Bay
+D100182,Northbank Kitchen,KDM Demo,Tom Brennan,,2026-02-18,2026-04-27,Daniel Garcia,(555) 201-3698,,Cadence POS,scrape,Verano Bay
+D100483,Saffron Supper Club,Eligible,Tom Brennan,,2026-06-17,2026-06-17,,+1 555 814 0796,"Peter Garcia (Owner), 1 location",,referral,Verano Bay
+D100244,Bellwether Alehouse,Gatekeeper Demo,Daniel Reyes,,2026-07-11,2026-07-28,,5556582826,"Linda Andino (Owner), 1 location",,ai_call,Verano Bay
+D100112,Magpie Smokehouse,Eligible,Daniel Reyes,,2026-05-30,2026-06-01,,+1 555 450 3343,"vellum restaurant, 13 locations",,walk-in,Verano Bay
+D100278,Blue Heron Supper Club,Eligible,Tom Brennan,,2026-01-28,2026-02-04,Victor Rodriguez,5553493646,"northstar, Christina Johnson (GM)",,human_call,Verano Bay
+D100111,Orchard Oyster Bar,Closed Won,Daniel Reyes,,2026-04-05,2026-04-14,Sofia Bianchi,+15556278100,"Deborah Haddad (Managing Partner), 1 location",,ai_call,Verano Bay
+D100092,Nine Bridges Table,Eligible,Marco Ferrari,,2026-04-23,2026-05-02,Sofia Brown,+15557048580,"cadence, 1 location",,human_call,Verano Bay
+D100449,Fallowfield Brasserie,KDM Demo,Priya Shah,,2026-02-05,2026-04-06,,5558037066,"cadence station, 1 location",Cadence Station,scrape,Verano Bay
+D100303,Vesper Room - Bayview Flats,Eligible,Marco Ferrari,,2026-06-13,2026-06-20,Elena Singh,+1 555 258 5146,"ironclad pos, Susan Andino (Managing Partner), 1 location, wants pricing",IRONCLAD,walk-in,Verano Bay
+D100508,Violet Table - Kingsway,Eligible,Priya Shah,,2026-08-03,2026-08-03,,5553638422,"northstar pos, 1 location",,human_call,Verano Bay
+D100079,Quarry Smokehouse,Eligible,Priya Shah,,2026-04-14,2026-04-22,,5552643164,wants pricing,,ai_call,Verano Bay
+D100491,CINDER ROOM,Walked-in,Marco Ferrari,,2026-06-29,2026-06-29,,+15556490270,10 locations,meridian cloud,referral,Verano Bay
+D100435,Sparrow Bistro - Quarry End,Eligible,Tom Brennan,,2026-04-19,2026-04-27,,+15553484387,vellum pos,,referral,Verano Bay
+D100504,The BRAMBLE WINE BAR,Not Qualified,Tom Brennan,,2026-08-01,2026-08-01,,555-699-7998,,,ai_call,Verano Bay
+D100034,Stonecutter Brasserie,Eligible,Daniel Reyes,,2026-03-19,2026-03-27,,+15558295726,12 locations,,scrape,Verano Bay
+D100417,Motherland Brasserie,Eligible,Marco Ferrari,,2026-05-03,2026-05-13,,(555) 848-8361,"ironcladpos, Beatriz Hernandez (Managing Partner), wants pricing",,human_call,Verano Bay
+D100477,Quill Supper Club - Miradero Verano Bay,Not Qualified,Daniel Reyes,,2026-07-17,2026-07-17,,(555) 216-5580,"orbit, 1 location",,ai_call,Verano Bay
+D100308,Nightjar Room,Verbal Yes,Tom Brennan,,2026-06-09,2026-06-19,,(555) 381-2522,"Ahmed Rossi (Operations Manager), 1 location",,referral,Verano Bay
+D100479,Copper Kitchen - Corvo Heights,Eligible,Daniel Reyes,,2026-04-22,2026-04-22,,(555) 848-4215,Priya Kowalski (General Manager),,walk-in,Verano Bay
+D100014,Saffron Tavern,Eligible,Priya Shah,,2026-05-15,2026-05-16,,555-166-9436,"Kevin Le (Owner), 1 location",,referral,Verano Bay
+D100140,Tallgrass Brasserie,Eligible,Daniel Reyes,,2026-05-31,2026-06-05,,+1 555 957 7509,Sofia Murphy (Owner),,referral,Verano Bay
+D100113,Kettle Table,Eligible,Marco Ferrari,,2026-03-02,2026-03-09,,+1 555 399 3643,"Raj Torres (Operations Manager), 8 locations",,walk-in,Verano Bay
+D100249,MAGPIE GRILL,Eligible,Daniel Reyes,,2026-05-03,2026-05-11,,(555) 827-6295,ironclad pos,,ai_call,Verano Bay
+D100096,Ember Cantina,Walked-in,Marco Ferrari,,2026-06-06,2026-07-10,,+1 555 936 0005,"ironclad pos, James Martinez (GM)",Ironclad POS,human_call,Verano Bay
+D100100,Lantern Smokehouse Restaurant,Eligible,Marco Ferrari,,2026-02-21,2026-02-25,,5555453647,Michael Murphy (GM),,human_call,Verano Bay
+D100314,Ironwood Alehouse - Bramble Row,Eligible,Marco Ferrari,,2026-03-30,2026-04-03,Marcus Garcia,555-533-9203,"Frank Torres (Owner), 1 location",,ai_call,Verano Bay
+D100156,Ember Tavern,Gatekeeper Demo,Marco Ferrari,,2026-01-31,2026-02-23,Frank Novak,5553360578,"vellum, Raj Patel (Owner), 1 location, not interested in QR",,human_call,Verano Bay
+D100266,Persimmon Bistro,Eligible,Tom Brennan,,2026-03-20,2026-04-01,,555-657-2844,meridian server,,scrape,Verano Bay
+D100485,Jackdaw Alehouse - Alder Heights,Walked-in,Aisha Karim,,2026-06-15,2026-06-15,,+1 555 940 7431,"meridian cloud, Christina Martinez (Owner), 8 locations",Meridian Cloud,human_call,Verano Bay
+D100158,Nine Bridges Wine Bar,Eligible,Aisha Karim,,2026-04-20,2026-04-20,,555.104.4446,"vellum, George Lopez (GM), 1 location, called twice, gatekeeper",,human_call,Verano Bay
+D100091,Jackdaw Grill,Eligible,Marco Ferrari,,2026-02-17,2026-02-27,Katherine Petrou,555-878-1659,David Le (Managing Partner),,ai_call,Verano Bay
+D100389,Thistle Steakhouse,KDM Demo,Aisha Karim,,2026-05-25,2026-06-21,,555-126-4622,"Frank Nguyen (Owner), asked for callback",,ai_call,Verano Bay
+D100089,KINSHIP HOUSE,Eligible,Aisha Karim,,2026-04-22,2026-05-02,Omar Lopez,555.973.8022,"meridian cloud, Elena Vasquez (Operations Manager), 1 location",meridian cloud,scrape,Verano Bay
+D100294,Cinder Room,Eligible,Tom Brennan,,2026-06-11,2026-06-19,David Williams,+15556490270,10 locations,meridian cloud,referral,Verano Bay
+D100081,Bramble Grill,Eligible,Aisha Karim,,2026-03-23,2026-03-25,,(555) 512-6047,cadence station,CADENCE,ai_call,Verano Bay
+D100361,Halcyon Table,Eligible,Marco Ferrari,,2026-02-21,2026-03-03,,555-531-3455,"Maria Garcia (GM), 14 locations, happy with current setup",,scrape,Verano Bay
+D100369,Salt & Vine Taqueria,Eligible,Priya Shah,,2026-05-12,2026-05-18,,5556448081,1 location,ORBIT,ai_call,Verano Bay
+D100105,Juniper Chophouse,Closed Lost,Tom Brennan,,2026-06-09,2026-07-30,,+15555032669,Yolanda Williams (Operations Manager),,ai_call,Verano Bay
+D100039,Stonecutter Chophouse,Eligible,Tom Brennan,,2026-06-18,2026-06-21,Tony Chen,555-780-7842,Ana Vasquez (Owner),,ai_call,Verano Bay
+D100049,Saffron House,Not Qualified,Tom Brennan,,2026-04-03,2026-05-07,,555-382-8637,David Silva (Owner),,walk-in,Verano Bay
+D100319,Bellwether Steakhouse - Lantern Hill,Eligible,Daniel Reyes,,2026-06-12,2026-06-18,,5554096067,"ironclad, 1 location",,scrape,Verano Bay
+D100024,Plumb Dining Room,Eligible,Aisha Karim,,2026-02-15,2026-02-23,Katherine Vasquez,(555) 894-7075,"Emily Reyes (Operations Manager), 22 locations",,ai_call,Verano Bay
+D100067,Silverfin Bistro,Walked-in,Tom Brennan,,2026-06-27,2026-08-03,,+15555653559,"ironcladpos, Nicole Garcia (Owner), 1 location",ironclad,human_call,Verano Bay
+D100237,Tidewater Cantina,Eligible,Marco Ferrari,,2026-06-30,2026-07-02,,+1 555 726 1706,ironclad pos,Ironclad,walk-in,Verano Bay
+D100148,Olive & Ash Supper Club,Eligible,Daniel Reyes,,2026-03-04,2026-03-12,Deborah Miller,555.767.7285,not interested in QR,,human_call,Verano Bay
+D100093,Salt & Vine Brasserie,Eligible,Priya Shah,,2026-05-04,2026-05-16,,+1 555 726 1196,"orbit systems, 1 location",Orbit,ai_call,Verano Bay
+D100367,Nine Bridges Grill,Eligible,Priya Shah,,2026-06-29,2026-07-11,,555.595.1333,"vellum, Tony Martinez (Co-Owner), 50 locations",,walk-in,Verano Bay
+D100495,Vesper Alehouse,Eligible,Aisha Karim,,2026-06-24,2026-06-24,,+1 555 780 8383,Angela Chen (Managing Partner),,scrape,Verano Bay
+D100323,Sable Dining Room,Eligible,Aisha Karim,,2026-03-04,2026-03-09,Tony Rossi,555-317-1871,"ironclad, Emily Doyle (General Manager)",,ai_call,Verano Bay
+D100461,Ironwood Smokehouse,Eligible,Marco Ferrari,,2026-06-06,2026-06-12,,(555) 199-6902,44 locations,,human_call,Verano Bay
+D100085,The Understory Taqueria,Eligible,Priya Shah,,2026-06-18,2026-06-23,Luis Johnson,+15559132558,Emily Brown (Operations Manager),IRONCLAD,ai_call,Verano Bay
+D100476,The Harrow Osteria,Eligible,Priya Shah,,2026-04-18,2026-04-18,,+15555894188,"bluecrest, Raj Williams (Managing Partner), happy with current setup",Bluecrest,ai_call,Verano Bay
+D100383,Thicket Steakhouse,Eligible,Daniel Reyes,,2026-06-02,2026-06-07,,555-554-1251,"ironcladpos, Ana Andino (Co-Owner)",,ai_call,Verano Bay
+D100179,Tidewater Brasserie,Eligible,Priya Shah,,2026-06-09,2026-06-19,,555-733-1082,"meridian cloud, 44 locations",,referral,Verano Bay
+D100129,HERON OYSTER BAR,Gatekeeper Demo,Priya Shah,,2026-05-01,2026-07-04,Nadia Martinez,555.525.4458,"saltbox, Daniel Kowalski (GM)",,referral,Verano Bay
+D100351,Mercado Room,Walked-in,Marco Ferrari,,2026-06-09,2026-07-22,,+15552421511,"Omar Murphy (Owner), 1 location, wants pricing",,referral,Verano Bay
+D100254,Quill Wine Bar,Eligible,Daniel Reyes,,2026-06-04,2026-06-08,Luis Kim,555.700.2920,"ironclad, Hassan Miller (Operations Manager)",,scrape,Verano Bay
+D100441,Wildwood Tavern,Eligible,Daniel Reyes,,2026-07-14,2026-07-23,,+15556049155,"30 locations, asked for callback",,ai_call,Verano Bay
+D100041,Halcyon Dining Room,Eligible,Priya Shah,,2026-03-13,2026-03-25,Paul Martinez,5556442073,"Maria Doyle (General Manager), 7 locations",,ai_call,Verano Bay
+D100398,Prairie Grill,Eligible,Priya Shah,,2026-03-18,2026-03-24,Ana Kowalski,555.772.7876,,cadence,scrape,Verano Bay
+D100275,Jackdaw Table,Walked-in,Priya Shah,,2026-02-21,2026-04-15,,(555) 296-7017,"cadence, Ahmed Andino (GM)",,walk-in,Verano Bay
+D100147,Golden Hour Grill Verano Bay,Not Qualified,Aisha Karim,,2026-06-09,2026-07-01,,5558476830,"Angela Kowalski (Operations Manager), 1 location, wants pricing",,ai_call,Verano Bay
+D100127,BRAMBLE WINE BAR,Walked-in,Tom Brennan,,2026-06-30,2026-08-03,,555-699-7998,,,ai_call,Verano Bay
+D100475,Kingfisher Table Verano Bay - Stillwater,Eligible,Marco Ferrari,,2026-07-18,2026-07-18,,+15552583898,1 location,,walk-in,Verano Bay
+D100268,Thistle House,Gatekeeper Demo,Marco Ferrari,,2026-04-16,2026-06-02,,+1 555 207 1567,"fern post, 1 location",FERNPOST,referral,Verano Bay
+D100290,Wildwood Room,Eligible,Marco Ferrari,,2026-06-20,2026-07-01,,(555) 505-7536,,,human_call,Verano Bay
+D100422,Kinship Wine Bar,Not Qualified,Daniel Reyes,,2026-02-10,2026-04-11,,+15559792803,"meridian cloud, 1 location",,ai_call,Verano Bay
+D100292,Copper Dining Room,Eligible,Daniel Reyes,,2026-05-17,2026-05-25,,+15559343797,"Emily Patel (General Manager), wants pricing",,walk-in,Verano Bay
+D100262,Umber Room,Walked-in,Daniel Reyes,,2026-01-26,2026-02-25,Frank Chen,555-378-9332,"Carlos Le (Co-Owner), happy with current setup",,human_call,Verano Bay
+D100468,Bluebird Kitchen,Walked-in,Tom Brennan,,2026-06-21,2026-08-03,,555.197.1152,1 location,,walk-in,Verano Bay
+D100135,Ironwood Grill,Eligible,Daniel Reyes,,2026-05-12,2026-05-17,,555-134-5738,"vellum pos, 1 location",,human_call,Verano Bay
+D100241,Bluebird Supper Club,Gatekeeper Demo,Aisha Karim,,2026-02-24,2026-03-19,Emily Torres,+1 555 630 9806,"ironclad, Frank Lopez (Co-Owner), 14 locations",,walk-in,Verano Bay
+D100053,Understory Oyster Bar,KDM Demo,Tom Brennan,,2026-06-08,2026-06-14,,+1 555 532 1346,7 locations,,scrape,Verano Bay
+D100171,Fernwood Trattoria,Eligible,Daniel Reyes,,2026-03-24,2026-03-28,Jennifer Le,5556225885,Maria Garcia (Owner),,human_call,Verano Bay
+D100055,Bramble Room,Eligible,Priya Shah,,2026-05-03,2026-05-10,,(555) 407-6967,"orbit, 1 location",,ai_call,Verano Bay
+D100040,Inkwell Grill,Eligible,Priya Shah,,2026-06-05,2026-06-08,,555.168.2202,"Luis Hernandez (Co-Owner), 1 location",,referral,Verano Bay
+D100157,Inkwell Dining Room,Walked-in,Tom Brennan,,2026-01-31,2026-03-04,,5553331445,Sofia Torres (Co-Owner),ironclad,ai_call,Verano Bay
+D100395,Rookery Alehouse,Eligible,Aisha Karim,,2026-01-29,2026-02-10,Priya Bianchi,5554002959,,,referral,Verano Bay
+D100304,Kinship Dining Room - Ashgrove,Eligible,Priya Shah,,2026-06-12,2026-06-22,Monica Lopez,+15555390639,12 locations,,referral,Verano Bay
+D100273,Oxbow Table,Eligible,Priya Shah,,2026-02-02,2026-02-09,,555.925.5921,"Linda Martinez (Owner), 1 location, not interested in QR",,scrape,Verano Bay
+D100326,The Persimmon Tavern,Gatekeeper Demo,Priya Shah,,2026-03-22,2026-04-19,Katherine Williams,555-409-1665,"Omar Kim (Owner), 8 locations",,ai_call,Verano Bay
+D100184,Violet Cantina,Closed Won,Priya Shah,,2026-07-09,2026-07-18,Kevin Vasquez,555-898-9534,1 location,ironclad,scrape,Verano Bay
+D100385,Thicket Tavern,Eligible,Priya Shah,,2026-07-14,2026-07-15,,+15553103664,ironclad,,ai_call,Verano Bay
+D100028,Gallow Oyster Bar,Eligible,Daniel Reyes,,2026-04-17,2026-04-17,,5552877453,"ironclad pos, Peter Singh (Owner), 49 locations",,human_call,Verano Bay
+D100317,Sorrel Steakhouse - Stillwater,Verbal Yes,Tom Brennan,,2026-05-05,2026-05-10,,555-323-5042,Frank Williams (Operations Manager),,scrape,Verano Bay
+D100032,Olive & Ash Alehouse,Eligible,Marco Ferrari,,2026-05-05,2026-05-12,,+15559717723,"fernpost, Frank Novak (General Manager), 1 location",,ai_call,Verano Bay
+D100473,HERON BRASSERIE,Eligible,Aisha Karim,,2026-05-22,2026-05-22,,(555) 658-0408,,,ai_call,Verano Bay
+D100347,Thistle Trattoria,Eligible,Daniel Reyes,,2026-06-08,2026-06-19,,555.931.1253,Yolanda Hernandez (Managing Partner),,walk-in,Verano Bay
+D100122,Lantern Steakhouse,Eligible,Aisha Karim,,2026-06-28,2026-07-02,,+15553799112,wants pricing,,walk-in,Verano Bay
+D100160,Kinship Table,KDM Demo,Aisha Karim,,2026-01-30,2026-03-17,Elena Chen,555.506.8500,7 locations,,ai_call,Verano Bay
+D100062,Salt & Vine Trattoria,Eligible,Tom Brennan,,2026-07-05,2026-07-14,Deborah Chen,555-454-3132,"Linda Petrou (General Manager), 1 location",,ai_call,Verano Bay
+D100276,Tallgrass Oyster Bar - Corvo Heights,Eligible,Aisha Karim,,2026-02-04,2026-02-10,,+1 555 331 0203,"vellum pos, Grace Patel (Operations Manager)",vellum pos,ai_call,Verano Bay
+D100005,Foxtail Dining Room - Ferrymead,KDM Demo,Priya Shah,,2026-05-06,2026-05-15,,5552429729,"Carlos Rodriguez (General Manager), 1 location",,referral,Verano Bay
+D100124,Alder Taqueria,Walked-in,Priya Shah,,2026-06-15,2026-08-03,,+1 555 858 5963,"George Miller (Owner), 1 location",,referral,Verano Bay
+D100466,Kingfisher Steakhouse,Not Qualified,Aisha Karim,,2026-03-30,2026-05-08,,+15555014901,"cadence flex, Linda Bianchi (GM), 1 location, happy with current setup",Cadence POS,human_call,Verano Bay
+D100088,Stonecutter Smokehouse,Not Qualified,Tom Brennan,,2026-04-20,2026-05-08,,555-387-2709,1 location,,referral,Verano Bay
+D100372,Oxbow Smokehouse,Eligible,Priya Shah,,2026-06-30,2026-06-30,Nicole Rossi,+1 555 847 1677,"meridian cloud, 43 locations",,walk-in,Verano Bay
+D100121,Sable Grill Verano Bay,Walked-in,Marco Ferrari,,2026-05-02,2026-06-15,Frank Vasquez,555.610.5450,"vellum restaurant, 1 location",,scrape,Verano Bay
+D100458,Lantern Table,Eligible,Tom Brennan,,2026-05-28,2026-06-09,,555-632-1382,"Emily Johnson (Operations Manager), 15 locations",ironcladpos,ai_call,Verano Bay
+D100196,Kingfisher Kitchen,Walked-in,Aisha Karim,,2026-02-07,2026-02-24,,555.156.3001,"Monica Patel (Owner), 1 location",,walk-in,Verano Bay
+D100438,Vesper Alehouse,Eligible,Priya Shah,,2026-05-24,2026-06-02,Rachel Patel,+1 555 780 8383,Angela Chen (Managing Partner),,scrape,Verano Bay
+D100138,Ember Bistro,Eligible,Marco Ferrari,,2026-04-09,2026-04-13,David Andino,+1 555 774 7078,"vellum, 1 location",VELLUM,scrape,Verano Bay
+D100415,Tin Roof Steakhouse,Eligible,Aisha Karim,,2026-02-06,2026-02-16,,+1 555 980 6648,"Jennifer Andino (Owner), 1 location",,ai_call,Verano Bay
+D100203,The Foxtail Cantina,Eligible,Aisha Karim,,2026-05-08,2026-05-17,,5559297546,fern post,,scrape,Verano Bay
+D100396,Silverfin Cantina,Eligible,Priya Shah,,2026-04-28,2026-05-06,,(555) 775-3236,"rivet, Nicole Bianchi (GM), 1 location, called twice, gatekeeper",,human_call,Verano Bay
+D100325,The Magpie Osteria,Eligible,Daniel Reyes,,2026-02-05,2026-02-10,,(555) 474-5450,,Ironclad,walk-in,Verano Bay
+D100236,Nine Bridges Osteria,Eligible,Priya Shah,,2026-06-10,2026-06-14,Tony Bianchi,555-201-9667,"Jennifer Hernandez (Operations Manager), 1 location, happy with current setup",,referral,Verano Bay
+D100410,Violet Steakhouse,Gatekeeper Demo,Daniel Reyes,,2026-04-10,2026-05-21,Kevin Okafor,5558418408,"Rachel Lopez (GM), happy with current setup",,scrape,Verano Bay
+D100227,Driftwood Cantina - Quarry End,Walked-in,Priya Shah,,2026-06-14,2026-07-22,Maria Andino,555-907-8907,1 location,,walk-in,Verano Bay
+D100305,Halcyon Osteria,Not Qualified,Priya Shah,,2026-05-23,2026-06-02,,5551280232,,,referral,Verano Bay
+D100416,Little Bear Wine Bar - Miradero,KDM Demo,Priya Shah,,2026-03-30,2026-06-04,Deborah Novak,+15554297781,"Sean Kowalski (Co-Owner), 1 location",,ai_call,Verano Bay
+D100437,The Halcyon Brasserie,KDM Demo,Daniel Reyes,,2026-07-14,2026-08-03,,+15555831742,"meridian cloud, 1 location",,ai_call,Verano Bay
+D100108,Plumb Oyster Bar,Eligible,Tom Brennan,,2026-07-10,2026-07-12,Sofia Andino,555-663-7630,Yolanda Lopez (Owner),,walk-in,Verano Bay
+D100193,The Northbank Tavern,Eligible,Marco Ferrari,,2026-05-06,2026-05-08,Sofia Kowalski,(555) 280-7711,"cadence station, Nicole Silva (Owner), 10 locations",,scrape,Verano Bay
+D100381,Basil & Bone Steakhouse,Eligible,Tom Brennan,,2026-03-08,2026-03-10,,555-411-2176,"11 locations, wants pricing",,referral,Verano Bay
+D100418,Kinship Alehouse,Eligible,Tom Brennan,,2026-06-18,2026-06-28,,+1 555 693 9976,"Paul Vasquez (Owner), 1 location",,human_call,Verano Bay
+D100215,Silverfin Kitchen,Eligible,Tom Brennan,,2026-04-28,2026-05-10,Christina Rodriguez,555.698.0614,"ironclad, David Garcia (GM)",,ai_call,Verano Bay
+D100401,Larkspur Bistro Verano Bay,Eligible,Daniel Reyes,,2026-02-24,2026-03-08,Susan Murphy,555.201.6940,"cadence, Kevin Brown (Owner)",,referral,Verano Bay
+D100183,Bramble Cantina,Eligible,Daniel Reyes,,2026-05-01,2026-05-10,,+15552010991,"Daniel Andino (Operations Manager), 1 location",,ai_call,Verano Bay
+D100322,Pike Smokehouse - Kingsway,Eligible,Marco Ferrari,,2026-02-24,2026-02-26,,5555179340,"vellum, Elena Murphy (Operations Manager), 1 location, asked for callback",,ai_call,Verano Bay
+D100098,Kinship Chophouse,Eligible,Aisha Karim,,2026-04-22,2026-04-23,Linda Doyle,(555) 881-6926,"Carlos Rossi (Owner), 1 location",Northstar Restaurant,scrape,Verano Bay
+D100327,Ironwood Trattoria,Eligible,Priya Shah,,2026-02-05,2026-02-11,Emily Rossi,555.999.4582,"1 location, asked for callback",ironclad,human_call,Verano Bay
+D100362,Harrow Osteria,Eligible,Aisha Karim,,2026-03-13,2026-03-16,,+15555894188,"bluecrest, Raj Williams (Managing Partner), happy with current setup",Bluecrest,ai_call,Verano Bay
+D100337,Cobalt Tavern,Walked-in,Priya Shah,,2026-02-07,2026-02-17,,555.897.9124,Omar Rodriguez (General Manager),,walk-in,Verano Bay
+D100166,Wren House,Eligible,Tom Brennan,,2026-06-23,2026-06-23,,+1 555 342 4888,,,human_call,Verano Bay
+D100240,Kettle Chophouse,Not Qualified,Marco Ferrari,,2026-02-14,2026-04-18,,555-955-7005,,,human_call,Verano Bay
+D100344,Loam Bistro,Eligible,Priya Shah,,2026-04-03,2026-04-07,Omar Doyle,+1 555 148 5078,"cadence mini, 40 locations",,walk-in,Verano Bay
+D100274,Persimmon House,Eligible,Daniel Reyes,,2026-05-27,2026-05-31,David Chen,(555) 411-4412,"orbit, Peter Brown (Co-Owner), happy with current setup",Orbit Systems,scrape,Verano Bay
+D100120,Lantern Dining Room,Eligible,Priya Shah,,2026-03-08,2026-03-20,,5552990860,"cadence mini, 22 locations",Cadence,scrape,Verano Bay
+D100216,Nightjar Supper Club,Walked-in,Marco Ferrari,,2026-06-24,2026-08-03,,+1 555 636 1033,,Ironclad POS,referral,Verano Bay
+D100097,Stonecutter Steakhouse,Eligible,Tom Brennan,,2026-05-29,2026-06-10,Tony Murphy,555.794.4268,"ironclad pos, Luis Nguyen (Co-Owner)",,referral,Verano Bay
+D100090,Kettle Supper Club Verano Bay,Eligible,Aisha Karim,,2026-05-28,2026-06-06,Omar Rodriguez,555.709.6290,"1 location, asked for callback",ironcladpos,human_call,Verano Bay
+D100453,Northbank House Verano Bay,KDM Demo,Tom Brennan,,2026-06-16,2026-06-27,,555.821.4370,Priya Andino (GM),,referral,Verano Bay
+D100450,Warbler Wine Bar - Sunfield,Eligible,Priya Shah,,2026-04-30,2026-05-11,,555.614.6957,14 locations,,referral,Verano Bay
+D100271,Bramble Alehouse - Miradero,Eligible,Marco Ferrari,,2026-05-09,2026-05-19,Jennifer Murphy,(555) 692-3145,1 location,,scrape,Verano Bay
+D100151,Violet Grill,Eligible,Daniel Reyes,,2026-02-20,2026-02-28,,5551734875,Luis Okafor (Managing Partner),,ai_call,Verano Bay
+D100480,NIGHTJAR STEAKHOUSE,Eligible,Marco Ferrari,,2026-03-06,2026-03-06,,+1 555 253 3715,"fernpost, Maria Vasquez (Owner), 1 location",FERNPOST,walk-in,Verano Bay
+D100101,Wren Taqueria,Walked-in,Marco Ferrari,,2026-02-27,2026-04-27,,555.276.1243,"saltbox, Yolanda Williams (Owner)",saltbox,scrape,Verano Bay
+D100348,Plumb Steakhouse,Walked-in,Aisha Karim,,2026-03-22,2026-05-19,,555-952-2596,"vellum pos, 1 location",,ai_call,Verano Bay
+D100074,Redbird Steakhouse,Walked-in,Tom Brennan,,2026-07-03,2026-08-03,Luis Kim,5554359184,1 location,,walk-in,Verano Bay
+D100421,Rosewater Alehouse,Eligible,Tom Brennan,,2026-06-06,2026-06-07,,+1 555 114 4960,"northstar, 10 locations",,scrape,Verano Bay
+D100302,Pike House,Eligible,Aisha Karim,,2026-07-02,2026-07-09,Peter Rodriguez,+15554270852,"Jennifer Rodriguez (Managing Partner), 1 location",,human_call,Verano Bay
+D100143,Little Bear Smokehouse,Verbal Yes,Priya Shah,,2026-03-14,2026-04-28,,(555) 520-6758,"Frank Vasquez (Co-Owner), 1 location",,referral,Verano Bay
+D100455,Olive & Ash Kitchen,Walked-in,Tom Brennan,,2026-04-14,2026-05-13,,555-221-8191,"cadence station, Nicole Brown (Owner), 1 location, called twice, gatekeeper",Cadence Station,walk-in,Verano Bay
+D100498,The Silverfin Brasserie,Eligible,Tom Brennan,,2026-07-21,2026-07-21,,5553083968,Elena Haddad (Owner),Tessera Express,human_call,Verano Bay
+D100178,Little Bear Room,Closed Lost,Daniel Reyes,,2026-06-29,2026-08-03,,555.620.2962,"ironcladpos, 1 location",,human_call,Verano Bay
+D100084,Rambler Brasserie,Eligible,Aisha Karim,,2026-03-25,2026-04-05,,5552268187,29 locations,,human_call,Verano Bay
+D100058,Sorrel Cantina,Eligible,Tom Brennan,,2026-07-09,2026-07-17,,(555) 767-0784,cadence,Cadence Station,ai_call,Verano Bay
+D100102,Redbird Taqueria,Eligible,Marco Ferrari,,2026-07-10,2026-07-17,,(555) 205-1354,cadence station,,human_call,Verano Bay
+D100439,Mercado Tavern,Eligible,Priya Shah,,2026-04-30,2026-05-09,Rachel Nguyen,555-915-6548,Katherine Doyle (Managing Partner),,human_call,Verano Bay
+D100137,Prairie Kitchen,Eligible,Tom Brennan,,2026-03-08,2026-03-14,,5552357387,"cadence, James Miller (Managing Partner), 7 locations",,referral,Verano Bay
+D100198,Redbird Grill,Verbal Yes,Aisha Karim,,2026-02-27,2026-04-04,,555-439-3858,"cadence pos, Katherine Andino (Co-Owner)",,referral,Verano Bay
+D100405,Thistle Tavern,Eligible,Tom Brennan,,2026-03-18,2026-03-25,Luis Silva,+15552151816,"called twice, gatekeeper",,ai_call,Verano Bay
+D100003,Blue Heron Kitchen,Eligible,Priya Shah,,2026-02-21,2026-03-03,Emily Garcia,555-991-9223,"vellum, 1 location",,human_call,Verano Bay
+D100499,Alder Alehouse,Eligible,Marco Ferrari,,2026-06-06,2026-06-06,,+15554530531,"Peter Williams (Owner), 1 location",,walk-in,Verano Bay
+D100180,Sable Brasserie,Eligible,Marco Ferrari,,2026-05-17,2026-05-20,,+15554672602,"ironclad, Emily Doyle (Owner), 6 locations",,scrape,Verano Bay
+D100150,Wildwood Table,Eligible,Marco Ferrari,,2026-03-17,2026-03-17,,+15553900080,"Linda Hernandez (Operations Manager), 1 location",FERNPOST,walk-in,Verano Bay
+D100442,Blue Heron Smokehouse,Eligible,Tom Brennan,,2026-04-09,2026-04-17,,(555) 607-2815,"called twice, gatekeeper",,ai_call,Verano Bay
+D100117,Amber Grill,Eligible,Marco Ferrari,,2026-02-23,2026-02-24,,(555) 344-3772,,,referral,Verano Bay
+D100402,Juniper Dining Room,Walked-in,Aisha Karim,,2026-02-15,2026-02-25,,(555) 869-2322,"orbit systems, Christina Vasquez (Owner), 1 location",Orbit POS,walk-in,Verano Bay
+D100125,MOTHERLAND TRATTORIA,Gatekeeper Demo,Priya Shah,,2026-03-12,2026-04-14,Emily Chen,5552397098,"cadence flex, Priya Vasquez (General Manager), happy with current setup",,ai_call,Verano Bay
+D100377,Olive & Ash Cantina,Eligible,Priya Shah,,2026-06-08,2026-06-15,,5552677916,58 locations,,referral,Verano Bay
+D100189,Ironwood Cantina,Eligible,Tom Brennan,,2026-02-20,2026-02-25,Deborah Novak,5553453864,"33 locations, wants pricing",,referral,Verano Bay
+D100300,Plumb Bistro,Eligible,Marco Ferrari,,2026-05-17,2026-05-23,,(555) 470-6197,"cadence mini, Linda Petrou (General Manager), 14 locations, called twice, gatekeeper",Cadence,referral,Verano Bay
+D100059,Tidewater Bistro,Eligible,Tom Brennan,,2026-06-14,2026-06-24,Grace Kim,555-851-4723,,,ai_call,Verano Bay
+D100320,Hearth Brasserie Restaurant,Closed Won,Marco Ferrari,,2026-05-09,2026-07-05,,+15551516999,1 location,,human_call,Verano Bay
+D100427,Oxbow Supper Club,Walked-in,Tom Brennan,,2026-05-05,2026-06-18,,+1 555 651 7576,"cadence station, David Le (Operations Manager)",cadence flex,ai_call,Verano Bay
+D100332,The Sparrow Taqueria,Eligible,Priya Shah,,2026-06-14,2026-06-25,Yolanda Rodriguez,5558521796,"Emily Kowalski (General Manager), 12 locations",,ai_call,Verano Bay
+D100066,Quarry Steakhouse,Eligible,Aisha Karim,,2026-06-20,2026-07-02,,(555) 156-0231,"ironclad pos, 9 locations, wants pricing",ironclad,ai_call,Verano Bay
+D100192,Anchor Brasserie,Gatekeeper Demo,Daniel Reyes,,2026-02-12,2026-03-27,,555-639-1315,36 locations,,scrape,Verano Bay
+D100365,Cobalt Alehouse,Eligible,Tom Brennan,,2026-06-24,2026-07-06,,5555188227,,,walk-in,Verano Bay
+D100199,Persimmon Trattoria Verano Bay,Eligible,Priya Shah,,2026-04-03,2026-04-07,Christina Rodriguez,5552047630,"ironclad, 10 locations",,human_call,Verano Bay
+D100119,Harrow Supper Club,Eligible,Priya Shah,,2026-05-21,2026-06-01,,5553429091,Hassan Hernandez (Owner),,walk-in,Verano Bay
+D100500,Dovetail Cantina Restaurant,Eligible,Marco Ferrari,,2026-03-29,2026-03-29,,(555) 367-2287,cadence,,walk-in,Verano Bay
+D100464,Olive & Ash House,Eligible,Aisha Karim,,2026-06-06,2026-06-18,,+15552673680,"Sofia Williams (General Manager), 1 location",,scrape,Verano Bay
+D100492,Pike Grill,Eligible,Daniel Reyes,,2026-07-29,2026-07-29,,555.728.9782,meridian cloud,Meridian Cloud,ai_call,Verano Bay
+D100145,Kinship Kitchen - Greenhithe,Eligible,Marco Ferrari,,2026-06-24,2026-07-03,,+15551491298,1 location,,human_call,Verano Bay
+D100357,Gallow Steakhouse,Walked-in,Aisha Karim,,2026-05-12,2026-07-06,Priya Patel,+1 555 367 1188,"George Miller (GM), 1 location",Salt Box,ai_call,Verano Bay
+D100220,The Zephyr Alehouse,Walked-in,Aisha Karim,,2026-02-25,2026-03-15,,5557846767,1 location,,ai_call,Verano Bay
+D100174,Salt & Vine Chophouse Restaurant,Walked-in,Daniel Reyes,,2026-03-03,2026-03-23,,(555) 186-5292,"fernpost, called twice, gatekeeper",,ai_call,Verano Bay
+D100472,LANTERN BRASSERIE,Eligible,Daniel Reyes,,2026-07-13,2026-07-13,,(555) 796-4799,"saltbox, 1 location",,scrape,Verano Bay
+D100409,Sixpence Chophouse,Eligible,Marco Ferrari,,2026-07-10,2026-07-16,,+15553420328,wants pricing,Meridian Cloud POS,referral,Verano Bay
+D100213,Tidewater Oyster Bar,Closed Lost,Marco Ferrari,,2026-07-04,2026-08-03,Angela Andino,555-691-6422,,vellum,referral,Verano Bay
+D100436,Northbank Wine Bar,Eligible,Priya Shah,,2026-06-07,2026-06-08,Omar Chen,+15556083605,,,referral,Verano Bay
+D100243,Cinder Bistro,Eligible,Tom Brennan,,2026-02-09,2026-02-14,,555-808-5110,"Emily Brown (Owner), 11 locations",,scrape,Verano Bay
+D100387,Yarrow Smokehouse Verano Bay,Eligible,Daniel Reyes,,2026-06-03,2026-06-10,,555-386-7827,meridian cloud pos,,referral,Verano Bay
+D100177,Fallowfield Trattoria,KDM Demo,Tom Brennan,,2026-02-21,2026-04-21,,+1 555 258 2067,tessera,,ai_call,Verano Bay
+D100507,Alder Trattoria,Eligible,Daniel Reyes,,2026-05-21,2026-05-21,,555-289-8870,"Rachel Petrou (Managing Partner), 50 locations",,referral,Verano Bay
+D100029,Silverfin Chophouse,Walked-in,Priya Shah,,2026-03-27,2026-04-14,,555-657-0823,"Peter Novak (Owner), 10 locations",Cadence Mini,referral,Verano Bay
+D100370,Oxbow Oyster Bar,Eligible,Tom Brennan,,2026-04-30,2026-05-01,,555-709-9029,"ironclad pos, 1 location",,scrape,Verano Bay
+D100109,Little Bear Tavern - Ferrymead,Eligible,Tom Brennan,,2026-04-15,2026-04-20,,+15557587722,"cadence mini, Ahmed Schmidt (Managing Partner), happy with current setup",,walk-in,Verano Bay
+D100434,Nettle Steakhouse,Eligible,Marco Ferrari,,2026-06-08,2026-06-15,,+1 555 916 7459,"Yolanda Martinez (Managing Partner), 1 location",,scrape,Verano Bay
+D100045,NETTLE OSTERIA,Eligible,Daniel Reyes,,2026-05-23,2026-06-04,,5559722429,"meridian cloud pos, 51 locations",,referral,Verano Bay
+D100486,Salt & Vine Brasserie,Eligible,Aisha Karim,,2026-06-07,2026-06-07,,+1 555 726 1196,"orbit systems, 1 location",Orbit,ai_call,Verano Bay
+D100371,Wildwood Brasserie,Eligible,Marco Ferrari,,2026-05-16,2026-05-25,,555-984-9881,"northstar, Elena Patel (Owner), 10 locations",,walk-in,Verano Bay
+D100080,Saffron Brasserie,Gatekeeper Demo,Tom Brennan,,2026-03-04,2026-04-25,Ahmed Singh,+1 555 789 5103,"1 location, happy with current setup",,ai_call,Verano Bay
+D100463,Anchor Grill,Walked-in,Aisha Karim,,2026-04-13,2026-06-12,Katherine Johnson,+15553975601,,,ai_call,Verano Bay
+D100454,Sorrel Chophouse,Eligible,Tom Brennan,,2026-01-30,2026-02-01,,+15558022177,,,walk-in,Verano Bay
+D100502,The Violet Grill,Eligible,Daniel Reyes,,2026-03-07,2026-03-07,,5551734875,Luis Okafor (Managing Partner),,ai_call,Verano Bay
+D100154,Northbank Alehouse,Eligible,Daniel Reyes,,2026-05-07,2026-05-19,,(555) 792-2749,Nadia Miller (Owner),,scrape,Verano Bay
+D100231,Sable Table,Eligible,Tom Brennan,,2026-02-20,2026-02-28,,+15556061120,,,ai_call,Verano Bay
+D100095,Ironwood Brasserie,Eligible,Priya Shah,,2026-04-12,2026-04-15,Deborah Andino,555-200-5279,,,walk-in,Verano Bay
+D100131,Verde Table,Eligible,Daniel Reyes,,2026-03-15,2026-03-19,Susan Silva,555.653.4977,"meridian cloud, 4 locations, wants pricing",,human_call,Verano Bay
+D100046,Silverfin Tavern,Eligible,Tom Brennan,,2026-04-08,2026-04-16,,+15555903517,1 location,,ai_call,Verano Bay
+D100457,Anchor Tavern,Eligible,Tom Brennan,,2026-03-08,2026-03-13,George Reyes,555.491.0517,"ironclad, Raj Reyes (Owner), 1 location, happy with current setup",,walk-in,Verano Bay
+D100277,The Violet Table,KDM Demo,Priya Shah,,2026-07-12,2026-07-26,,5553638422,"northstar pos, 1 location",,human_call,Verano Bay
+D100446,Rookery Taqueria,Walked-in,Tom Brennan,,2026-03-15,2026-03-30,Daniel Kim,+1 555 417 0616,"Kevin Chen (GM), 1 location, wants pricing",,walk-in,Verano Bay
+D100298,Bellwether Grill Verano Bay,Eligible,Aisha Karim,,2026-06-03,2026-06-13,,555.113.6053,"ironclad pos, George Martinez (GM)",Ironclad POS,human_call,Verano Bay
+D100429,Blue Heron Osteria,Eligible,Daniel Reyes,,2026-03-03,2026-03-13,Nadia Doyle,5551097087,"cadence mini, Deborah Miller (Owner), 1 location",,walk-in,Verano Bay
+D100076,Andino Brothers Taqueria,Eligible,Daniel Reyes,,2026-04-08,2026-04-09,Frank Le,555.427.0628,"Miguel Andino (GM), 3 locations",,referral,Verano Bay
+D100324,VIOLET SUPPER CLUB,Walked-in,Priya Shah,,2026-02-03,2026-02-21,,+15552757214,"1 location, not interested in QR",,human_call,Verano Bay
+D100072,Ember Dining Room Verano Bay,Eligible,Priya Shah,,2026-07-14,2026-07-23,Hassan Patel,+1 555 383 0788,"Nicole Okafor (Operations Manager), 1 location",,referral,Verano Bay
+D100234,MARIGOLD DINING ROOM,Eligible,Marco Ferrari,,2026-06-28,2026-07-01,Frank Garcia,555.953.8751,1 location,,walk-in,Verano Bay
+D100390,Jackdaw Oyster Bar,Eligible,Aisha Karim,,2026-02-27,2026-03-10,,+15554626327,Frank Rossi (Co-Owner),,walk-in,Verano Bay
+D100315,Magpie Wine Bar,Closed Lost,Tom Brennan,,2026-04-16,2026-06-08,David Petrou,555.363.7092,"ironclad, Elena Kim (Owner), 12 locations",,human_call,Verano Bay
+D100229,Lantern Bistro Restaurant,Eligible,Priya Shah,,2026-04-26,2026-05-07,,555-442-6882,"Omar Chen (Co-Owner), 1 location",,referral,Verano Bay
+D100133,Zephyr Osteria,Eligible,Aisha Karim,,2026-05-11,2026-05-13,Victor Kim,555.824.3081,"ironclad, James Haddad (GM)",,human_call,Verano Bay
+D100343,Vesper Table,Eligible,Tom Brennan,,2026-07-09,2026-07-13,Michael Bianchi,5558062116,,,ai_call,Verano Bay
+D100043,Plumb House,Eligible,Priya Shah,,2026-02-18,2026-03-02,Peter Okafor,555.224.3344,11 locations,,ai_call,Verano Bay
+D100023,The Persimmon Grill,Not Qualified,Priya Shah,,2026-07-07,2026-07-19,,555.838.5577,Beatriz Le (Co-Owner),,human_call,Verano Bay
+D100181,Heron Brasserie,Eligible,Aisha Karim,,2026-05-03,2026-05-05,,(555) 658-0408,,,ai_call,Verano Bay
+D100063,Wren Osteria Verano Bay,Eligible,Aisha Karim,,2026-02-14,2026-02-14,,555-619-8427,"Yolanda Martinez (Co-Owner), 1 location",,walk-in,Verano Bay
+D100165,Harrow Taqueria,Eligible,Marco Ferrari,,2026-07-06,2026-07-11,,5551177664,fernpost,fernpost,referral,Verano Bay
+D100217,OLIVE & ASH WINE BAR,Eligible,Marco Ferrari,,2026-02-18,2026-02-27,,+15556859359,"Frank Kim (GM), happy with current setup",,ai_call,Verano Bay
+D100048,Nightjar Osteria,Closed Won,Priya Shah,,2026-05-09,2026-07-12,,+1 555 228 7948,"cadence flex, Jennifer Vasquez (Operations Manager), wants pricing",,walk-in,Verano Bay
+D100152,MERCADO OSTERIA,Walked-in,Aisha Karim,,2026-02-18,2026-02-27,Marcus Doyle,+15558500328,"ironclad, 58 locations",Ironclad,walk-in,Verano Bay
+D100052,Heron Room,Eligible,Daniel Reyes,,2026-02-26,2026-03-02,Monica Nguyen,5559487735,"meridian (legacy), Ahmed Bianchi (Owner)",,ai_call,Verano Bay
+D100440,Olive & Ash Brasserie,Eligible,Priya Shah,,2026-05-27,2026-06-01,,(555) 979-7893,,,human_call,Verano Bay
+D100087,Casa Verde Cantina,Eligible,Priya Shah,,2026-02-06,2026-02-17,,(555) 304-7306,"3 locations, asked for callback",CADENCE,referral,Verano Bay
+D100349,Inkwell Tavern,Eligible,Tom Brennan,,2026-06-09,2026-06-18,,(555) 225-4022,Carlos Miller (General Manager),QuillPay,human_call,Verano Bay
+D100364,Roan Supper Club,Closed Won,Aisha Karim,4800,2026-03-08,2026-05-05,,(555) 745-3356,"Katherine Murphy (Owner), 1 location",,human_call,Verano Bay
+D100204,Lantern Brasserie,Eligible,Priya Shah,,2026-06-11,2026-06-16,Sofia Williams,(555) 796-4799,"saltbox, 1 location",,scrape,Verano Bay
+D100230,Sable Room,Eligible,Marco Ferrari,,2026-04-29,2026-05-10,,555.199.7142,"meridian cloud, Paul Murphy (General Manager)",meridian cloud,human_call,Verano Bay
+D100191,Tidewater Kitchen,Eligible,Priya Shah,,2026-04-25,2026-05-04,Tony Vasquez,+1 555 768 1544,"rivet, Emily Martinez (Owner), 1 location",,walk-in,Verano Bay
+D100245,Copper Steakhouse,Walked-in,Marco Ferrari,,2026-06-18,2026-08-02,,(555) 403-9796,Paul Novak (Co-Owner),,referral,Verano Bay
+D100026,Quill Supper Club - Miradero,Eligible,Priya Shah,,2026-06-27,2026-07-02,,(555) 216-5580,"orbit, 1 location",,ai_call,Verano Bay
+D100420,Lantern Kitchen,Eligible,Daniel Reyes,,2026-04-27,2026-04-30,,555-337-0878,"Susan Bianchi (Owner), 1 location",Cadence Station,human_call,Verano Bay
+D100393,Stonecutter Taqueria,Eligible,Daniel Reyes,,2026-02-16,2026-02-22,,5557518163,,,ai_call,Verano Bay
+D100110,VERDE KITCHEN,Walked-in,Tom Brennan,,2026-04-22,2026-05-08,,(555) 717-7751,"Katherine Miller (GM), 1 location",,scrape,Verano Bay
+D100334,Ember Wine Bar,Eligible,Tom Brennan,,2026-05-11,2026-05-13,,+1 555 376 1703,,,human_call,Verano Bay
+D100283,Kinship Bistro - Marisol,Walked-in,Priya Shah,,2026-07-04,2026-07-09,,555-989-0084,1 location,,human_call,Verano Bay
+D100075,Quill Grill - Harbor Point,Eligible,Priya Shah,,2026-03-05,2026-03-16,,555.733.8680,"saltbox, Christina Doyle (Operations Manager), asked for callback",saltbox,scrape,Verano Bay
+D100250,Marrow Table,Eligible,Tom Brennan,,2026-03-25,2026-03-26,,+15557738524,meridian cloud,meridian cloud,ai_call,Verano Bay
+D100443,The Little Supper Club,Eligible,Priya Shah,,2026-01-30,2026-02-10,,555-885-4082,"ironclad, 3 locations",IRONCLAD,human_call,Verano Bay
+D100448,Nightjar Steakhouse,Eligible,Daniel Reyes,,2026-02-17,2026-02-22,,+1 555 253 3715,"fernpost, Maria Vasquez (Owner), 1 location",FERNPOST,walk-in,Verano Bay
+D100037,Amber Bistro,Eligible,Tom Brennan,,2026-04-09,2026-04-14,Ana Bianchi,555.607.2494,"northstar pos, Elena Schmidt (Owner), 1 location",,ai_call,Verano Bay
+D100168,The Vesper Bistro,Eligible,Daniel Reyes,,2026-05-18,2026-05-26,,5556592723,"meridian cloud, wants pricing",meridian cloud,scrape,Verano Bay
+D100403,Yarrow Room,Eligible,Marco Ferrari,,2026-07-13,2026-07-25,,555.457.2353,saltbox,Saltbox,human_call,Verano Bay
+D100284,Kingfisher Table Verano Bay,Eligible,Aisha Karim,,2026-06-19,2026-06-25,Linda Novak,+15552583898,1 location,,walk-in,Verano Bay
+D100378,Halcyon Supper Club,Eligible,Priya Shah,,2026-03-10,2026-03-11,Raj Patel,5555883399,14 locations,ironcladpos,scrape,Verano Bay
+D100078,Roan Steakhouse,Eligible,Tom Brennan,,2026-03-08,2026-03-17,,+1 555 601 2321,"vellum, Christina Rodriguez (Managing Partner), 1 location",,walk-in,Verano Bay
+D100176,Pike Taqueria,Eligible,Aisha Karim,,2026-04-03,2026-04-08,,5552804502,"meridian cloud, 12 locations",,human_call,Verano Bay
+D100336,Quill Osteria,Walked-in,Tom Brennan,,2026-07-14,2026-08-03,,+15555919937,"George Torres (Owner), 1 location",,human_call,Verano Bay
+D100197,Sparrow Tavern,Walked-in,Tom Brennan,,2026-06-20,2026-07-13,,555.383.5187,1 location,IRONCLAD,human_call,Verano Bay
+D100328,Palisade Grill,Eligible,Marco Ferrari,,2026-02-03,2026-02-04,,+15558190423,1 location,,ai_call,Verano Bay
+D100345,Mercado Wine Bar,Gatekeeper Demo,Priya Shah,,2026-03-04,2026-04-01,Deborah Torres,5555332046,1 location,Tessera,referral,Verano Bay
+D100001,Gallow Tavern,Eligible,Priya Shah,,2026-03-23,2026-03-24,,555-679-5590,"Carlos Doyle (Owner), 1 location",,walk-in,Verano Bay
+D100009,Yarrow Table,Eligible,Priya Shah,,2026-02-19,2026-03-02,,5551804773,"ironclad, 10 locations",IRONCLAD,human_call,Verano Bay
+D100286,Larkspur Room,KDM Demo,Aisha Karim,,2026-05-25,2026-06-11,Nadia Lopez,(555) 871-9127,"vellum restaurant, Emily Murphy (General Manager), 7 locations, called twice, gatekeeper",VELLUM,referral,Verano Bay
+D100386,Magpie Supper Club - Quarry End,Eligible,Aisha Karim,,2026-04-04,2026-04-05,,555-429-7633,,,referral,Verano Bay
+D100015,Loam Room Verano Bay,Eligible,Tom Brennan,,2026-06-20,2026-07-02,,+1 555 949 4642,"Carlos Brown (Owner), 13 locations",,walk-in,Verano Bay
+D100355,Sable Supper Club,Eligible,Daniel Reyes,,2026-07-12,2026-07-19,Elena Rossi,5557171578,"ironclad, Victor Rodriguez (Operations Manager), 1 location",ironcladpos,scrape,Verano Bay
+D100412,Driftwood Steakhouse,KDM Demo,Tom Brennan,,2026-03-10,2026-04-30,,555.615.8123,"Emily Patel (GM), asked for callback",,walk-in,Verano Bay
+D100107,Olive & Ash Room,Eligible,Tom Brennan,,2026-07-06,2026-07-11,,555.173.3531,"ironclad pos, Nadia Petrou (Owner), 1 location",,referral,Verano Bay
+D100391,Golden Hour Cantina,Eligible,Tom Brennan,,2026-04-19,2026-04-19,Carlos Garcia,(555) 592-9067,"ironclad, Susan Nguyen (General Manager), 37 locations",,scrape,Verano Bay
+D100505,Hearth Brasserie Restaurant Restaurant,Eligible,Priya Shah,,2026-06-12,2026-06-12,,+15551516999,1 location,,human_call,Verano Bay
+D100424,Yarrow Grill,Eligible,Marco Ferrari,,2026-02-07,2026-02-12,,5554139572,"ironclad pos, Maria Le (Co-Owner), 1 location",,ai_call,Verano Bay
+D100153,Loam Dining Room,Walked-in,Priya Shah,,2026-06-26,2026-07-25,,5557491465,1 location,,human_call,Verano Bay
+D100187,Magpie Brasserie,Eligible,Marco Ferrari,,2026-07-03,2026-07-03,,(555) 495-9793,26 locations,,human_call,Verano Bay
+D100006,Redbird Oyster Bar - Stillwater,Eligible,Aisha Karim,,2026-02-13,2026-02-25,,555.476.3841,"northstar restaurant, wants pricing",,referral,Verano Bay
+D100214,Sixpence Brasserie,Eligible,Aisha Karim,,2026-04-27,2026-04-27,,+1 555 502 7701,"Angela Doyle (GM), 1 location",,scrape,Verano Bay
+D100392,Saffron Chophouse,Eligible,Marco Ferrari,,2026-02-03,2026-02-10,Nadia Doyle,5552029052,"cadence mini, Nadia Le (General Manager)",,scrape,Verano Bay
+D100242,Sable Kitchen,Eligible,Aisha Karim,,2026-06-22,2026-06-27,,5551694452,"6 locations, not interested in QR",ironcladpos,referral,Verano Bay
+D100353,Fernwood Wine Bar Verano Bay,Walked-in,Marco Ferrari,,2026-04-20,2026-05-15,,+1 555 994 7798,1 location,,scrape,Verano Bay
+D100272,Cardinal Trattoria,Eligible,Aisha Karim,,2026-05-27,2026-06-06,Michael Andino,555-931-9919,,,walk-in,Verano Bay
+D100146,SORREL ALEHOUSE,Eligible,Marco Ferrari,,2026-04-24,2026-05-06,,+15557347048,"Beatriz Singh (Owner), 1 location",,referral,Verano Bay
+D100280,Umber Alehouse - Quarry End,Eligible,Tom Brennan,,2026-03-21,2026-03-25,,555-116-8603,"Peter Vasquez (General Manager), 1 location",,ai_call,Verano Bay
+D100375,OXBOW TRATTORIA,Eligible,Tom Brennan,,2026-06-07,2026-06-12,Ahmed Hernandez,555-145-6397,"cadence mini, David Garcia (Operations Manager)",Cadence Mini,walk-in,Verano Bay
+D100318,Tallgrass Dining Room,Closed Lost,Aisha Karim,,2026-02-13,2026-04-04,,(555) 856-9032,"vellum pos, Elena Petrou (Co-Owner), 1 location",,scrape,Verano Bay
+D100136,Understory Table,Eligible,Aisha Karim,,2026-05-25,2026-06-02,,555-830-9677,fernpost,fernpost,human_call,Verano Bay
+D100459,Foxglove Osteria,Eligible,Priya Shah,,2026-06-13,2026-06-16,,+15555209676,"ironclad, Elena Singh (Owner), 55 locations",,scrape,Verano Bay
+D100264,Foxtail Grill,Eligible,Marco Ferrari,,2026-05-31,2026-06-10,Sean Garcia,555-192-6335,"Kevin Brown (Operations Manager), 1 location",,scrape,Verano Bay
+D100050,Prairie Smokehouse,Walked-in,Aisha Karim,,2026-07-07,2026-08-03,,555.753.0203,"ironcladpos, 6 locations, wants pricing",,referral,Verano Bay
+D100352,Kingfisher Chophouse,Closed Won,Aisha Karim,,2026-04-12,2026-06-05,Yolanda Singh,555.616.8334,"orbit, 1 location",,walk-in,Verano Bay
+D100506,Fallowfield Trattoria - Bayview Flats,Eligible,Tom Brennan,,2026-03-18,2026-03-18,,+1 555 258 2067,tessera,,ai_call,Verano Bay
+D100481,The Ironwood Grill,Eligible,Aisha Karim,,2026-06-01,2026-06-01,,555-134-5738,"vellum pos, 1 location",,human_call,Verano Bay
+D100071,Quill Brasserie,Gatekeeper Demo,Tom Brennan,,2026-05-11,2026-07-12,,5559656192,"Maria Singh (Owner), 1 location",,walk-in,Verano Bay
+D100064,Marigold Osteria,Verbal Yes,Aisha Karim,,2026-02-24,2026-03-19,,+15554292603,"cadence pos, Yolanda Haddad (Owner)",,human_call,Verano Bay
+D100394,SAFFRON CANTINA,Closed Lost,Priya Shah,,2026-03-20,2026-05-24,,5556544187,"Maria Silva (General Manager), 1 location, happy with current setup",,referral,Verano Bay
+D100373,The Nettle Alehouse,KDM Demo,Aisha Karim,,2026-06-16,2026-07-09,,(555) 760-7807,"1 location, happy with current setup",,human_call,Verano Bay
+D100414,WARBLER TRATTORIA,Eligible,Marco Ferrari,,2026-04-01,2026-04-10,,+1 555 203 6871,"Luis Patel (Co-Owner), 49 locations, happy with current setup",,scrape,Verano Bay
+D100123,Motherland Oyster Bar,Closed Won,Marco Ferrari,,2026-03-24,2026-05-23,,555.285.0661,Priya Nguyen (General Manager),,scrape,Verano Bay
+D100423,Foxtail Supper Club,Gatekeeper Demo,Priya Shah,,2026-04-13,2026-05-10,,555-919-9383,"16 locations, wants pricing",,referral,Verano Bay
+D100313,The Ember House,Eligible,Priya Shah,,2026-06-10,2026-06-10,,+15556547340,1 location,ironclad,ai_call,Verano Bay
+D100162,The Cardinal Brasserie,Walked-in,Daniel Reyes,,2026-02-13,2026-04-16,,+15554259497,cadence,Cadence Mini,scrape,Verano Bay
+D100246,Ironwood Steakhouse - Calder Park,Eligible,Tom Brennan,,2026-06-04,2026-06-09,,5551518173,1 location,fernpost,scrape,Verano Bay
+D100238,OXBOW DINING ROOM,Walked-in,Aisha Karim,,2026-06-26,2026-07-13,Rachel Okafor,+1 555 954 2592,"Raj Kowalski (General Manager), 1 location",,ai_call,Verano Bay
+D100170,Sparrow Dining Room,KDM Demo,Aisha Karim,,2026-03-08,2026-05-16,,5559783045,cadence,Cadence,human_call,Verano Bay
+D100194,Verde Room - Quarry End,Eligible,Marco Ferrari,,2026-05-10,2026-05-13,,555-643-3319,4 locations,,referral,Verano Bay
+D100016,Verde Cantina - Cedar Cross,Eligible,Aisha Karim,,2026-02-21,2026-03-04,Nicole Doyle,+15559180430,"rivet pay, 1 location",rivet,referral,Verano Bay
+D100134,Rookery Wine Bar,Eligible,Aisha Karim,,2026-03-12,2026-03-18,,(555) 307-7081,30 locations,,walk-in,Verano Bay
+D100083,Heron Cantina,Eligible,Priya Shah,,2026-02-19,2026-02-22,,(555) 119-7849,"Peter Garcia (Owner), 1 location",,walk-in,Verano Bay
+D100233,Foxtail Tavern,Eligible,Aisha Karim,,2026-05-05,2026-05-11,,+15556868437,"Christina Reyes (Owner), asked for callback",,ai_call,Verano Bay
+D100188,Persimmon Supper Club Verano Bay,Eligible,Aisha Karim,,2026-04-14,2026-04-23,,(555) 680-0753,"ironclad, Omar Petrou (Owner)",IRONCLAD,human_call,Verano Bay
+D100190,Sparrow Steakhouse,Eligible,Aisha Karim,,2026-05-07,2026-05-18,,555-879-5176,"cadence, Omar Vasquez (General Manager)",,human_call,Verano Bay
+D100400,Warbler Supper Club,Eligible,Priya Shah,,2026-04-10,2026-04-13,Peter Bianchi,(555) 904-2749,"43 locations, happy with current setup",,ai_call,Verano Bay
+D100169,Rambler Wine Bar,Eligible,Tom Brennan,,2026-02-24,2026-02-25,,555-258-2965,1 location,,ai_call,Verano Bay
+D100232,Sixpence Trattoria,Eligible,Marco Ferrari,,2026-06-21,2026-06-30,,555.551.7565,30 locations,,scrape,Verano Bay
+D100223,Lantern Room,KDM Demo,Priya Shah,,2026-05-03,2026-06-07,,555-945-1594,1 location,Salt Box,referral,Verano Bay
+D100366,The Tidewater Wine Bar,Eligible,Priya Shah,,2026-05-30,2026-05-31,Sean Johnson,(555) 611-9281,"David Schmidt (Operations Manager), 1 location, happy with current setup",,referral,Verano Bay
+D100497,Plumb Table - Quarry End,Eligible,Tom Brennan,,2026-06-27,2026-06-27,,555.886.3983,"1 location, not interested in QR",,referral,Verano Bay
+D100413,The Sparrow House,Eligible,Daniel Reyes,,2026-03-17,2026-03-22,Peter Petrou,555-303-7331,,,walk-in,Verano Bay
+D100130,The Bluebird Trattoria,Eligible,Aisha Karim,,2026-03-16,2026-03-19,,5551157167,"David Reyes (Owner), 12 locations",,ai_call,Verano Bay
+D100474,Quarry Smokehouse,Eligible,Marco Ferrari,,2026-05-16,2026-05-16,,5552643164,wants pricing,,ai_call,Verano Bay
+D100042,Prairie Chophouse,KDM Demo,Aisha Karim,,2026-03-31,2026-04-09,Priya Okafor,5554019484,cadence pos,CADENCE,referral,Verano Bay
+D100408,Cobalt Trattoria - Lantern Hill,Eligible,Tom Brennan,,2026-04-21,2026-04-28,,5555587403,,,ai_call,Verano Bay
+D100073,Sorrel Room,Not Qualified,Priya Shah,,2026-04-16,2026-05-10,,+1 555 369 5941,1 location,,scrape,Verano Bay
+D100329,Marrow Wine Bar,Closed Lost,Aisha Karim,,2026-03-07,2026-04-18,,555-787-6812,Paul Andino (GM),,ai_call,Verano Bay
+D100104,Saffron Supper Club,Eligible,Priya Shah,,2026-05-30,2026-05-30,,+1 555 814 0796,"Peter Garcia (Owner), 1 location",,referral,Verano Bay
+D100149,Marigold Taqueria,Eligible,Tom Brennan,,2026-02-02,2026-02-05,,(555) 615-5214,cadence,,referral,Verano Bay
+D100094,Thistle Bistro,Eligible,Daniel Reyes,,2026-06-21,2026-06-22,,555.699.8106,,,human_call,Verano Bay
+D100470,Golden Hour Oyster Bar,Eligible,Priya Shah,,2026-05-27,2026-06-03,,555.822.7656,"ironclad pos, Ana Brown (Owner)",Ironclad POS,ai_call,Verano Bay
+D100002,DRIFTWOOD DINING ROOM,Eligible,Marco Ferrari,,2026-03-26,2026-03-31,,(555) 933-7403,"Rachel Andino (GM), 7 locations",,human_call,Verano Bay
+D100445,Lantern Chophouse - Greenhithe,Eligible,Tom Brennan,,2026-02-11,2026-02-12,,+1 555 116 3732,"Ahmed Martinez (Operations Manager), 1 location",,scrape,Verano Bay
+D100488,Basil and Bone Steakhouse,Not Qualified,Aisha Karim,,2026-03-30,2026-03-30,,555-411-2176,"11 locations, wants pricing",,referral,Verano Bay
+D100031,Nightjar Cantina,Gatekeeper Demo,Marco Ferrari,,2026-07-01,2026-07-24,Carlos Andino,+1 555 833 8019,1 location,,ai_call,Verano Bay
+D100260,Sable Alehouse,Walked-in,Aisha Karim,,2026-06-14,2026-07-02,,(555) 983-9363,ironclad,,human_call,Verano Bay
+D100411,Fernwood Bistro,Eligible,Tom Brennan,,2026-05-22,2026-05-25,,+15554947594,,,ai_call,Verano Bay
+D100356,Driftwood Supper Club,Eligible,Daniel Reyes,,2026-07-10,2026-07-11,,5559739616,,,scrape,Verano Bay
+D100210,Fallowfield Taqueria,Gatekeeper Demo,Aisha Karim,,2026-02-06,2026-02-16,,555-902-6105,14 locations,,referral,Verano Bay
+D100467,Sparrow Brasserie Restaurant,Eligible,Priya Shah,,2026-04-11,2026-04-18,,555.520.7081,28 locations,,scrape,Verano Bay
+D100128,Tidewater House,Eligible,Aisha Karim,,2026-01-30,2026-02-05,,(555) 522-0953,northstar,Northstar,ai_call,Verano Bay
+D100017,Driftwood Room Verano Bay,Eligible,Marco Ferrari,,2026-02-23,2026-03-02,Elena Okafor,555.510.9089,vellum,,referral,Verano Bay
+D100341,Sorrel Oyster Bar,Eligible,Marco Ferrari,,2026-05-21,2026-05-23,,555-647-2704,"vellum pos, 1 location",Vellum POS,walk-in,Verano Bay
+D100419,Orchard Smokehouse,Eligible,Priya Shah,,2026-06-29,2026-07-05,,+1 555 953 3041,"Michael Torres (Owner), 1 location",Ironclad POS,human_call,Verano Bay
+D100175,Nine Bridges Tavern,Eligible,Marco Ferrari,,2026-03-17,2026-03-18,,+1 555 492 4989,1 location,,human_call,Verano Bay
+D100282,Lantern Wine Bar,Closed Won,Priya Shah,,2026-05-02,2026-06-03,,5557736190,"Yolanda Okafor (Co-Owner), 1 location",,walk-in,Verano Bay
+D100173,Vesper Trattoria,Eligible,Priya Shah,,2026-03-30,2026-03-30,,555-999-3782,"ironclad pos, Jennifer Williams (GM)",,ai_call,Verano Bay
+D100388,Tin Roof Smokehouse,Eligible,Daniel Reyes,,2026-05-13,2026-05-17,,555-364-4090,1 location,,scrape,Verano Bay
+D100310,Salt & Vine Room,Walked-in,Priya Shah,,2026-07-13,2026-07-22,,555.610.0672,"Victor Kim (General Manager), 6 locations, happy with current setup",,walk-in,Verano Bay
+D100205,The Prairie Wine Bar,Eligible,Tom Brennan,,2026-04-21,2026-05-03,,555-950-2113,meridian cloud,,referral,Verano Bay
+D100451,Driftwood Brasserie,Gatekeeper Demo,Priya Shah,,2026-02-15,2026-04-05,,(555) 562-3650,"Beatriz Murphy (General Manager), 1 location",,referral,Verano Bay
+D100163,Quill Cantina,Eligible,Priya Shah,,2026-06-26,2026-07-08,,5554801308,1 location,,walk-in,Verano Bay
+D100447,LARKSPUR TAVERN,Gatekeeper Demo,Marco Ferrari,,2026-06-30,2026-08-03,,+1 555 297 2393,vellum,Vellum,ai_call,Verano Bay
+D100428,Inkwell Cantina,Walked-in,Marco Ferrari,,2026-02-14,2026-04-02,Christina Williams,+15554788602,Nicole Brown (Co-Owner),,referral,Verano Bay
+D100426,Motherland Taqueria,Closed Won,Tom Brennan,,2026-05-25,2026-07-21,,+15557543479,"Sofia Doyle (General Manager), 1 location",,scrape,Verano Bay
+D100224,Nightjar Alehouse - Quarry End,Gatekeeper Demo,Daniel Reyes,,2026-06-03,2026-07-30,Ahmed Rodriguez,+15557478058,1 location,BlueCrest,scrape,Verano Bay
+D100144,Basil and Bone Table,KDM Demo,Priya Shah,,2026-06-12,2026-08-03,,(555) 179-9775,saltbox,,walk-in,Verano Bay
+D100051,Oxbow Grill,Eligible,Tom Brennan,,2026-03-13,2026-03-13,,5556050807,,,referral,Verano Bay
+D100222,Tin Roof Alehouse,Walked-in,Priya Shah,,2026-03-23,2026-05-12,,+15554229272,,,walk-in,Verano Bay
+D100103,Sixpence House,Walked-in,Marco Ferrari,,2026-02-04,2026-02-22,Maria Haddad,5554374643,"Grace Schmidt (Managing Partner), 1 location, asked for callback",,scrape,Verano Bay
+D100380,Northbank Bistro,Eligible,Priya Shah,,2026-06-04,2026-06-10,,(555) 150-8297,6 locations,,walk-in,Verano Bay
+D100493,Oxbow Grill Verano Bay,Eligible,Daniel Reyes,,2026-03-21,2026-03-21,,5556050807,,,referral,Verano Bay
+D100247,Juniper Trattoria,KDM Demo,Priya Shah,,2026-05-29,2026-07-22,Christina Hernandez,+1 555 315 1946,1 location,,ai_call,Verano Bay
+D100047,Inkwell Supper Club,KDM Demo,Daniel Reyes,,2026-05-01,2026-05-07,,+15553419352,"rivet, Grace Novak (Co-Owner)",,scrape,Verano Bay
+D100384,Stonecutter Trattoria - Old Mill,Eligible,Aisha Karim,,2026-05-27,2026-05-30,,555-140-1142,"Daniel Rodriguez (Owner), 1 location",,scrape,Verano Bay
+D100225,Wren Steakhouse,KDM Demo,Priya Shah,,2026-06-04,2026-06-28,,(555) 360-8095,vellum pos,VELLUM,walk-in,Verano Bay
+D100368,Salt & Vine Grill,Eligible,Daniel Reyes,,2026-02-18,2026-02-19,,+1 555 738 7765,"cadence flex, Emily Le (Owner)",,ai_call,Verano Bay
+D100086,Harrow Wine Bar - Windrow,Eligible,Aisha Karim,,2026-05-19,2026-05-24,,555-883-4632,"ironclad, not interested in QR",IRONCLAD,human_call,Verano Bay
+D100487,Palisade Grill,Eligible,Marco Ferrari,,2026-02-17,2026-02-17,,+15558190423,1 location,,ai_call,Verano Bay
+D100484,Motherland Dining Room - Stillwater,Eligible,Priya Shah,,2026-06-07,2026-06-07,,+1 555 294 6802,1 location,,referral,Verano Bay
+D100306,Driftwood Tavern,KDM Demo,Daniel Reyes,,2026-05-17,2026-06-15,,5551447507,"saltbox, George Andino (Managing Partner), 1 location, not interested in QR",,human_call,Verano Bay
+D100444,Basil & Bone Supper Club,Eligible,Aisha Karim,,2026-03-11,2026-03-11,Monica Andino,+15559303309,"Paul Reyes (Owner), 1 location",,referral,Verano Bay
+D100219,Roan Cantina,Eligible,Priya Shah,,2026-03-16,2026-03-18,Daniel Bianchi,+1 555 998 7918,"bluecrest, Priya Johnson (Operations Manager)",Bluecrest,walk-in,Verano Bay
+D100099,Copper Osteria,Closed Won,Aisha Karim,,2026-05-08,2026-05-13,Ana Vasquez,555.807.2077,"David Kim (GM), happy with current setup",,human_call,Verano Bay
+D100452,OXBOW BISTRO,Eligible,Marco Ferrari,,2026-02-07,2026-02-08,,5558313051,"Linda Nguyen (General Manager), not interested in QR",Ironclad POS,human_call,Verano Bay
+D100141,Alder Dining Room,Eligible,Tom Brennan,,2026-07-04,2026-07-16,Beatriz Kim,(555) 195-8041,"orbit, Victor Schmidt (Managing Partner), 1 location",,referral,Verano Bay
+D100316,Harrow Cantina,Eligible,Marco Ferrari,,2026-02-16,2026-02-19,Frank Andino,(555) 943-7668,"meridian cloud pos, 21 locations",meridian cloud,scrape,Verano Bay
+D100307,Prairie Table,Eligible,Marco Ferrari,,2026-03-04,2026-03-07,,555.497.9760,"cadence, 7 locations",,human_call,Verano Bay
+D100228,Zephyr House,Eligible,Marco Ferrari,,2026-04-03,2026-04-09,,+1 555 605 3087,1 location,,referral,Verano Bay
+D100218,Dovetail Chophouse,Walked-in,Daniel Reyes,,2026-06-24,2026-08-03,,5551420806,happy with current setup,Cadence,human_call,Verano Bay
+D100252,Understory House,KDM Demo,Daniel Reyes,,2026-05-28,2026-06-26,,+1 555 925 5333,6 locations,,ai_call,Verano Bay
+D100285,Harrow Tavern,Eligible,Priya Shah,,2026-02-25,2026-03-02,Omar Torres,5559386109,"Marcus Schmidt (GM), 1 location",Ironclad POS,human_call,Verano Bay
+D100346,Motherland Smokehouse,Eligible,Tom Brennan,,2026-05-22,2026-05-29,,555.580.6750,ironclad,,referral,Verano Bay
+D100161,Loam Kitchen,Eligible,Daniel Reyes,,2026-05-24,2026-06-04,,555.199.8018,1 location,,ai_call,Verano Bay
+D100342,FOXTAIL OYSTER BAR,Walked-in,Marco Ferrari,,2026-07-11,2026-08-03,,(555) 202-7919,"Sean Petrou (Owner), 1 location",NorthStar,ai_call,Verano Bay
+D100226,Cobalt Taqueria Verano Bay,Eligible,Priya Shah,,2026-07-01,2026-07-04,Marcus Hernandez,555-242-1700,Kevin Haddad (Co-Owner),VELLUM,referral,Verano Bay
+D100293,Dovetail Dining Room,Eligible,Aisha Karim,,2026-05-30,2026-06-01,Grace Vasquez,(555) 780-9412,,Ironclad POS,ai_call,Verano Bay
+D100331,Northbank Table - Corvo Heights,Walked-in,Priya Shah,,2026-07-01,2026-08-03,Ahmed Brown,555-339-0537,"cadence pos, 3 locations, wants pricing",,referral,Verano Bay
+D100021,Persimmon Cantina,Eligible,Daniel Reyes,,2026-05-30,2026-05-31,,(555) 471-3993,cadence,CADENCE,ai_call,Verano Bay
+D100296,Kingfisher Smokehouse,KDM Demo,Aisha Karim,,2026-05-23,2026-06-07,Rachel Vasquez,(555) 365-7813,"cadence, Peter Novak (GM), 1 location",,referral,Verano Bay
+D100281,Vesper Steakhouse,Walked-in,Marco Ferrari,,2026-03-21,2026-05-14,,555.770.1847,"1 location, happy with current setup",,scrape,Verano Bay
+D100291,Cinder Steakhouse,Eligible,Marco Ferrari,,2026-06-16,2026-06-17,Yolanda Torres,+15555438219,"cadence, 1 location",,ai_call,Verano Bay
+D100295,Northbank Trattoria,Eligible,Tom Brennan,,2026-06-10,2026-06-20,,(555) 942-4375,,Cadence,scrape,Verano Bay
+D100267,Jackdaw Alehouse,Eligible,Daniel Reyes,,2026-06-08,2026-06-11,,+1 555 940 7431,"meridian cloud, Christina Martinez (Owner), 8 locations",Meridian Cloud,human_call,Verano Bay
+D100263,Quarry Taqueria,Eligible,Aisha Karim,,2026-05-12,2026-05-14,Robert Hernandez,(555) 436-3278,1 location,,referral,Verano Bay
+D100289,Heron Osteria - Templeton,Eligible,Tom Brennan,,2026-06-29,2026-07-03,Grace Reyes,+15558316871,quillpay pos,QuillPay,ai_call,Verano Bay
+D100258,Wildwood Grill - Stillwater,Closed Lost,Aisha Karim,,2026-04-20,2026-06-03,Maria Doyle,555-572-3282,Kevin Le (Co-Owner),Cadence,scrape,Verano Bay
+D100068,Marrow Cantina - Greenhithe,Eligible,Aisha Karim,,2026-01-30,2026-02-11,,5555507258,"Paul Andino (Co-Owner), 5 locations",,human_call,Verano Bay
+D100297,Pike Room,Walked-in,Aisha Karim,,2026-05-13,2026-06-24,,+15555357262,,,scrape,Verano Bay
+D100025,Alder Trattoria,Eligible,Daniel Reyes,,2026-05-10,2026-05-18,Christina Rossi,555-289-8870,"Rachel Petrou (Managing Partner), 50 locations",,referral,Verano Bay
+D100201,Motherland Dining Room - Stillwater,Eligible,Priya Shah,,2026-05-14,2026-05-21,Michael Petrou,+1 555 294 6802,1 location,,referral,Verano Bay
+D100060,Umber Steakhouse,Eligible,Marco Ferrari,,2026-06-03,2026-06-12,,+15553316769,"ironclad, 1 location",Ironclad POS,walk-in,Verano Bay
+D100044,Harrow Room,Eligible,Daniel Reyes,,2026-06-23,2026-07-05,,5555802105,ironclad,,ai_call,Verano Bay
+D100011,Rambler Smokehouse,Gatekeeper Demo,Priya Shah,,2026-07-01,2026-07-11,,(555) 562-6325,not interested in QR,Cadence POS,human_call,Verano Bay
+D100038,WARBLER KITCHEN,Eligible,Tom Brennan,,2026-01-30,2026-02-01,Beatriz Haddad,555-126-4801,"cadence, 53 locations, asked for callback",,ai_call,Verano Bay
+D100010,Palisade Alehouse,Eligible,Priya Shah,,2026-03-29,2026-04-07,Susan Brown,+1 555 415 9584,50 locations,Meridian Cloud,referral,Verano Bay
+D100404,Dovetail House,Walked-in,Priya Shah,,2026-06-25,2026-08-03,,+15558362332,cadence flex,,scrape,Verano Bay
+D100027,Amber Alehouse,Closed Lost,Daniel Reyes,,2026-05-24,2026-06-13,,+15558707359,Angela Garcia (Owner),,ai_call,Verano Bay
+D100167,Marigold Grill,Eligible,Daniel Reyes,,2026-05-20,2026-05-21,,+1 555 695 7888,"cadence station, Emily Murphy (Operations Manager), 1 location",Cadence Station,referral,Verano Bay
+D100159,Fallowfield Kitchen,Eligible,Aisha Karim,,2026-07-11,2026-07-15,,(555) 874-1796,"ironclad, Beatriz Nguyen (Managing Partner), 1 location",ironcladpos,ai_call,Verano Bay
+D100431,Tallgrass Kitchen,Eligible,Marco Ferrari,,2026-05-15,2026-05-17,Emily Martinez,+1 555 461 1580,"cadence, Angela Le (Owner)",,human_call,Verano Bay
+D100456,Tidewater Smokehouse,Eligible,Aisha Karim,,2026-03-02,2026-03-02,Ana Petrou,+15553552431,"meridian cloud pos, Omar Andino (GM), called twice, gatekeeper",,ai_call,Verano Bay
+D100118,Plumb Table,Eligible,Tom Brennan,,2026-06-02,2026-06-11,,555.886.3983,"1 location, not interested in QR",,referral,Verano Bay
+D100350,Sorrel Kitchen,Eligible,Aisha Karim,,2026-03-05,2026-03-11,Grace Petrou,+15554417718,"Robert Doyle (GM), 9 locations",Vellum POS,human_call,Verano Bay
+D100004,Heron Tavern - Quarry End,Eligible,Priya Shah,,2026-04-17,2026-04-17,Deborah Novak,5558183588,,,scrape,Verano Bay
+D100311,Thistle Brasserie Verano Bay,Eligible,Daniel Reyes,,2026-03-08,2026-03-09,,555.348.5831,"meridian, Nadia Williams (Owner), 1 location",,scrape,Verano Bay
+D100235,Lantern Taqueria,Closed Lost,Marco Ferrari,,2026-03-09,2026-04-11,,(555) 290-3469,,IRONCLAD,walk-in,Verano Bay
+D100208,Wren Table,Eligible,Aisha Karim,,2026-05-27,2026-05-31,,+1 555 845 0001,"Sofia Schmidt (Co-Owner), 1 location, wants pricing",,ai_call,Verano Bay
+D100251,Silverfin Brasserie,Eligible,Aisha Karim,,2026-07-13,2026-07-25,,5553083968,Elena Haddad (Owner),Tessera Express,human_call,Verano Bay
+D100256,Kingfisher Room,KDM Demo,Aisha Karim,,2026-04-27,2026-06-13,,+15554623439,meridian,,walk-in,Verano Bay
+D100379,Pike Grill,Eligible,Aisha Karim,,2026-07-14,2026-07-21,Carlos Patel,555.728.9782,meridian cloud,Meridian Cloud,ai_call,Verano Bay
+D100309,Anchor Table,KDM Demo,Aisha Karim,,2026-06-13,2026-08-03,,+1 555 691 3389,"Luis Murphy (Managing Partner), 1 location",Orbit POS,human_call,Verano Bay
+D100376,Inkwell Wine Bar,Eligible,Tom Brennan,,2026-07-09,2026-07-17,,555-254-1760,"cadence flex, 1 location",,walk-in,Verano Bay
+D100126,Oxbow Chophouse,Eligible,Tom Brennan,,2026-02-23,2026-02-23,,(555) 526-0136,"vellum, 53 locations, happy with current setup",Vellum POS,ai_call,Verano Bay
+D100312,Fallowfield Chophouse Verano Bay,Eligible,Tom Brennan,,2026-06-25,2026-07-02,Priya Chen,+1 555 672 0362,"northstar, Priya Reyes (Owner)",northstar,ai_call,Verano Bay
+D100374,Alder Supper Club Restaurant,Walked-in,Marco Ferrari,,2026-04-09,2026-05-08,George Brown,555-621-7937,fernpost,FERNPOST,ai_call,Verano Bay
+D100399,Sparrow Smokehouse - Palisade Park,Gatekeeper Demo,Tom Brennan,,2026-01-25,2026-02-13,,+1 555 764 8181,"cadence, 1 location",,referral,Verano Bay
+D100077,Marrow House,Eligible,Tom Brennan,,2026-07-10,2026-07-18,,(555) 474-3374,,,scrape,Verano Bay
+D100330,Verde Y Mar Grill,Not Qualified,Priya Shah,,2026-02-04,2026-03-13,Marcus Le,555.224.9356,"Miguel Andino (Owner), wants pricing",cadence,scrape,Verano Bay
+D100155,Stonecutter Cantina,Eligible,Aisha Karim,,2026-02-26,2026-03-05,Kevin Rodriguez,555.350.6971,wants pricing,,referral,Verano Bay
+D100212,Understory Bistro,Walked-in,Daniel Reyes,,2026-02-23,2026-03-05,Daniel Johnson,555.366.3678,"ironclad, Grace Rodriguez (Managing Partner), 1 location, happy with current setup",ironcladpos,referral,Verano Bay
+D100469,Rosewater Dining Room,Walked-in,Tom Brennan,,2026-03-25,2026-04-15,,5554245646,"ironclad, Jennifer Garcia (Co-Owner), 1 location, happy with current setup",Ironclad POS,scrape,Verano Bay
+D100172,Gallow Kitchen,Eligible,Marco Ferrari,,2026-03-22,2026-04-02,,5552204942,"meridian cloud, Hassan Garcia (Owner)",,referral,Verano Bay
+D100397,Ember Brasserie,Walked-in,Marco Ferrari,,2026-04-25,2026-06-05,,555-673-8815,"Jennifer Novak (Managing Partner), 15 locations",,ai_call,Verano Bay
+D100382,Sparrow Table,Eligible,Marco Ferrari,,2026-05-31,2026-06-01,Raj Nguyen,555.925.2887,northstar,NorthStar,referral,Verano Bay
+D100239,Amber Cantina,Eligible,Aisha Karim,,2026-02-25,2026-03-02,,+15557238052,"vellum restaurant, 1 location",,walk-in,Verano Bay
+D100114,Saffron Osteria,Eligible,Aisha Karim,,2026-05-29,2026-05-29,,+15556765973,,,referral,Verano Bay
+D100007,Rookery House,Closed Won,Daniel Reyes,,2026-05-12,2026-06-07,Robert Singh,+1 555 407 6308,"northstar restaurant, 1 location",Northstar POS,referral,Verano Bay
+D100142,Blue Heron Oyster Bar,Eligible,Tom Brennan,,2026-05-06,2026-05-07,,+15556650346,"orbit systems, 1 location, not interested in QR",Orbit Systems,scrape,Verano Bay
+D100255,Cinder Table,Eligible,Marco Ferrari,,2026-01-26,2026-02-05,,+15555594833,"Angela Garcia (Owner), 7 locations",IRONCLAD,referral,Verano Bay
+D100065,Orchard Wine Bar,Eligible,Tom Brennan,,2026-05-27,2026-05-28,,+15554674585,31 locations,,scrape,Verano Bay
+D100478,Saffron Brasserie Verano Bay,Eligible,Aisha Karim,,2026-03-13,2026-03-13,,+1 555 789 5103,"1 location, happy with current setup",,ai_call,Verano Bay
+D100019,Little Bear Bistro Verano Bay,Not Qualified,Tom Brennan,,2026-06-25,2026-08-03,,+1 555 723 9310,Yolanda Kowalski (Managing Partner),,walk-in,Verano Bay
+D100333,YARROW BISTRO,Eligible,Priya Shah,,2026-02-21,2026-02-28,,5555494041,,,scrape,Verano Bay
+D100465,Dovetail Bistro,Eligible,Aisha Karim,,2026-05-02,2026-05-07,,+15557159728,,,scrape,Verano Bay
+D100269,The Harrow Oyster Bar,KDM Demo,Aisha Karim,,2026-04-14,2026-06-19,,+1 555 139 7671,meridian cloud pos,,human_call,Verano Bay
+D100358,Copper Kitchen,Eligible,Aisha Karim,,2026-03-14,2026-03-25,,(555) 848-4215,Priya Kowalski (General Manager),,walk-in,Verano Bay
+D100261,Dovetail Tavern,Gatekeeper Demo,Daniel Reyes,,2026-04-19,2026-06-11,,555.500.3511,"Deborah Kim (General Manager), 1 location",,referral,Verano Bay
+D100054,Redbird Chophouse,Eligible,Priya Shah,,2026-01-28,2026-02-08,,555-746-8259,"Victor Okafor (Managing Partner), 1 location",,human_call,Verano Bay
+D100471,The Amber Cantina,Eligible,Aisha Karim,,2026-03-24,2026-03-24,,+15557238052,"vellum restaurant, 1 location",,walk-in,Verano Bay
+D100164,The Alder Brasserie,Closed Won,Tom Brennan,,2026-01-28,2026-03-05,Robert Torres,+1 555 266 4575,"Tony Kowalski (Co-Owner), 1 location",Ironclad POS,scrape,Verano Bay
+D100207,Lantern Grill,Eligible,Marco Ferrari,,2026-06-10,2026-06-20,,+15556617407,1 location,,referral,Verano Bay
+D100202,SABLE BISTRO,Eligible,Priya Shah,,2026-04-13,2026-04-22,,(555) 446-7597,,,human_call,Verano Bay
+D100035,Sparrow Room,Eligible,Priya Shah,,2026-03-21,2026-03-23,,555.493.8722,"cadence flex, Marcus Lopez (General Manager), 12 locations",,human_call,Verano Bay
+D100020,HALCYON TRATTORIA,Closed Won,Marco Ferrari,,2026-04-13,2026-05-30,,+15554063156,1 location,,scrape,Verano Bay
+D100186,The Umber Trattoria,Eligible,Daniel Reyes,,2026-04-10,2026-04-11,George Novak,555-769-9100,"fernpost, 1 location",Fern Post,referral,Verano Bay
+D100340,The Rambler Oyster Bar,Walked-in,Priya Shah,,2026-06-15,2026-07-12,,555-806-8249,"ironclad, asked for callback",ironclad,walk-in,Verano Bay
+D100033,The Larkspur Steakhouse,Eligible,Daniel Reyes,,2026-06-16,2026-06-27,,+1 555 295 6959,,,referral,Verano Bay
+D100061,Driftwood House - Sablewood,Walked-in,Aisha Karim,,2026-02-18,2026-04-27,Hassan Lopez,555-145-9750,1 location,,scrape,Verano Bay
+D100082,Redbird Alehouse,Eligible,Tom Brennan,,2026-05-13,2026-05-16,Beatriz Johnson,5551802130,cadence,,walk-in,Verano Bay
+D100407,Tin Roof Wine Bar,KDM Demo,Marco Ferrari,,2026-07-05,2026-08-03,,+1 555 952 8676,"orbit systems, 1 location",ORBIT,ai_call,Verano Bay
+D100430,Thicket Alehouse,Eligible,Daniel Reyes,,2026-04-01,2026-04-09,Sofia Singh,555.601.5891,Hassan Williams (Operations Manager),,human_call,Verano Bay
+D100360,Heron Dining Room,Eligible,Tom Brennan,,2026-06-13,2026-06-21,Susan Haddad,555.409.8444,"ironclad, Carlos Rossi (GM), 6 locations",Ironclad POS,scrape,Verano Bay
+D100501,Olive & Ash Kitchen - Sunfield,Eligible,Tom Brennan,,2026-04-20,2026-04-20,,555-221-8191,"cadence station, Nicole Brown (Owner), 1 location, called twice, gatekeeper",Cadence Station,walk-in,Verano Bay
+D100013,Plumb Taqueria,Eligible,Tom Brennan,,2026-06-02,2026-06-03,,555-915-1393,vellum pos,,ai_call,Verano Bay
+D100270,Fernwood Osteria,Eligible,Priya Shah,,2026-02-27,2026-03-09,Nicole Patel,5555708441,"1 location, not interested in QR",,ai_call,Verano Bay
+D100195,Stonecutter Kitchen,Eligible,Marco Ferrari,,2026-02-06,2026-02-16,Beatriz Miller,+1 555 363 8947,Marcus Andino (Co-Owner),,human_call,Verano Bay
+D100489,Heron Osteria - Templeton - Greenhithe,Eligible,Aisha Karim,,2026-07-23,2026-07-23,,+15558316871,quillpay pos,QuillPay,ai_call,Verano Bay
+D100494,Thistle Trattoria Verano Bay,Eligible,Daniel Reyes,,2026-06-28,2026-06-28,,555.931.1253,Yolanda Hernandez (Managing Partner),,walk-in,Verano Bay
+D100288,Cobalt Room - Lantern Hill,Eligible,Aisha Karim,,2026-04-27,2026-05-03,,+15555012100,"Kevin Doyle (Owner), 1 location",,ai_call,Verano Bay
+D100211,Nine Bridges Supper Club,KDM Demo,Aisha Karim,,2026-05-18,2026-07-14,Luis Le,555.598.4160,Tony Miller (Managing Partner),,referral,Verano Bay
+D100279,Oxbow Steakhouse Restaurant,Walked-in,Priya Shah,,2026-06-20,2026-08-03,,555-711-1637,Peter Garcia (Owner),,walk-in,Verano Bay
+D100253,Pike Trattoria,Walked-in,Marco Ferrari,,2026-02-02,2026-03-21,Daniel Bianchi,(555) 385-3509,"ironclad, Ahmed Murphy (Operations Manager), 1 location",,scrape,Verano Bay
+D100008,Alder Wine Bar - Cedar Cross,Eligible,Tom Brennan,,2026-03-26,2026-04-02,,5558863833,Monica Garcia (Managing Partner),,referral,Verano Bay
+D100460,Orchard Brasserie,Eligible,Marco Ferrari,,2026-07-06,2026-07-16,,5559991448,"meridian cloud, Paul Hernandez (Operations Manager), 60 locations",,walk-in,Verano Bay
+D100432,Quarry Bistro - Harbor Point,KDM Demo,Daniel Reyes,,2026-02-15,2026-03-05,,+1 555 623 3101,"Yolanda Williams (Operations Manager), 11 locations",Cadence Station,walk-in,Verano Bay
+D100185,Tallgrass Grill,Eligible,Priya Shah,,2026-06-26,2026-06-26,,5559618056,"vellum restaurant, Yolanda Reyes (Co-Owner), 7 locations, happy with current setup",,ai_call,Verano Bay
+D100299,Alder Alehouse,Eligible,Daniel Reyes,,2026-05-27,2026-06-06,Raj Novak,+15554530531,"Peter Williams (Owner), 1 location",,walk-in,Verano Bay
+D100022,Sorrel Bistro,Eligible,Tom Brennan,,2026-04-14,2026-04-18,,5554934022,"northstar, asked for callback",,walk-in,Verano Bay
+D100115,Understory Tavern,Eligible,Tom Brennan,,2026-03-08,2026-03-19,Frank Nguyen,+15556643643,"cadence pos, Ana Silva (General Manager), 1 location",Cadence Mini,ai_call,Verano Bay
+D100406,Halcyon Wine Bar - Miradero,Eligible,Daniel Reyes,,2026-06-30,2026-07-10,,555-495-5745,"James Doyle (GM), 1 location, asked for callback",,walk-in,Verano Bay
+D100503,NIGHTJAR ROOM,Walked-in,Marco Ferrari,,2026-06-19,2026-06-19,,(555) 381-2522,"Ahmed Rossi (Operations Manager), 1 location",,referral,Verano Bay
+D100018,Lantern Cantina,Eligible,Aisha Karim,,2026-07-07,2026-07-19,,(555) 832-0667,,IRONCLAD,scrape,Verano Bay
+D100359,Thistle Kitchen,Eligible,Marco Ferrari,,2026-02-14,2026-02-25,,+1 555 648 9747,"ironclad, Luis Miller (Co-Owner)",ironcladpos,ai_call,Verano Bay
+D100030,Tidewater Alehouse Verano Bay,Eligible,Marco Ferrari,,2026-04-12,2026-04-23,,555.115.9442,"ironcladpos, Michael Patel (Owner), 1 location",IRONCLAD,walk-in,Verano Bay
+D100482,Loam Room Verano Bay,Eligible,Aisha Karim,,2026-07-30,2026-07-30,,+1 555 949 4642,"Carlos Brown (Owner), 13 locations",,walk-in,Verano Bay
+D100354,Kingfisher Bistro - Quarry End,Not Qualified,Daniel Reyes,,2026-04-02,2026-05-16,Ana Garcia,+15553740494,"Daniel Patel (Owner), not interested in QR",,scrape,Verano Bay
+D100433,Anchor Chophouse,Eligible,Daniel Reyes,,2026-02-01,2026-02-11,,5553545186,"cadence, Frank Garcia (Co-Owner)",,human_call,Verano Bay
+D100248,Copper House - Fox Hollow,Eligible,Daniel Reyes,,2026-06-20,2026-06-29,Victor Lopez,+15553009087,"ironcladpos, 10 locations",IRONCLAD,human_call,Verano Bay
+D100132,Sixpence Tavern,Eligible,Daniel Reyes,,2026-06-09,2026-06-19,Beatriz Bianchi,+1 555 248 6437,"ironclad, Ana Novak (Owner)",ironclad,referral,Verano Bay
+D100287,Thistle Room Restaurant,Eligible,Aisha Karim,,2026-06-30,2026-07-08,Christina Petrou,555-278-4765,,,referral,Verano Bay
+D100339,Plumb Supper Club,Eligible,Marco Ferrari,,2026-02-28,2026-03-11,,555-421-2967,not interested in QR,,walk-in,Verano Bay
+D100200,Redbird House Verano Bay,Walked-in,Marco Ferrari,,2026-07-10,2026-08-03,,5559054701,"Hassan Vasquez (Owner), wants pricing",,referral,Verano Bay
+D100265,Thistle Osteria,Eligible,Daniel Reyes,,2026-02-16,2026-02-27,,555.665.6331,"ironclad pos, 11 locations",,scrape,Verano Bay
+D100139,Nightjar Brasserie,Eligible,Daniel Reyes,,2026-02-03,2026-02-03,,555.457.1425,1 location,,human_call,Verano Bay
+D100257,Marrow Tavern Restaurant,Eligible,Aisha Karim,,2026-06-22,2026-06-26,,+15551251480,"northstar, Peter Haddad (Owner)",,ai_call,Verano Bay
+D100462,PRAIRIE OSTERIA,Eligible,Marco Ferrari,,2026-03-10,2026-03-18,,5554983977,"cadence pos, called twice, gatekeeper",,human_call,Verano Bay
+D100496,Pike Smokehouse - Kingsway Restaurant,Eligible,Priya Shah,,2026-04-01,2026-04-01,,5555179340,"vellum, Elena Murphy (Operations Manager), 1 location, asked for callback",,ai_call,Verano Bay
+D100069,Silverfin House,KDM Demo,Aisha Karim,,2026-03-02,2026-05-04,Maria Le,+1 555 599 3078,Carlos Vasquez (Operations Manager),,human_call,Verano Bay
+D100206,Gallow Table,Eligible,Tom Brennan,,2026-03-23,2026-03-28,,555.928.6828,"Emily Kowalski (Operations Manager), 33 locations",,scrape,Verano Bay
+D100321,Fallowfield Wine Bar,Eligible,Priya Shah,,2026-02-17,2026-02-20,,+1 555 363 8823,44 locations,,ai_call,Verano Bay
+D100209,Kinship Oyster Bar,KDM Demo,Daniel Reyes,,2026-07-04,2026-07-16,,+1 555 458 3854,cadence,,human_call,Verano Bay
+D100335,Understory Room - Sunfield,Eligible,Priya Shah,,2026-02-10,2026-02-18,,555.283.3537,"Priya Rodriguez (Co-Owner), 1 location",Cadence,scrape,Verano Bay
+D100425,Bluebird Dining Room,Eligible,Marco Ferrari,,2026-02-09,2026-02-10,,555-244-8281,George Hernandez (Owner),IRONCLAD,human_call,Verano Bay
+D100221,Silverfin Alehouse,Eligible,Marco Ferrari,,2026-02-26,2026-03-04,Deborah Williams,555.943.6020,8 locations,,referral,Verano Bay
+D100056,Thistle Taqueria,KDM Demo,Daniel Reyes,,2026-02-16,2026-04-14,,+1 555 909 4188,,,walk-in,Verano Bay
+D100070,The Dovetail Cantina,Walked-in,Priya Shah,,2026-02-23,2026-03-16,,(555) 367-2287,cadence,,walk-in,Verano Bay
+D100036,Loam Tavern,Eligible,Daniel Reyes,,2026-07-11,2026-07-19,Carlos Torres,555.370.6105,Grace Williams (Operations Manager),,walk-in,Verano Bay
+D100363,Vesper Dining Room,Walked-in,Tom Brennan,,2026-06-09,2026-08-03,Monica Kim,555-438-5425,1 location,ironcladpos,walk-in,Verano Bay
+D100116,Palisade Table,Eligible,Marco Ferrari,,2026-05-10,2026-05-11,,+15553218989,1 location,,ai_call,Verano Bay
+D100259,Sable Taqueria,Gatekeeper Demo,Priya Shah,,2026-03-31,2026-05-07,Frank Le,(555) 105-2939,ironclad,ironcladpos,ai_call,Verano Bay

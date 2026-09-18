@@ -1,0 +1,10 @@
+step,rows,dropped,counting
+scraped listings,3498,0,platform listings
+in Verano Bay,3383,115,platform listings
+full-service,2573,810,platform listings
+identifiable,2573,0,platform listings
+distinct restaurants,1391,1182,platform listings
+distinct restaurants,1391,0,restaurants
+POS not ruled out,1096,295,restaurants
+POS confirmed eligible,407,689,restaurants
+not already a customer,404,3,restaurants

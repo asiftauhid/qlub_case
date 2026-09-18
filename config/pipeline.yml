@@ -1,0 +1,12 @@
+# Pipeline settings. Edit here when the data pack or market changes.
+
+market: Verano Bay
+
+# Treat this as "today" for idle-days and similar time-based fields.
+as_of: 2026-08-03
+
+# How many ranked targets go into output/qualified_targets.csv.
+top_n: 50
+
+# Folder under the project root that holds the three CSV extracts.
+data_dir: Verano_Bay_Data_Pack
