@@ -1,4 +1,4 @@
-# Verano Bay" qualified target list
+# Verano Bay: qualified target list
 
 A pipeline that joins three messy extracts: scrape, call log, and CRM into one ranked list of
 restaurants a representative can sell to immediately, along with a research queue for the ones we cannot qualify yet.
@@ -14,8 +14,6 @@ make test      # pytest
 ```
 
 Or, with the venv active: `python -m verano.run`.
-
-For a file-by-file walkthrough of the code and flow, see **`CODEBASE.md`**.
 
 ## Inputs
 
@@ -104,4 +102,5 @@ Re-run of the pipeline should align with the following assumptions:
 ## Limitations
 
 - Representative's observations are the only way to measure POS accuracy over time.
+- POS spelling mistakes are not handled here, so they'll be treated as different POS.
 - Multi-owner deals on the same restaurant are flagged in findings but not auto-resolved.
